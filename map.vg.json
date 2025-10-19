@@ -1,0 +1,88 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Malaysia Death Rate by State per 100,000 People (2000–2023)",
+  "width": 850,
+  "height": 450,
+
+  "params": [
+    {
+      "name": "year_select",
+      "value": 2023,
+      "bind": {
+        "input": "range",
+        "min": 2000,
+        "max": 2023,
+        "step": 1,
+        "name": "Select Year:"
+      }
+    }
+  ],
+
+  "layer": [
+    {
+      "data": {"graticule": {}},
+      "mark": {"type": "geoshape", "stroke": "#e4e3e3", "strokeWidth": 1.5}
+    },
+    {
+      "data": {
+        "url": "Homework10_dataset.csv",
+        "format": {"type": "csv"}
+      },
+      "transform": [
+        {"calculate": "toNumber(split(datum.date, '/')[2])", "as": "year"},
+        {"filter": "datum.year == year_select"},
+        {"filter": "lower(datum.sex) == 'both'"},
+        {"calculate": "toNumber(datum.abs)", "as": "abs_num"},
+        {"calculate": "toNumber(datum.population) * 1000", "as": "population_num"},
+        {"calculate": "(datum.abs_num / datum.population_num) * 100000", "as": "death_rate_per100k"},
+        {
+          "lookup": "state",
+          "from": {
+            "data": {
+              "url": "geoBoundaries-MYS-ADM1_simplified.topojson",
+              "format": {"type": "topojson", "feature": "MYSADM1gbOpen"}
+            },
+            "key": "properties.shapeName",
+            "fields": ["properties", "geometry"]
+          },
+          "as": ["map_props", "map_geom"]
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#000000",
+        "strokeWidth": 0.5
+      },
+      "encoding": {
+        "shape": {"field": "map_geom", "type": "geojson"},
+        "color": {
+          "field": "death_rate_per100k",
+          "type": "quantitative",
+          "title": "Deaths per 100,000 People",
+          "scale": {"scheme": "blues"}
+        },
+        "tooltip": [
+  {"field": "state", "title": "State"},
+  {"field": "year", "title": "Year"},
+  {
+    "field": "death_rate_per100k",
+    "title": "Deaths per 100,000 People",
+    "format": ".0f"
+  },
+  {
+    "field": "abs_num",
+    "title": "Total Deaths",
+    "format": ","
+  },
+  {
+    "field": "population_num",
+    "title": "Population",
+    "format": ","
+  }
+]
+      }
+    }
+  ],
+
+  "projection": {"type": "equalEarth", "center": [110, 4], "scale": 2350}
+}

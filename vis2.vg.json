@@ -1,0 +1,139 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Total Death of Malaysians by Gender & Ethnicity (2000–2023)",
+  "width": 850,
+  "height": 450,
+  "data": {"url": "Homework10_dataset.csv"},
+
+  "params": [
+    {
+      "name": "sex_selection",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "options": ["All", "male", "female"],
+        "labels": ["All", "Male", "Female"],
+        "name": "Choose Sex: "
+      }
+    },
+    {
+      "name": "ethnicity_selection",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "options": ["All", "bumi_malay", "chinese", "indian"],
+        "labels": ["All", "Bumiputera Malay", "Chinese", "Indian"],
+        "name": "Choose Ethnicity: "
+      }
+    }
+  ],
+
+  "transform": [
+    {
+      "filter": "(datum.sex != 'both') && (sex_selection == 'All' || datum.sex == sex_selection) && (ethnicity_selection == 'All' || datum.ethnicity == ethnicity_selection)"
+    },
+    {
+      "calculate": "sex_selection == 'All' ? datum.ethnicity : datum.sex",
+      "as": "color_field"
+    },
+    {
+      "calculate": "datum.ethnicity == 'bumi_malay' ? 'Bumiputera Malay' : datum.ethnicity == 'chinese' ? 'Chinese' : datum.ethnicity == 'indian' ? 'Indian' : datum.ethnicity",
+      "as": "ethnicity_label"
+    },
+    {
+      "calculate": "datum.sex == 'male' ? 'Male' : datum.sex == 'female' ? 'Female' : datum.sex",
+      "as": "sex_label"
+    }
+  ],
+
+  "layer": [
+    {
+      "mark": {"type": "bar"},
+      "encoding": {
+        "x": {
+          "field": "state",
+          "type": "nominal",
+          "sort": {"op": "sum", "field": "abs", "order": "descending"},
+          "axis": {"title": "State", "labelAngle": -50}
+        },
+        "y": {
+          "aggregate": "sum",
+          "field": "abs",
+          "type": "quantitative",
+          "axis": {"title": "Total Deaths"}
+        },
+        "color": {
+          "field": "color_field",
+          "type": "nominal",
+          "title": "Category",
+          "scale": {
+            "domain": ["male", "female", "bumi_malay", "chinese", "indian"],
+            "range": ["#377eb8", "#ff7f0e", "#984ea3", "#a65628", "#ff7f00"]
+          }
+        },
+        "tooltip": [
+          {"field": "state", "title": "State"},
+          {"field": "sex_label", "title": "Sex"},
+          {"field": "ethnicity_label", "title": "Ethnicity"},
+          {
+            "aggregate": "sum",
+            "field": "abs",
+            "type": "quantitative",
+            "title": "Total Deaths",
+            "format": ","
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "dy": -5,
+        "fontSize": 11,
+        "fontWeight": "bold",
+        "color": "black"
+      },
+      "encoding": {
+        "x": {
+          "field": "state",
+          "type": "nominal",
+          "sort": {"op": "sum", "field": "abs"}
+        },
+        "y": {"aggregate": "sum", "field": "abs", "type": "quantitative"},
+        "text": {"aggregate": "sum", "field": "abs", "format": ","}
+      }
+    },
+
+    {
+      "transform": [
+        {
+          "aggregate": [{"op": "sum", "field": "abs", "as": "total_deaths"}],
+          "groupby": ["state"]
+        },
+        {
+          "joinaggregate": [
+            {"op": "argmax", "field": "total_deaths", "as": "max_state"},
+            {"op": "argmin", "field": "total_deaths", "as": "min_state"}
+          ]
+        },
+        {
+          "calculate": "'Highest Death State: ' + datum.max_state.state + ' | Lowest Death State: ' + datum.min_state.state",
+          "as": "annotation_text"
+        },
+        {
+          "aggregate": [{"op": "max", "field": "annotation_text", "as": "annotation_text"}]
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "x": 425,
+        "y": 20,
+        "align": "center",
+        "fontSize": 13,
+        "fontWeight": "bold",
+        "color": "black"
+      },
+      "encoding": {"text": {"field": "annotation_text"}}
+    }
+  ]
+}

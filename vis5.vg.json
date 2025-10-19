@@ -1,0 +1,115 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Population vs Death Rate by State in Malaysia (2000–2023)",
+  "width": 850,
+  "height": 400,
+  "data": {"url": "Homework10_dataset.csv"},
+
+  "params": [
+    {
+      "name": "year_select",
+      "value": 2023,
+      "bind": {
+        "input": "range",
+        "min": 2000,
+        "max": 2023,
+        "step": 1,
+        "name": "Select Year:"
+      }
+    }
+  ],
+
+  "transform": [
+    {
+      "calculate": "datetime(+split(datum.date, '/')[2], +split(datum.date, '/')[0]-1, +split(datum.date, '/')[1])",
+      "as": "date_parsed"
+    },
+    {"calculate": "year(datum.date_parsed)", "as": "year"},
+    {"filter": "datum.year == year_select"},
+    {
+      "aggregate": [
+        {"op": "sum", "field": "abs", "as": "total_deaths"},
+        {"op": "mean", "field": "population", "as": "population_mean"}
+      ],
+      "groupby": ["state", "year"]
+    },
+    {
+      "calculate": "datum.population_mean * 1000",
+      "as": "population_actual"
+    },
+    {
+      "calculate": "(datum.total_deaths / datum.population_actual) * 100000",
+      "as": "death_rate"
+    }
+  ],
+
+  "layer": [
+    {
+      "mark": {
+        "type": "circle",
+        "opacity": 0.8,
+        "stroke": "black",
+        "strokeWidth": 0.5,
+        "size": 80
+      },
+      "encoding": {
+        "x": {
+          "field": "population_actual",
+          "type": "quantitative",
+          "title": "Population"
+        },
+        "y": {
+          "field": "death_rate",
+          "type": "quantitative",
+          "title": "Death Rate (per 100,000 population)"
+        },
+        "color": {
+          "field": "state",
+          "type": "nominal",
+          "title": "State",
+          "scale": {"scheme": "paired"}
+        },
+        "tooltip": [
+          {"field": "state", "title": "State"},
+          {
+            "field": "population_actual",
+            "type": "quantitative",
+            "title": "Population",
+            "format": ",.0f" 
+
+          },
+          {
+            "field": "death_rate",
+            "type": "quantitative",
+            "title": "Death Rate",
+            "format": ".0f"
+          },
+          {"field": "year", "title": "Year"}
+        ]
+      }
+    },
+    {
+      "transform": [
+        {"window": [{"op": "max", "field": "death_rate", "as": "max_death"}]},
+        {"filter": "datum.death_rate == datum.max_death"},
+        {
+          "calculate": "'Highest Death Rate: ' + datum.state + ', ' + format(datum.death_rate, '.0f') + ' People' + ' (' + datum.year + ')' ",
+          "as": "annotation_text"
+        },
+        {"aggregate": [{"op": "max", "field": "annotation_text", "as": "annotation_text"}]}
+      ],
+      "mark": {
+        "type": "text",
+        "x": 800,
+        "y": 25,
+        "align": "right",
+        "fontSize": 13,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "text": {"field": "annotation_text"},
+        "color": {"value": "black"}
+      }
+    }
+  ]
+}

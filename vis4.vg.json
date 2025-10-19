@@ -1,0 +1,124 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": { "url": "Homework10_dataset.csv" },
+  "params": [
+    {
+      "name": "year_sel",
+      "value": 2023,
+      "bind": {
+        "input": "select",
+        "name": "Select Year: ",
+        "options": [
+          2000,2001,2002,2003,2004,2005,2006,2007,
+          2008,2009,2010,2011,2012,2013,2014,2015,
+          2016,2017,2018,2019,2020,2021,2022,2023
+        ]
+      }
+    }
+  ],
+
+  "transform": [
+    {
+      "calculate": "datetime(+split(datum.date, '/')[2], +split(datum.date, '/')[0]-1, +split(datum.date, '/')[1])",
+      "as": "date_parsed"
+    },
+    { "calculate": "year(datum.date_parsed)", "as": "year" },
+    { "calculate": "toNumber(datum.population) * 1000", "as": "population_num" },
+
+    { "filter": "datum.ethnicity == 'bumi_malay' || datum.ethnicity == 'chinese' || datum.ethnicity == 'indian'" },
+    { "filter": "datum.year == year_sel" },
+    { "filter": "datum.sex != 'both'" },
+
+    {
+      "calculate": "datum.ethnicity == 'bumi_malay' ? 'BumiPutera Malay' : datum.ethnicity == 'chinese' ? 'Chinese' : datum.ethnicity == 'indian' ? 'Indian' : datum.ethnicity",
+      "as": "ethnicity_label"
+    },
+    {
+      "calculate": "datum.sex == 'male' ? 'Male' : datum.sex == 'female' ? 'Female' : datum.sex",
+      "as": "sex_label"
+    },
+
+    {
+      "aggregate": [{"op": "sum", "field": "population_num", "as": "pop_sum"}],
+      "groupby": ["ethnicity_label", "sex_label"]
+    },
+    {
+      "joinaggregate": [{"op": "sum", "field": "pop_sum", "as": "ethnicity_total"}],
+      "groupby": ["ethnicity_label"]
+    },
+    { "calculate": "datum.pop_sum / datum.ethnicity_total", "as": "ethnicity_pie" }
+  ],
+
+  "facet": {
+    "field": "ethnicity_label",
+    "type": "nominal",
+    "header": {
+      "labelFontSize": 15,
+      "title":"Population Distribution by Ethnic Groups in Malaysia (2000–2023)",
+      "titleFontSize": 18
+    }
+  },
+
+  "spec": {
+    "width": 300,
+    "height": 250,
+    "layer": [
+      {
+        "mark": {"type": "arc", "outerRadius": 100, "stroke": "#fff"},
+        "encoding": {
+          "theta": {
+            "field": "ethnicity_pie",
+            "type": "quantitative",
+            "stack": true
+          },
+          "color": {
+            "field": "sex_label",
+            "type": "nominal",
+            "title": "Sex",
+            "scale": {
+              "domain": ["Male", "Female"],
+              "range": ["#1f77b4", "#ff7f0e"]
+            }
+          },
+          "tooltip": [
+            {"field": "ethnicity_label", "title": "Ethnicity"},
+            {"field": "sex_label", "title": "Sex"},
+            {
+              "field": "pop_sum",
+              "type": "quantitative",
+              "title": "Population",
+              "format": ","
+            },
+            {
+              "field": "ethnicity_pie",
+              "type": "quantitative",
+              "title": "Percentage (%)",
+              "format": ".1%"
+            }
+          ]
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "fontSize": 14,
+          "fontWeight": "bold",
+          "fill": "black"
+        },
+        "encoding": {
+          "text": {
+            "field": "ethnicity_pie",
+            "type": "quantitative",
+            "format": ".1%"
+          },
+          "theta": {
+            "field": "ethnicity_pie",
+            "type": "quantitative",
+            "stack": true
+          },
+          "radius": {"value": 60}
+        }
+      }
+    ]
+  }
+}

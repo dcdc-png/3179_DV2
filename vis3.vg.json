@@ -1,0 +1,93 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": { "url": "Homework10_dataset.csv" },
+  "title": "Population Growth by State in Malaysia (2000–2023)",
+  
+  "columns": 4,
+
+  "params": [
+    {
+      "name": "year_start",
+      "value": 2000,
+      "bind": {
+        "input": "range",
+        "min": 2000,
+        "max": 2023,
+        "step": 1,
+        "name": "Start Year:"
+      }
+    },
+    {
+      "name": "year_end",
+      "value": 2023,
+      "bind": {
+        "input": "range",
+        "min": 2000,
+        "max": 2023,
+        "step": 1,
+        "name": "End Year:"
+      }
+    }
+  ],
+
+  "transform": [
+    {
+      "calculate": "datetime(+split(datum.date, '/')[2], +split(datum.date, '/')[0]-1, +split(datum.date, '/')[1])",
+      "as": "date_parsed"
+    },
+    { "calculate": "year(datum.date_parsed)", "as": "year" },
+    { "calculate": "toNumber(datum.population) * 1000", "as": "population_num" },
+    { "calculate": "datum.state", "as": "state_str" },
+
+    { "filter": "datum.sex == 'both'" },
+    { "filter": "datum.ethnicity == 'chinese' || datum.ethnicity == 'indian' || datum.ethnicity == 'bumi_malay'" },
+    { "filter": "datum.year >= year_start && datum.year <= year_end" },
+
+    {
+      "aggregate": [
+        {"op": "sum", "field": "population_num", "as": "total_population"}
+      ],
+      "groupby": ["year", "state_str"]
+    }
+  ],
+
+  "facet": {
+    "field": "state_str",
+    "title": null
+  },
+
+  "spec": {
+    "width": 180,
+    "height": 100,
+    "mark": {
+      "type": "line",
+      "point": true,
+      "interpolate": "monotone"
+    },
+    "encoding": {
+    "x": {
+    "field": "year",
+    "type": "quantitative",
+    "axis": {
+        "values": [2000, 2005, 2010, 2015, 2020, 2023],
+        "labelFontSize": 8
+    },
+    "scale": {"domain": [2000, 2023]},
+    "title": null
+    },
+
+      "y": {
+        "field": "total_population",
+        "type": "quantitative",
+        "title": "Total Population",
+        "axis": {"labelFontSize": 8}
+      },
+      "color": {"value": "#1f77b4"},
+      "tooltip": [
+        {"field": "state_str", "title": "State"},
+        {"field": "year", "title": "Year"},
+        {"field": "total_population", "title": "Total Population", "format": ","}
+      ]
+    }
+  }
+}

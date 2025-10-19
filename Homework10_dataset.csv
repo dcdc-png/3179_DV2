@@ -1,0 +1,3367 @@
+state,date,sex,ethnicity,population,abs
+Johor,1/1/2000,female,bumi_malay,718.2,2760
+Johor,1/1/2000,male,bumi_malay,734.3,3985
+Johor,1/1/2001,female,bumi_malay,734.6,3032
+Johor,1/1/2001,male,bumi_malay,752.3,4263
+Johor,1/1/2002,female,bumi_malay,750.4,3274
+Johor,1/1/2002,male,bumi_malay,769.5,4332
+Johor,1/1/2003,female,bumi_malay,765.2,3204
+Johor,1/1/2003,male,bumi_malay,785.8,4436
+Johor,1/1/2004,female,bumi_malay,780.6,3253
+Johor,1/1/2004,male,bumi_malay,802.2,4463
+Johor,1/1/2005,female,bumi_malay,795.4,3387
+Johor,1/1/2005,male,bumi_malay,818.5,4582
+Johor,1/1/2006,female,bumi_malay,810.3,3463
+Johor,1/1/2006,male,bumi_malay,834.7,4714
+Johor,1/1/2007,female,bumi_malay,825,3529
+Johor,1/1/2007,male,bumi_malay,850.6,5010
+Johor,1/1/2008,female,bumi_malay,839.5,3818
+Johor,1/1/2008,male,bumi_malay,866.2,5149
+Johor,1/1/2009,female,bumi_malay,853.5,3768
+Johor,1/1/2009,male,bumi_malay,881.8,5193
+Johor,1/1/2010,female,bumi_malay,868.2,3712
+Johor,1/1/2010,male,bumi_malay,898.3,5285
+Johor,1/1/2011,female,bumi_malay,881.2,3876
+Johor,1/1/2011,male,bumi_malay,911.1,5273
+Johor,1/1/2012,female,bumi_malay,890.1,4148
+Johor,1/1/2012,male,bumi_malay,922.4,5474
+Johor,1/1/2013,female,bumi_malay,900.7,4231
+Johor,1/1/2013,male,bumi_malay,932.1,5627
+Johor,1/1/2014,female,bumi_malay,914.3,4204
+Johor,1/1/2014,male,bumi_malay,944.4,5671
+Johor,1/1/2015,female,bumi_malay,929,4466
+Johor,1/1/2015,male,bumi_malay,957.5,6008
+Johor,1/1/2016,female,bumi_malay,940.4,4767
+Johor,1/1/2016,male,bumi_malay,968.2,6389
+Johor,1/1/2017,female,bumi_malay,956,4911
+Johor,1/1/2017,male,bumi_malay,981,6636
+Johor,1/1/2018,female,bumi_malay,973.6,5027
+Johor,1/1/2018,male,bumi_malay,997.7,6785
+Johor,1/1/2019,female,bumi_malay,991.4,5234
+Johor,1/1/2019,male,bumi_malay,1014.1,6928
+Johor,1/1/2020,female,bumi_malay,1062,4831
+Johor,1/1/2020,male,bumi_malay,1096.4,6645
+Johor,1/1/2021,female,bumi_malay,1077.5,6736
+Johor,1/1/2021,male,bumi_malay,1111.2,8554
+Johor,1/1/2022,female,bumi_malay,1087.8,6296
+Johor,1/1/2022,male,bumi_malay,1120.7,8021
+Johor,1/1/2023,female,bumi_malay,1100.7,5909
+Johor,1/1/2023,male,bumi_malay,1133.1,7654
+Kedah,1/1/2000,female,bumi_malay,633.4,2971
+Kedah,1/1/2000,male,bumi_malay,622.8,3701
+Kedah,1/1/2001,female,bumi_malay,644.2,3033
+Kedah,1/1/2001,male,bumi_malay,635,3848
+Kedah,1/1/2002,female,bumi_malay,654.9,3225
+Kedah,1/1/2002,male,bumi_malay,646.8,4121
+Kedah,1/1/2003,female,bumi_malay,664.7,3503
+Kedah,1/1/2003,male,bumi_malay,657.9,4280
+Kedah,1/1/2004,female,bumi_malay,674.7,3340
+Kedah,1/1/2004,male,bumi_malay,668.7,4194
+Kedah,1/1/2005,female,bumi_malay,684.5,3480
+Kedah,1/1/2005,male,bumi_malay,679.3,4249
+Kedah,1/1/2006,female,bumi_malay,693.9,3587
+Kedah,1/1/2006,male,bumi_malay,689.7,4504
+Kedah,1/1/2007,female,bumi_malay,703.3,3660
+Kedah,1/1/2007,male,bumi_malay,699.8,4597
+Kedah,1/1/2008,female,bumi_malay,712.5,3664
+Kedah,1/1/2008,male,bumi_malay,709.7,4643
+Kedah,1/1/2009,female,bumi_malay,721.7,3921
+Kedah,1/1/2009,male,bumi_malay,720.1,4991
+Kedah,1/1/2010,female,bumi_malay,732.2,3933
+Kedah,1/1/2010,male,bumi_malay,731.4,4917
+Kedah,1/1/2011,female,bumi_malay,741.3,3888
+Kedah,1/1/2011,male,bumi_malay,739.9,5151
+Kedah,1/1/2012,female,bumi_malay,754.5,4047
+Kedah,1/1/2012,male,bumi_malay,753.9,5330
+Kedah,1/1/2013,female,bumi_malay,767.7,4231
+Kedah,1/1/2013,male,bumi_malay,765.8,5342
+Kedah,1/1/2014,female,bumi_malay,780.2,4355
+Kedah,1/1/2014,male,bumi_malay,777.8,5622
+Kedah,1/1/2015,female,bumi_malay,793.4,4617
+Kedah,1/1/2015,male,bumi_malay,790.1,5904
+Kedah,1/1/2016,female,bumi_malay,803.7,4744
+Kedah,1/1/2016,male,bumi_malay,799.3,5887
+Kedah,1/1/2017,female,bumi_malay,814.4,4973
+Kedah,1/1/2017,male,bumi_malay,811,6188
+Kedah,1/1/2018,female,bumi_malay,823.5,5007
+Kedah,1/1/2018,male,bumi_malay,819.5,6285
+Kedah,1/1/2019,female,bumi_malay,833.1,4870
+Kedah,1/1/2019,male,bumi_malay,827.9,6104
+Kedah,1/1/2020,female,bumi_malay,810.1,4655
+Kedah,1/1/2020,male,bumi_malay,814.7,5885
+Kedah,1/1/2021,female,bumi_malay,824.5,6662
+Kedah,1/1/2021,male,bumi_malay,828.4,7652
+Kedah,1/1/2022,female,bumi_malay,830.9,6216
+Kedah,1/1/2022,male,bumi_malay,834.7,7531
+Kedah,1/1/2023,female,bumi_malay,839.4,5749
+Kedah,1/1/2023,male,bumi_malay,842.7,7110
+Kelantan,1/1/2000,female,bumi_malay,632,3059
+Kelantan,1/1/2000,male,bumi_malay,629.4,3987
+Kelantan,1/1/2001,female,bumi_malay,644.8,3203
+Kelantan,1/1/2001,male,bumi_malay,642.5,4013
+Kelantan,1/1/2002,female,bumi_malay,656.5,3296
+Kelantan,1/1/2002,male,bumi_malay,654.8,4405
+Kelantan,1/1/2003,female,bumi_malay,666.9,3410
+Kelantan,1/1/2003,male,bumi_malay,665.4,4598
+Kelantan,1/1/2004,female,bumi_malay,677.5,3382
+Kelantan,1/1/2004,male,bumi_malay,675.5,4552
+Kelantan,1/1/2005,female,bumi_malay,687.2,3508
+Kelantan,1/1/2005,male,bumi_malay,685.6,4677
+Kelantan,1/1/2006,female,bumi_malay,696.6,3641
+Kelantan,1/1/2006,male,bumi_malay,694.9,4657
+Kelantan,1/1/2007,female,bumi_malay,705.9,3705
+Kelantan,1/1/2007,male,bumi_malay,704.5,4845
+Kelantan,1/1/2008,female,bumi_malay,715,3826
+Kelantan,1/1/2008,male,bumi_malay,713.5,5224
+Kelantan,1/1/2009,female,bumi_malay,724.2,4090
+Kelantan,1/1/2009,male,bumi_malay,722.9,5345
+Kelantan,1/1/2010,female,bumi_malay,734.3,3964
+Kelantan,1/1/2010,male,bumi_malay,732.8,5228
+Kelantan,1/1/2011,female,bumi_malay,746.9,4141
+Kelantan,1/1/2011,male,bumi_malay,745.5,5239
+Kelantan,1/1/2012,female,bumi_malay,761.7,4024
+Kelantan,1/1/2012,male,bumi_malay,760.1,5190
+Kelantan,1/1/2013,female,bumi_malay,776.8,4139
+Kelantan,1/1/2013,male,bumi_malay,777,5247
+Kelantan,1/1/2014,female,bumi_malay,791.9,4319
+Kelantan,1/1/2014,male,bumi_malay,793.9,5593
+Kelantan,1/1/2015,female,bumi_malay,808.8,4447
+Kelantan,1/1/2015,male,bumi_malay,811.4,5721
+Kelantan,1/1/2016,female,bumi_malay,824.9,4412
+Kelantan,1/1/2016,male,bumi_malay,828.7,5713
+Kelantan,1/1/2017,female,bumi_malay,839.6,4612
+Kelantan,1/1/2017,male,bumi_malay,843.8,5871
+Kelantan,1/1/2018,female,bumi_malay,853.6,4698
+Kelantan,1/1/2018,male,bumi_malay,859.5,5884
+Kelantan,1/1/2019,female,bumi_malay,866.5,4655
+Kelantan,1/1/2019,male,bumi_malay,873.9,6019
+Kelantan,1/1/2020,female,bumi_malay,837.8,4415
+Kelantan,1/1/2020,male,bumi_malay,833.6,5813
+Kelantan,1/1/2021,female,bumi_malay,849.7,5948
+Kelantan,1/1/2021,male,bumi_malay,845.3,7093
+Kelantan,1/1/2022,female,bumi_malay,859.3,5690
+Kelantan,1/1/2022,male,bumi_malay,854.8,6912
+Kelantan,1/1/2023,female,bumi_malay,870.6,4992
+Kelantan,1/1/2023,male,bumi_malay,866.2,6047
+Malacca,1/1/2000,female,bumi_malay,195.2,1054
+Malacca,1/1/2000,male,bumi_malay,193.4,1168
+Malacca,1/1/2001,female,bumi_malay,202,1043
+Malacca,1/1/2001,male,bumi_malay,199.9,1207
+Malacca,1/1/2002,female,bumi_malay,208.7,1136
+Malacca,1/1/2002,male,bumi_malay,206.1,1292
+Malacca,1/1/2003,female,bumi_malay,215.1,1111
+Malacca,1/1/2003,male,bumi_malay,212.1,1265
+Malacca,1/1/2004,female,bumi_malay,221.9,1134
+Malacca,1/1/2004,male,bumi_malay,218.3,1284
+Malacca,1/1/2005,female,bumi_malay,228.4,1137
+Malacca,1/1/2005,male,bumi_malay,224.4,1368
+Malacca,1/1/2006,female,bumi_malay,235.2,1136
+Malacca,1/1/2006,male,bumi_malay,230.5,1322
+Malacca,1/1/2007,female,bumi_malay,242.1,1128
+Malacca,1/1/2007,male,bumi_malay,236.6,1374
+Malacca,1/1/2008,female,bumi_malay,248.9,1203
+Malacca,1/1/2008,male,bumi_malay,242.8,1478
+Malacca,1/1/2009,female,bumi_malay,255.6,1190
+Malacca,1/1/2009,male,bumi_malay,248.8,1509
+Malacca,1/1/2010,female,bumi_malay,262.4,1178
+Malacca,1/1/2010,male,bumi_malay,254.8,1489
+Malacca,1/1/2011,female,bumi_malay,266.1,1188
+Malacca,1/1/2011,male,bumi_malay,255.2,1525
+Malacca,1/1/2012,female,bumi_malay,268.7,1266
+Malacca,1/1/2012,male,bumi_malay,259.2,1512
+Malacca,1/1/2013,female,bumi_malay,273.5,1314
+Malacca,1/1/2013,male,bumi_malay,263.3,1554
+Malacca,1/1/2014,female,bumi_malay,279.6,1253
+Malacca,1/1/2014,male,bumi_malay,267.9,1621
+Malacca,1/1/2015,female,bumi_malay,285.6,1352
+Malacca,1/1/2015,male,bumi_malay,273.2,1641
+Malacca,1/1/2016,female,bumi_malay,291.1,1410
+Malacca,1/1/2016,male,bumi_malay,277.8,1715
+Malacca,1/1/2017,female,bumi_malay,296.2,1526
+Malacca,1/1/2017,male,bumi_malay,282.6,1777
+Malacca,1/1/2018,female,bumi_malay,300.5,1449
+Malacca,1/1/2018,male,bumi_malay,286.2,1863
+Malacca,1/1/2019,female,bumi_malay,304.8,1522
+Malacca,1/1/2019,male,bumi_malay,289.7,1857
+Malacca,1/1/2020,female,bumi_malay,322.8,1465
+Malacca,1/1/2020,male,bumi_malay,331.1,1779
+Malacca,1/1/2021,female,bumi_malay,327.3,2003
+Malacca,1/1/2021,male,bumi_malay,335.8,2384
+Malacca,1/1/2022,female,bumi_malay,330.6,1859
+Malacca,1/1/2022,male,bumi_malay,339,2201
+Malacca,1/1/2023,female,bumi_malay,334.3,1690
+Malacca,1/1/2023,male,bumi_malay,342.7,2068
+Negeri Sembilan,1/1/2000,female,bumi_malay,231.6,946
+Negeri Sembilan,1/1/2000,male,bumi_malay,235.1,1300
+Negeri Sembilan,1/1/2001,female,bumi_malay,237,1066
+Negeri Sembilan,1/1/2001,male,bumi_malay,240.4,1411
+Negeri Sembilan,1/1/2002,female,bumi_malay,242.2,1149
+Negeri Sembilan,1/1/2002,male,bumi_malay,245.7,1472
+Negeri Sembilan,1/1/2003,female,bumi_malay,247.5,1093
+Negeri Sembilan,1/1/2003,male,bumi_malay,251,1525
+Negeri Sembilan,1/1/2004,female,bumi_malay,253,1103
+Negeri Sembilan,1/1/2004,male,bumi_malay,256.5,1474
+Negeri Sembilan,1/1/2005,female,bumi_malay,258.4,1127
+Negeri Sembilan,1/1/2005,male,bumi_malay,262.1,1582
+Negeri Sembilan,1/1/2006,female,bumi_malay,264,1139
+Negeri Sembilan,1/1/2006,male,bumi_malay,267.7,1602
+Negeri Sembilan,1/1/2007,female,bumi_malay,269.5,1144
+Negeri Sembilan,1/1/2007,male,bumi_malay,273.4,1567
+Negeri Sembilan,1/1/2008,female,bumi_malay,274.9,1314
+Negeri Sembilan,1/1/2008,male,bumi_malay,278.8,1836
+Negeri Sembilan,1/1/2009,female,bumi_malay,280.3,1313
+Negeri Sembilan,1/1/2009,male,bumi_malay,284.1,1822
+Negeri Sembilan,1/1/2010,female,bumi_malay,285.6,1310
+Negeri Sembilan,1/1/2010,male,bumi_malay,289.5,1808
+Negeri Sembilan,1/1/2011,female,bumi_malay,290.3,1364
+Negeri Sembilan,1/1/2011,male,bumi_malay,294.2,1814
+Negeri Sembilan,1/1/2012,female,bumi_malay,291.9,1411
+Negeri Sembilan,1/1/2012,male,bumi_malay,295.9,1761
+Negeri Sembilan,1/1/2013,female,bumi_malay,294.3,1439
+Negeri Sembilan,1/1/2013,male,bumi_malay,297.3,1894
+Negeri Sembilan,1/1/2014,female,bumi_malay,298,1501
+Negeri Sembilan,1/1/2014,male,bumi_malay,297.9,1940
+Negeri Sembilan,1/1/2015,female,bumi_malay,303.1,1557
+Negeri Sembilan,1/1/2015,male,bumi_malay,303,2041
+Negeri Sembilan,1/1/2016,female,bumi_malay,306.2,1625
+Negeri Sembilan,1/1/2016,male,bumi_malay,305.3,2058
+Negeri Sembilan,1/1/2017,female,bumi_malay,312.3,1658
+Negeri Sembilan,1/1/2017,male,bumi_malay,311.3,2213
+Negeri Sembilan,1/1/2018,female,bumi_malay,316.4,1692
+Negeri Sembilan,1/1/2018,male,bumi_malay,315.3,2330
+Negeri Sembilan,1/1/2019,female,bumi_malay,320.8,1688
+Negeri Sembilan,1/1/2019,male,bumi_malay,318.8,2259
+Negeri Sembilan,1/1/2020,female,bumi_malay,342.6,1623
+Negeri Sembilan,1/1/2020,male,bumi_malay,350.6,2202
+Negeri Sembilan,1/1/2021,female,bumi_malay,348.3,2265
+Negeri Sembilan,1/1/2021,male,bumi_malay,356.1,2811
+Negeri Sembilan,1/1/2022,female,bumi_malay,351.9,2107
+Negeri Sembilan,1/1/2022,male,bumi_malay,359.9,2699
+Negeri Sembilan,1/1/2023,female,bumi_malay,356,1986
+Negeri Sembilan,1/1/2023,male,bumi_malay,363.9,2569
+Pahang,1/1/2000,female,bumi_malay,434.7,1485
+Pahang,1/1/2000,male,bumi_malay,451.7,2204
+Pahang,1/1/2001,female,bumi_malay,442.3,1519
+Pahang,1/1/2001,male,bumi_malay,460.6,2290
+Pahang,1/1/2002,female,bumi_malay,449.8,1666
+Pahang,1/1/2002,male,bumi_malay,470.1,2601
+Pahang,1/1/2003,female,bumi_malay,457.6,1625
+Pahang,1/1/2003,male,bumi_malay,479.6,2565
+Pahang,1/1/2004,female,bumi_malay,464.5,1674
+Pahang,1/1/2004,male,bumi_malay,488.9,2612
+Pahang,1/1/2005,female,bumi_malay,472.1,1722
+Pahang,1/1/2005,male,bumi_malay,497.8,2705
+Pahang,1/1/2006,female,bumi_malay,479.4,1791
+Pahang,1/1/2006,male,bumi_malay,506.9,2812
+Pahang,1/1/2007,female,bumi_malay,486.6,1848
+Pahang,1/1/2007,male,bumi_malay,515.8,2848
+Pahang,1/1/2008,female,bumi_malay,493.6,1905
+Pahang,1/1/2008,male,bumi_malay,524.9,3030
+Pahang,1/1/2009,female,bumi_malay,500.4,2047
+Pahang,1/1/2009,male,bumi_malay,534,3144
+Pahang,1/1/2010,female,bumi_malay,507.9,2194
+Pahang,1/1/2010,male,bumi_malay,544.3,3286
+Pahang,1/1/2011,female,bumi_malay,514.6,2239
+Pahang,1/1/2011,male,bumi_malay,553.2,3313
+Pahang,1/1/2012,female,bumi_malay,521.3,2185
+Pahang,1/1/2012,male,bumi_malay,559.6,3290
+Pahang,1/1/2013,female,bumi_malay,529.3,2265
+Pahang,1/1/2013,male,bumi_malay,565.3,3389
+Pahang,1/1/2014,female,bumi_malay,538.5,2297
+Pahang,1/1/2014,male,bumi_malay,573.2,3578
+Pahang,1/1/2015,female,bumi_malay,547.3,2469
+Pahang,1/1/2015,male,bumi_malay,579.7,3568
+Pahang,1/1/2016,female,bumi_malay,555.8,2573
+Pahang,1/1/2016,male,bumi_malay,585.8,3742
+Pahang,1/1/2017,female,bumi_malay,563.2,2743
+Pahang,1/1/2017,male,bumi_malay,593.6,3837
+Pahang,1/1/2018,female,bumi_malay,570.6,2712
+Pahang,1/1/2018,male,bumi_malay,599.8,3873
+Pahang,1/1/2019,female,bumi_malay,577.7,2763
+Pahang,1/1/2019,male,bumi_malay,606.2,3740
+Pahang,1/1/2020,female,bumi_malay,556.6,2552
+Pahang,1/1/2020,male,bumi_malay,577.7,3562
+Pahang,1/1/2021,female,bumi_malay,564.5,3042
+Pahang,1/1/2021,male,bumi_malay,585.2,4251
+Pahang,1/1/2022,female,bumi_malay,570.8,3240
+Pahang,1/1/2022,male,bumi_malay,590.6,4632
+Pahang,1/1/2023,female,bumi_malay,577.4,3201
+Pahang,1/1/2023,male,bumi_malay,596.5,4266
+Perak,1/1/2000,female,bumi_malay,535.8,2565
+Perak,1/1/2000,male,bumi_malay,533.2,3479
+Perak,1/1/2001,female,bumi_malay,546.2,2855
+Perak,1/1/2001,male,bumi_malay,544.3,3530
+Perak,1/1/2002,female,bumi_malay,555.5,2965
+Perak,1/1/2002,male,bumi_malay,554.1,3916
+Perak,1/1/2003,female,bumi_malay,564.2,3081
+Perak,1/1/2003,male,bumi_malay,563.2,4017
+Perak,1/1/2004,female,bumi_malay,573.1,2949
+Perak,1/1/2004,male,bumi_malay,572.3,3916
+Perak,1/1/2005,female,bumi_malay,582.1,3012
+Perak,1/1/2005,male,bumi_malay,581.4,3851
+Perak,1/1/2006,female,bumi_malay,590.9,3158
+Perak,1/1/2006,male,bumi_malay,590.4,3966
+Perak,1/1/2007,female,bumi_malay,599.4,3247
+Perak,1/1/2007,male,bumi_malay,599,4071
+Perak,1/1/2008,female,bumi_malay,607.2,3350
+Perak,1/1/2008,male,bumi_malay,607.1,4246
+Perak,1/1/2009,female,bumi_malay,615,3419
+Perak,1/1/2009,male,bumi_malay,614.9,4318
+Perak,1/1/2010,female,bumi_malay,623.5,3288
+Perak,1/1/2010,male,bumi_malay,623.9,4222
+Perak,1/1/2011,female,bumi_malay,632.2,3504
+Perak,1/1/2011,male,bumi_malay,632.3,4339
+Perak,1/1/2012,female,bumi_malay,638,3579
+Perak,1/1/2012,male,bumi_malay,639.2,4440
+Perak,1/1/2013,female,bumi_malay,640.8,3681
+Perak,1/1/2013,male,bumi_malay,641.8,4429
+Perak,1/1/2014,female,bumi_malay,646.2,3712
+Perak,1/1/2014,male,bumi_malay,649.7,4626
+Perak,1/1/2015,female,bumi_malay,649.2,3731
+Perak,1/1/2015,male,bumi_malay,652.2,4762
+Perak,1/1/2016,female,bumi_malay,655,3805
+Perak,1/1/2016,male,bumi_malay,660.8,4978
+Perak,1/1/2017,female,bumi_malay,660.8,3892
+Perak,1/1/2017,male,bumi_malay,667.1,5016
+Perak,1/1/2018,female,bumi_malay,666.6,4125
+Perak,1/1/2018,male,bumi_malay,671.9,5087
+Perak,1/1/2019,female,bumi_malay,672.4,4118
+Perak,1/1/2019,male,bumi_malay,677.9,5069
+Perak,1/1/2020,female,bumi_malay,679.3,3926
+Perak,1/1/2020,male,bumi_malay,685.4,4942
+Perak,1/1/2021,female,bumi_malay,690,4721
+Perak,1/1/2021,male,bumi_malay,695.7,5935
+Perak,1/1/2022,female,bumi_malay,695.8,5131
+Perak,1/1/2022,male,bumi_malay,701,6196
+Perak,1/1/2023,female,bumi_malay,702.1,4679
+Perak,1/1/2023,male,bumi_malay,707,5794
+Perlis,1/1/2000,female,bumi_malay,88.2,474
+Perlis,1/1/2000,male,bumi_malay,85.7,594
+Perlis,1/1/2001,female,bumi_malay,89.6,467
+Perlis,1/1/2001,male,bumi_malay,87,608
+Perlis,1/1/2002,female,bumi_malay,91,547
+Perlis,1/1/2002,male,bumi_malay,88.2,607
+Perlis,1/1/2003,female,bumi_malay,92.4,520
+Perlis,1/1/2003,male,bumi_malay,89.5,679
+Perlis,1/1/2004,female,bumi_malay,93.7,561
+Perlis,1/1/2004,male,bumi_malay,90.7,630
+Perlis,1/1/2005,female,bumi_malay,95.1,534
+Perlis,1/1/2005,male,bumi_malay,92,669
+Perlis,1/1/2006,female,bumi_malay,96.5,552
+Perlis,1/1/2006,male,bumi_malay,93.2,684
+Perlis,1/1/2007,female,bumi_malay,97.9,585
+Perlis,1/1/2007,male,bumi_malay,94.5,681
+Perlis,1/1/2008,female,bumi_malay,99.3,577
+Perlis,1/1/2008,male,bumi_malay,95.7,797
+Perlis,1/1/2009,female,bumi_malay,100.9,589
+Perlis,1/1/2009,male,bumi_malay,97.2,737
+Perlis,1/1/2010,female,bumi_malay,102.8,608
+Perlis,1/1/2010,male,bumi_malay,98.9,815
+Perlis,1/1/2011,female,bumi_malay,102.5,637
+Perlis,1/1/2011,male,bumi_malay,100.2,763
+Perlis,1/1/2012,female,bumi_malay,102.9,665
+Perlis,1/1/2012,male,bumi_malay,101.5,742
+Perlis,1/1/2013,female,bumi_malay,103.9,676
+Perlis,1/1/2013,male,bumi_malay,103,802
+Perlis,1/1/2014,female,bumi_malay,104.5,656
+Perlis,1/1/2014,male,bumi_malay,104.1,779
+Perlis,1/1/2015,female,bumi_malay,106,706
+Perlis,1/1/2015,male,bumi_malay,106,820
+Perlis,1/1/2016,female,bumi_malay,106.8,755
+Perlis,1/1/2016,male,bumi_malay,107.5,874
+Perlis,1/1/2017,female,bumi_malay,107.6,781
+Perlis,1/1/2017,male,bumi_malay,107.8,930
+Perlis,1/1/2018,female,bumi_malay,108.6,777
+Perlis,1/1/2018,male,bumi_malay,108.4,994
+Perlis,1/1/2019,female,bumi_malay,108.9,753
+Perlis,1/1/2019,male,bumi_malay,108.8,961
+Perlis,1/1/2020,female,bumi_malay,123.1,777
+Perlis,1/1/2020,male,bumi_malay,122.3,915
+Perlis,1/1/2021,female,bumi_malay,124.3,854
+Perlis,1/1/2021,male,bumi_malay,123.4,1048
+Perlis,1/1/2022,female,bumi_malay,125.1,938
+Perlis,1/1/2022,male,bumi_malay,124.2,1156
+Perlis,1/1/2023,female,bumi_malay,125.9,868
+Perlis,1/1/2023,male,bumi_malay,125,1013
+Penang,1/1/2000,female,bumi_malay,270,1129
+Penang,1/1/2000,male,bumi_malay,265,1333
+Penang,1/1/2001,female,bumi_malay,275.4,1125
+Penang,1/1/2001,male,bumi_malay,270.4,1347
+Penang,1/1/2002,female,bumi_malay,280.5,1248
+Penang,1/1/2002,male,bumi_malay,275.9,1445
+Penang,1/1/2003,female,bumi_malay,285.3,1210
+Penang,1/1/2003,male,bumi_malay,280.8,1466
+Penang,1/1/2004,female,bumi_malay,290.1,1219
+Penang,1/1/2004,male,bumi_malay,285.8,1446
+Penang,1/1/2005,female,bumi_malay,294.8,1252
+Penang,1/1/2005,male,bumi_malay,290.9,1467
+Penang,1/1/2006,female,bumi_malay,299.5,1281
+Penang,1/1/2006,male,bumi_malay,295.9,1472
+Penang,1/1/2007,female,bumi_malay,304.5,1292
+Penang,1/1/2007,male,bumi_malay,301.2,1556
+Penang,1/1/2008,female,bumi_malay,309.4,1356
+Penang,1/1/2008,male,bumi_malay,306.3,1670
+Penang,1/1/2009,female,bumi_malay,314.2,1342
+Penang,1/1/2009,male,bumi_malay,311.5,1685
+Penang,1/1/2010,female,bumi_malay,319.5,1458
+Penang,1/1/2010,male,bumi_malay,316.8,1673
+Penang,1/1/2011,female,bumi_malay,326.3,1406
+Penang,1/1/2011,male,bumi_malay,322.4,1726
+Penang,1/1/2012,female,bumi_malay,333,1442
+Penang,1/1/2012,male,bumi_malay,328.3,1781
+Penang,1/1/2013,female,bumi_malay,337.7,1491
+Penang,1/1/2013,male,bumi_malay,336.5,1850
+Penang,1/1/2014,female,bumi_malay,342.6,1538
+Penang,1/1/2014,male,bumi_malay,345,1925
+Penang,1/1/2015,female,bumi_malay,347.5,1643
+Penang,1/1/2015,male,bumi_malay,349.8,1999
+Penang,1/1/2016,female,bumi_malay,351.8,1646
+Penang,1/1/2016,male,bumi_malay,355.3,2206
+Penang,1/1/2017,female,bumi_malay,360.7,1853
+Penang,1/1/2017,male,bumi_malay,362.6,2114
+Penang,1/1/2018,female,bumi_malay,367.8,1836
+Penang,1/1/2018,male,bumi_malay,371.6,2249
+Penang,1/1/2019,female,bumi_malay,374.7,1763
+Penang,1/1/2019,male,bumi_malay,379.2,2186
+Penang,1/1/2020,female,bumi_malay,348.1,1689
+Penang,1/1/2020,male,bumi_malay,359.7,2092
+Penang,1/1/2021,female,bumi_malay,352,2229
+Penang,1/1/2021,male,bumi_malay,363.4,2757
+Penang,1/1/2022,female,bumi_malay,355.1,2088
+Penang,1/1/2022,male,bumi_malay,366.3,2622
+Penang,1/1/2023,female,bumi_malay,358.8,1938
+Penang,1/1/2023,male,bumi_malay,370,2399
+Sabah,1/1/2000,female,bumi_malay,147.1,285
+Sabah,1/1/2000,male,bumi_malay,156.4,486
+Sabah,1/1/2001,female,bumi_malay,143.6,357
+Sabah,1/1/2001,male,bumi_malay,152.6,611
+Sabah,1/1/2002,female,bumi_malay,139.7,401
+Sabah,1/1/2002,male,bumi_malay,148.5,755
+Sabah,1/1/2003,female,bumi_malay,135.5,424
+Sabah,1/1/2003,male,bumi_malay,143.9,677
+Sabah,1/1/2004,female,bumi_malay,131.4,488
+Sabah,1/1/2004,male,bumi_malay,139.3,681
+Sabah,1/1/2005,female,bumi_malay,127.4,357
+Sabah,1/1/2005,male,bumi_malay,135.2,569
+Sabah,1/1/2006,female,bumi_malay,123.4,329
+Sabah,1/1/2006,male,bumi_malay,130.9,574
+Sabah,1/1/2007,female,bumi_malay,119.6,344
+Sabah,1/1/2007,male,bumi_malay,126.7,540
+Sabah,1/1/2008,female,bumi_malay,115.9,362
+Sabah,1/1/2008,male,bumi_malay,122.7,636
+Sabah,1/1/2009,female,bumi_malay,112.3,368
+Sabah,1/1/2009,male,bumi_malay,118.8,709
+Sabah,1/1/2010,female,bumi_malay,109,385
+Sabah,1/1/2010,male,bumi_malay,115,639
+Sabah,1/1/2011,female,bumi_malay,113,421
+Sabah,1/1/2011,male,bumi_malay,119.3,693
+Sabah,1/1/2012,female,bumi_malay,117.2,360
+Sabah,1/1/2012,male,bumi_malay,123.4,684
+Sabah,1/1/2013,female,bumi_malay,123.6,430
+Sabah,1/1/2013,male,bumi_malay,128.5,724
+Sabah,1/1/2014,female,bumi_malay,129.4,472
+Sabah,1/1/2014,male,bumi_malay,133.1,764
+Sabah,1/1/2015,female,bumi_malay,135.6,485
+Sabah,1/1/2015,male,bumi_malay,137.7,784
+Sabah,1/1/2016,female,bumi_malay,139.9,636
+Sabah,1/1/2016,male,bumi_malay,141.6,1113
+Sabah,1/1/2017,female,bumi_malay,143.6,658
+Sabah,1/1/2017,male,bumi_malay,144.7,1172
+Sabah,1/1/2018,female,bumi_malay,146.8,704
+Sabah,1/1/2018,male,bumi_malay,148.5,1268
+Sabah,1/1/2019,female,bumi_malay,149.9,776
+Sabah,1/1/2019,male,bumi_malay,152.8,1310
+Sabah,1/1/2020,female,bumi_malay,103,751
+Sabah,1/1/2020,male,bumi_malay,134,1229
+Sabah,1/1/2021,female,bumi_malay,136.1,1050
+Sabah,1/1/2021,male,bumi_malay,176.1,1568
+Sabah,1/1/2022,female,bumi_malay,138.3,913
+Sabah,1/1/2022,male,bumi_malay,177.8,1468
+Sabah,1/1/2023,female,bumi_malay,141.1,916
+Sabah,1/1/2023,male,bumi_malay,180.5,1412
+Sarawak,1/1/2000,female,bumi_malay,228,799
+Sarawak,1/1/2000,male,bumi_malay,234.2,943
+Sarawak,1/1/2001,female,bumi_malay,233,779
+Sarawak,1/1/2001,male,bumi_malay,239.7,989
+Sarawak,1/1/2002,female,bumi_malay,238,810
+Sarawak,1/1/2002,male,bumi_malay,245.2,1036
+Sarawak,1/1/2003,female,bumi_malay,242.8,809
+Sarawak,1/1/2003,male,bumi_malay,250.2,1100
+Sarawak,1/1/2004,female,bumi_malay,247.9,877
+Sarawak,1/1/2004,male,bumi_malay,255.3,1127
+Sarawak,1/1/2005,female,bumi_malay,253.3,793
+Sarawak,1/1/2005,male,bumi_malay,260.6,1035
+Sarawak,1/1/2006,female,bumi_malay,258.9,907
+Sarawak,1/1/2006,male,bumi_malay,266,1090
+Sarawak,1/1/2007,female,bumi_malay,264.6,877
+Sarawak,1/1/2007,male,bumi_malay,271.6,1059
+Sarawak,1/1/2008,female,bumi_malay,270.3,912
+Sarawak,1/1/2008,male,bumi_malay,277,1146
+Sarawak,1/1/2009,female,bumi_malay,275.8,1035
+Sarawak,1/1/2009,male,bumi_malay,282.4,1233
+Sarawak,1/1/2010,female,bumi_malay,281.1,900
+Sarawak,1/1/2010,male,bumi_malay,287.7,1146
+Sarawak,1/1/2011,female,bumi_malay,285.8,1024
+Sarawak,1/1/2011,male,bumi_malay,292.6,1254
+Sarawak,1/1/2012,female,bumi_malay,292.1,1018
+Sarawak,1/1/2012,male,bumi_malay,298.1,1266
+Sarawak,1/1/2013,female,bumi_malay,294.9,1000
+Sarawak,1/1/2013,male,bumi_malay,304,1249
+Sarawak,1/1/2014,female,bumi_malay,299.1,1034
+Sarawak,1/1/2014,male,bumi_malay,308.7,1345
+Sarawak,1/1/2015,female,bumi_malay,303.5,1088
+Sarawak,1/1/2015,male,bumi_malay,313.1,1410
+Sarawak,1/1/2016,female,bumi_malay,306.9,1107
+Sarawak,1/1/2016,male,bumi_malay,317.8,1446
+Sarawak,1/1/2017,female,bumi_malay,311,1092
+Sarawak,1/1/2017,male,bumi_malay,322,1479
+Sarawak,1/1/2018,female,bumi_malay,315,1206
+Sarawak,1/1/2018,male,bumi_malay,325.3,1574
+Sarawak,1/1/2019,female,bumi_malay,318.7,1240
+Sarawak,1/1/2019,male,bumi_malay,329,1557
+Sarawak,1/1/2020,female,bumi_malay,282.1,1215
+Sarawak,1/1/2020,male,bumi_malay,293.3,1623
+Sarawak,1/1/2021,female,bumi_malay,287.1,1485
+Sarawak,1/1/2021,male,bumi_malay,298.1,1966
+Sarawak,1/1/2022,female,bumi_malay,290.2,1437
+Sarawak,1/1/2022,male,bumi_malay,300.8,1888
+Sarawak,1/1/2023,female,bumi_malay,293.4,1442
+Sarawak,1/1/2023,male,bumi_malay,304.2,1846
+Selangor,1/1/2000,female,bumi_malay,1022.9,2233
+Selangor,1/1/2000,male,bumi_malay,1064.2,3150
+Selangor,1/1/2001,female,bumi_malay,1054.9,2394
+Selangor,1/1/2001,male,bumi_malay,1095.8,3353
+Selangor,1/1/2002,female,bumi_malay,1088.7,2581
+Selangor,1/1/2002,male,bumi_malay,1128.7,3534
+Selangor,1/1/2003,female,bumi_malay,1124.4,2590
+Selangor,1/1/2003,male,bumi_malay,1163,3690
+Selangor,1/1/2004,female,bumi_malay,1162.8,2668
+Selangor,1/1/2004,male,bumi_malay,1198.8,3742
+Selangor,1/1/2005,female,bumi_malay,1201.3,2894
+Selangor,1/1/2005,male,bumi_malay,1236.5,3923
+Selangor,1/1/2006,female,bumi_malay,1240.3,2843
+Selangor,1/1/2006,male,bumi_malay,1275,3963
+Selangor,1/1/2007,female,bumi_malay,1282.1,2956
+Selangor,1/1/2007,male,bumi_malay,1315.6,4114
+Selangor,1/1/2008,female,bumi_malay,1325,3393
+Selangor,1/1/2008,male,bumi_malay,1356.6,4585
+Selangor,1/1/2009,female,bumi_malay,1372.1,3610
+Selangor,1/1/2009,male,bumi_malay,1402.6,4797
+Selangor,1/1/2010,female,bumi_malay,1391.1,3518
+Selangor,1/1/2010,male,bumi_malay,1426.1,4759
+Selangor,1/1/2011,female,bumi_malay,1417.4,3715
+Selangor,1/1/2011,male,bumi_malay,1451.8,4959
+Selangor,1/1/2012,female,bumi_malay,1450.6,3963
+Selangor,1/1/2012,male,bumi_malay,1486.5,5323
+Selangor,1/1/2013,female,bumi_malay,1488.6,4180
+Selangor,1/1/2013,male,bumi_malay,1525.4,5532
+Selangor,1/1/2014,female,bumi_malay,1526.7,4421
+Selangor,1/1/2014,male,bumi_malay,1564.2,5828
+Selangor,1/1/2015,female,bumi_malay,1565.5,4749
+Selangor,1/1/2015,male,bumi_malay,1603.5,6261
+Selangor,1/1/2016,female,bumi_malay,1601.3,5026
+Selangor,1/1/2016,male,bumi_malay,1639.2,6689
+Selangor,1/1/2017,female,bumi_malay,1631.5,5278
+Selangor,1/1/2017,male,bumi_malay,1670,7050
+Selangor,1/1/2018,female,bumi_malay,1665.1,5528
+Selangor,1/1/2018,male,bumi_malay,1704.8,7257
+Selangor,1/1/2019,female,bumi_malay,1698.1,5388
+Selangor,1/1/2019,male,bumi_malay,1738.2,7509
+Selangor,1/1/2020,female,bumi_malay,1867.5,4764
+Selangor,1/1/2020,male,bumi_malay,1938.7,6889
+Selangor,1/1/2021,female,bumi_malay,1897.3,8107
+Selangor,1/1/2021,male,bumi_malay,1968.5,11011
+Selangor,1/1/2022,female,bumi_malay,1918.7,6510
+Selangor,1/1/2022,male,bumi_malay,1989.3,8847
+Selangor,1/1/2023,female,bumi_malay,1943.2,6378
+Selangor,1/1/2023,male,bumi_malay,2013.6,8760
+Terengganu,1/1/2000,female,bumi_malay,422.6,1865
+Terengganu,1/1/2000,male,bumi_malay,431.1,2484
+Terengganu,1/1/2001,female,bumi_malay,430.5,1943
+Terengganu,1/1/2001,male,bumi_malay,439.7,2718
+Terengganu,1/1/2002,female,bumi_malay,437.9,2164
+Terengganu,1/1/2002,male,bumi_malay,448,2668
+Terengganu,1/1/2003,female,bumi_malay,444.6,2135
+Terengganu,1/1/2003,male,bumi_malay,455.4,2983
+Terengganu,1/1/2004,female,bumi_malay,451.8,2118
+Terengganu,1/1/2004,male,bumi_malay,462.7,2891
+Terengganu,1/1/2005,female,bumi_malay,458.5,2267
+Terengganu,1/1/2005,male,bumi_malay,470.1,2861
+Terengganu,1/1/2006,female,bumi_malay,465.1,2183
+Terengganu,1/1/2006,male,bumi_malay,477.2,2974
+Terengganu,1/1/2007,female,bumi_malay,471.8,2246
+Terengganu,1/1/2007,male,bumi_malay,484.4,3096
+Terengganu,1/1/2008,female,bumi_malay,478.5,2392
+Terengganu,1/1/2008,male,bumi_malay,491.6,3119
+Terengganu,1/1/2009,female,bumi_malay,485.6,2393
+Terengganu,1/1/2009,male,bumi_malay,499.4,3343
+Terengganu,1/1/2010,female,bumi_malay,492.9,2326
+Terengganu,1/1/2010,male,bumi_malay,506.9,3267
+Terengganu,1/1/2011,female,bumi_malay,502.2,2589
+Terengganu,1/1/2011,male,bumi_malay,517.3,3351
+Terengganu,1/1/2012,female,bumi_malay,510.5,2498
+Terengganu,1/1/2012,male,bumi_malay,524.7,3405
+Terengganu,1/1/2013,female,bumi_malay,521,2603
+Terengganu,1/1/2013,male,bumi_malay,532.3,3560
+Terengganu,1/1/2014,female,bumi_malay,530.6,2763
+Terengganu,1/1/2014,male,bumi_malay,542.5,3444
+Terengganu,1/1/2015,female,bumi_malay,541.5,2766
+Terengganu,1/1/2015,male,bumi_malay,551,3692
+Terengganu,1/1/2016,female,bumi_malay,551,2782
+Terengganu,1/1/2016,male,bumi_malay,562.1,3777
+Terengganu,1/1/2017,female,bumi_malay,562.4,2923
+Terengganu,1/1/2017,male,bumi_malay,573.2,3843
+Terengganu,1/1/2018,female,bumi_malay,572.4,2934
+Terengganu,1/1/2018,male,bumi_malay,582.2,3899
+Terengganu,1/1/2019,female,bumi_malay,582.8,3019
+Terengganu,1/1/2019,male,bumi_malay,591.5,4025
+Terengganu,1/1/2020,female,bumi_malay,541.1,2761
+Terengganu,1/1/2020,male,bumi_malay,549.3,3711
+Terengganu,1/1/2021,female,bumi_malay,551.5,3699
+Terengganu,1/1/2021,male,bumi_malay,559.7,4439
+Terengganu,1/1/2022,female,bumi_malay,559.6,3775
+Terengganu,1/1/2022,male,bumi_malay,567.8,4571
+Terengganu,1/1/2023,female,bumi_malay,568.5,3305
+Terengganu,1/1/2023,male,bumi_malay,576.6,4222
+Kuala Lumpur,1/1/2000,female,bumi_malay,277,630
+Kuala Lumpur,1/1/2000,male,bumi_malay,283.7,879
+Kuala Lumpur,1/1/2001,female,bumi_malay,284.4,644
+Kuala Lumpur,1/1/2001,male,bumi_malay,290,950
+Kuala Lumpur,1/1/2002,female,bumi_malay,291.5,694
+Kuala Lumpur,1/1/2002,male,bumi_malay,296,1107
+Kuala Lumpur,1/1/2003,female,bumi_malay,298.1,644
+Kuala Lumpur,1/1/2003,male,bumi_malay,301.7,939
+Kuala Lumpur,1/1/2004,female,bumi_malay,304.7,680
+Kuala Lumpur,1/1/2004,male,bumi_malay,307,948
+Kuala Lumpur,1/1/2005,female,bumi_malay,311.1,652
+Kuala Lumpur,1/1/2005,male,bumi_malay,312.3,888
+Kuala Lumpur,1/1/2006,female,bumi_malay,317.6,726
+Kuala Lumpur,1/1/2006,male,bumi_malay,317.8,1013
+Kuala Lumpur,1/1/2007,female,bumi_malay,324.3,786
+Kuala Lumpur,1/1/2007,male,bumi_malay,323.4,1001
+Kuala Lumpur,1/1/2008,female,bumi_malay,331,798
+Kuala Lumpur,1/1/2008,male,bumi_malay,329,1046
+Kuala Lumpur,1/1/2009,female,bumi_malay,337.7,765
+Kuala Lumpur,1/1/2009,male,bumi_malay,334.3,1144
+Kuala Lumpur,1/1/2010,female,bumi_malay,345.4,746
+Kuala Lumpur,1/1/2010,male,bumi_malay,340.3,1157
+Kuala Lumpur,1/1/2011,female,bumi_malay,348.6,865
+Kuala Lumpur,1/1/2011,male,bumi_malay,343.7,1279
+Kuala Lumpur,1/1/2012,female,bumi_malay,348.8,926
+Kuala Lumpur,1/1/2012,male,bumi_malay,340.7,1304
+Kuala Lumpur,1/1/2013,female,bumi_malay,348.5,1021
+Kuala Lumpur,1/1/2013,male,bumi_malay,342.6,1340
+Kuala Lumpur,1/1/2014,female,bumi_malay,348.3,1030
+Kuala Lumpur,1/1/2014,male,bumi_malay,344.6,1488
+Kuala Lumpur,1/1/2015,female,bumi_malay,348.6,1043
+Kuala Lumpur,1/1/2015,male,bumi_malay,347,1413
+Kuala Lumpur,1/1/2016,female,bumi_malay,350.5,1120
+Kuala Lumpur,1/1/2016,male,bumi_malay,350.3,1621
+Kuala Lumpur,1/1/2017,female,bumi_malay,351.4,1117
+Kuala Lumpur,1/1/2017,male,bumi_malay,350.8,1578
+Kuala Lumpur,1/1/2018,female,bumi_malay,348.8,1200
+Kuala Lumpur,1/1/2018,male,bumi_malay,350,1658
+Kuala Lumpur,1/1/2019,female,bumi_malay,348.4,1238
+Kuala Lumpur,1/1/2019,male,bumi_malay,350.1,1787
+Kuala Lumpur,1/1/2020,female,bumi_malay,409.6,1158
+Kuala Lumpur,1/1/2020,male,bumi_malay,415,1684
+Kuala Lumpur,1/1/2021,female,bumi_malay,412.2,1966
+Kuala Lumpur,1/1/2021,male,bumi_malay,417.6,2548
+Kuala Lumpur,1/1/2022,female,bumi_malay,416,1419
+Kuala Lumpur,1/1/2022,male,bumi_malay,421.2,1885
+Kuala Lumpur,1/1/2023,female,bumi_malay,420.7,1384
+Kuala Lumpur,1/1/2023,male,bumi_malay,425.7,1841
+Labuan,1/1/2000,female,bumi_malay,13.5,28
+Labuan,1/1/2000,male,bumi_malay,15.5,42
+Labuan,1/1/2001,female,bumi_malay,13.4,25
+Labuan,1/1/2001,male,bumi_malay,15.3,41
+Labuan,1/1/2002,female,bumi_malay,13.4,25
+Labuan,1/1/2002,male,bumi_malay,15.1,60
+Labuan,1/1/2003,female,bumi_malay,13.3,37
+Labuan,1/1/2003,male,bumi_malay,15,50
+Labuan,1/1/2004,female,bumi_malay,13.4,47
+Labuan,1/1/2004,male,bumi_malay,14.8,56
+Labuan,1/1/2005,female,bumi_malay,13.4,36
+Labuan,1/1/2005,male,bumi_malay,14.8,54
+Labuan,1/1/2006,female,bumi_malay,13.5,45
+Labuan,1/1/2006,male,bumi_malay,14.8,58
+Labuan,1/1/2007,female,bumi_malay,13.6,36
+Labuan,1/1/2007,male,bumi_malay,14.9,45
+Labuan,1/1/2008,female,bumi_malay,13.8,51
+Labuan,1/1/2008,male,bumi_malay,15,69
+Labuan,1/1/2009,female,bumi_malay,14.1,33
+Labuan,1/1/2009,male,bumi_malay,15.3,64
+Labuan,1/1/2010,female,bumi_malay,14.8,42
+Labuan,1/1/2010,male,bumi_malay,15.9,58
+Labuan,1/1/2011,female,bumi_malay,15.1,27
+Labuan,1/1/2011,male,bumi_malay,16,55
+Labuan,1/1/2012,female,bumi_malay,15.4,41
+Labuan,1/1/2012,male,bumi_malay,16.3,46
+Labuan,1/1/2013,female,bumi_malay,15.8,43
+Labuan,1/1/2013,male,bumi_malay,16.7,64
+Labuan,1/1/2014,female,bumi_malay,16.1,35
+Labuan,1/1/2014,male,bumi_malay,16.8,61
+Labuan,1/1/2015,female,bumi_malay,16.3,42
+Labuan,1/1/2015,male,bumi_malay,16.8,61
+Labuan,1/1/2016,female,bumi_malay,16.2,45
+Labuan,1/1/2016,male,bumi_malay,17,62
+Labuan,1/1/2017,female,bumi_malay,16.1,44
+Labuan,1/1/2017,male,bumi_malay,16.8,40
+Labuan,1/1/2018,female,bumi_malay,16.5,51
+Labuan,1/1/2018,male,bumi_malay,17.1,59
+Labuan,1/1/2019,female,bumi_malay,16.8,37
+Labuan,1/1/2019,male,bumi_malay,17.5,59
+Labuan,1/1/2020,female,bumi_malay,11.1,47
+Labuan,1/1/2020,male,bumi_malay,12.6,66
+Labuan,1/1/2021,female,bumi_malay,16.2,76
+Labuan,1/1/2021,male,bumi_malay,18.3,123
+Labuan,1/1/2022,female,bumi_malay,16.4,71
+Labuan,1/1/2022,male,bumi_malay,18.5,78
+Labuan,1/1/2023,female,bumi_malay,11.7,54
+Labuan,1/1/2023,male,bumi_malay,13.1,72
+Putrajaya,1/1/2010,female,bumi_malay,36.7,39
+Putrajaya,1/1/2010,male,bumi_malay,32.5,49
+Putrajaya,1/1/2011,female,bumi_malay,38.6,43
+Putrajaya,1/1/2011,male,bumi_malay,34.4,60
+Putrajaya,1/1/2012,female,bumi_malay,39.1,70
+Putrajaya,1/1/2012,male,bumi_malay,34.8,68
+Putrajaya,1/1/2013,female,bumi_malay,39.7,62
+Putrajaya,1/1/2013,male,bumi_malay,34.9,87
+Putrajaya,1/1/2014,female,bumi_malay,40.4,90
+Putrajaya,1/1/2014,male,bumi_malay,35.1,94
+Putrajaya,1/1/2015,female,bumi_malay,41.4,94
+Putrajaya,1/1/2015,male,bumi_malay,36,86
+Putrajaya,1/1/2016,female,bumi_malay,41.8,71
+Putrajaya,1/1/2016,male,bumi_malay,36.6,80
+Putrajaya,1/1/2017,female,bumi_malay,43.4,100
+Putrajaya,1/1/2017,male,bumi_malay,37.9,112
+Putrajaya,1/1/2018,female,bumi_malay,47.2,94
+Putrajaya,1/1/2018,male,bumi_malay,42.1,113
+Putrajaya,1/1/2019,female,bumi_malay,50.1,90
+Putrajaya,1/1/2019,male,bumi_malay,44.8,107
+Putrajaya,1/1/2020,female,bumi_malay,52.4,86
+Putrajaya,1/1/2020,male,bumi_malay,49.4,112
+Putrajaya,1/1/2021,female,bumi_malay,55.1,102
+Putrajaya,1/1/2021,male,bumi_malay,52,144
+Putrajaya,1/1/2022,female,bumi_malay,56,102
+Putrajaya,1/1/2022,male,bumi_malay,52.8,128
+Putrajaya,1/1/2023,female,bumi_malay,56.7,114
+Putrajaya,1/1/2023,male,bumi_malay,53.6,151
+Johor,1/1/2000,female,chinese,446.6,1764
+Johor,1/1/2000,male,chinese,476.6,2361
+Johor,1/1/2001,female,chinese,453.3,1785
+Johor,1/1/2001,male,chinese,485.8,2331
+Johor,1/1/2002,female,chinese,458.7,1910
+Johor,1/1/2002,male,chinese,493.9,2549
+Johor,1/1/2003,female,chinese,463.7,1940
+Johor,1/1/2003,male,chinese,501.5,2574
+Johor,1/1/2004,female,chinese,468.4,1982
+Johor,1/1/2004,male,chinese,508.5,2613
+Johor,1/1/2005,female,chinese,473,2009
+Johor,1/1/2005,male,chinese,515.5,2622
+Johor,1/1/2006,female,chinese,477.7,1945
+Johor,1/1/2006,male,chinese,522.2,2753
+Johor,1/1/2007,female,chinese,481.9,2036
+Johor,1/1/2007,male,chinese,528.8,2856
+Johor,1/1/2008,female,chinese,486.4,2119
+Johor,1/1/2008,male,chinese,535.4,3085
+Johor,1/1/2009,female,chinese,490.3,2151
+Johor,1/1/2009,male,chinese,541.2,3039
+Johor,1/1/2010,female,chinese,494.1,2139
+Johor,1/1/2010,male,chinese,547,3030
+Johor,1/1/2011,female,chinese,498.7,2275
+Johor,1/1/2011,male,chinese,551.2,3132
+Johor,1/1/2012,female,chinese,502.4,2341
+Johor,1/1/2012,male,chinese,554.8,3258
+Johor,1/1/2013,female,chinese,506.7,2326
+Johor,1/1/2013,male,chinese,559,3453
+Johor,1/1/2014,female,chinese,510.4,2448
+Johor,1/1/2014,male,chinese,562.4,3497
+Johor,1/1/2015,female,chinese,513.8,2509
+Johor,1/1/2015,male,chinese,565,3669
+Johor,1/1/2016,female,chinese,517.3,2599
+Johor,1/1/2016,male,chinese,568.1,3805
+Johor,1/1/2017,female,chinese,521.6,2717
+Johor,1/1/2017,male,chinese,571.2,3924
+Johor,1/1/2018,female,chinese,524.8,2750
+Johor,1/1/2018,male,chinese,573.8,4023
+Johor,1/1/2019,female,chinese,527.7,2817
+Johor,1/1/2019,male,chinese,576.2,4150
+Johor,1/1/2020,female,chinese,589.1,2744
+Johor,1/1/2020,male,chinese,619.5,4058
+Johor,1/1/2021,female,chinese,591.1,3215
+Johor,1/1/2021,male,chinese,620.4,4880
+Johor,1/1/2022,female,chinese,591.1,3290
+Johor,1/1/2022,male,chinese,619,4800
+Johor,1/1/2023,female,chinese,592.2,3424
+Johor,1/1/2023,male,chinese,618.9,4758
+Kedah,1/1/2000,female,chinese,120,557
+Kedah,1/1/2000,male,chinese,124.7,845
+Kedah,1/1/2001,female,chinese,121.1,572
+Kedah,1/1/2001,male,chinese,125.9,844
+Kedah,1/1/2002,female,chinese,122,647
+Kedah,1/1/2002,male,chinese,126.8,891
+Kedah,1/1/2003,female,chinese,122.7,625
+Kedah,1/1/2003,male,chinese,127.6,915
+Kedah,1/1/2004,female,chinese,123.4,626
+Kedah,1/1/2004,male,chinese,128.2,922
+Kedah,1/1/2005,female,chinese,123.9,653
+Kedah,1/1/2005,male,chinese,128.8,919
+Kedah,1/1/2006,female,chinese,124.4,617
+Kedah,1/1/2006,male,chinese,129.3,953
+Kedah,1/1/2007,female,chinese,124.8,617
+Kedah,1/1/2007,male,chinese,129.8,900
+Kedah,1/1/2008,female,chinese,125.2,645
+Kedah,1/1/2008,male,chinese,130.2,1007
+Kedah,1/1/2009,female,chinese,125.5,660
+Kedah,1/1/2009,male,chinese,130.6,1001
+Kedah,1/1/2010,female,chinese,126,675
+Kedah,1/1/2010,male,chinese,131.1,1009
+Kedah,1/1/2011,female,chinese,126,678
+Kedah,1/1/2011,male,chinese,130.9,1003
+Kedah,1/1/2012,female,chinese,126,659
+Kedah,1/1/2012,male,chinese,131.1,969
+Kedah,1/1/2013,female,chinese,126.5,717
+Kedah,1/1/2013,male,chinese,130.8,1040
+Kedah,1/1/2014,female,chinese,125.7,757
+Kedah,1/1/2014,male,chinese,131.5,1059
+Kedah,1/1/2015,female,chinese,126.1,794
+Kedah,1/1/2015,male,chinese,131.4,1113
+Kedah,1/1/2016,female,chinese,125.3,767
+Kedah,1/1/2016,male,chinese,131.9,1093
+Kedah,1/1/2017,female,chinese,124.9,755
+Kedah,1/1/2017,male,chinese,131.6,1114
+Kedah,1/1/2018,female,chinese,125.5,772
+Kedah,1/1/2018,male,chinese,132.3,1172
+Kedah,1/1/2019,female,chinese,126,805
+Kedah,1/1/2019,male,chinese,133.1,1130
+Kedah,1/1/2020,female,chinese,125.6,785
+Kedah,1/1/2020,male,chinese,125,1099
+Kedah,1/1/2021,female,chinese,125.7,920
+Kedah,1/1/2021,male,chinese,124.9,1340
+Kedah,1/1/2022,female,chinese,125.3,974
+Kedah,1/1/2022,male,chinese,124.2,1335
+Kedah,1/1/2023,female,chinese,125,954
+Kedah,1/1/2023,male,chinese,123.6,1306
+Kelantan,1/1/2000,female,chinese,24.4,127
+Kelantan,1/1/2000,male,chinese,25.7,201
+Kelantan,1/1/2001,female,chinese,24.5,130
+Kelantan,1/1/2001,male,chinese,25.9,213
+Kelantan,1/1/2002,female,chinese,24.7,138
+Kelantan,1/1/2002,male,chinese,26.1,224
+Kelantan,1/1/2003,female,chinese,24.8,121
+Kelantan,1/1/2003,male,chinese,26.2,216
+Kelantan,1/1/2004,female,chinese,24.8,140
+Kelantan,1/1/2004,male,chinese,26.4,217
+Kelantan,1/1/2005,female,chinese,25,148
+Kelantan,1/1/2005,male,chinese,26.5,188
+Kelantan,1/1/2006,female,chinese,25,145
+Kelantan,1/1/2006,male,chinese,26.7,190
+Kelantan,1/1/2007,female,chinese,25,143
+Kelantan,1/1/2007,male,chinese,26.8,208
+Kelantan,1/1/2008,female,chinese,25.1,138
+Kelantan,1/1/2008,male,chinese,27,199
+Kelantan,1/1/2009,female,chinese,25.1,169
+Kelantan,1/1/2009,male,chinese,27.1,228
+Kelantan,1/1/2010,female,chinese,25.1,137
+Kelantan,1/1/2010,male,chinese,27.2,222
+Kelantan,1/1/2011,female,chinese,25.4,137
+Kelantan,1/1/2011,male,chinese,27.4,230
+Kelantan,1/1/2012,female,chinese,25.7,160
+Kelantan,1/1/2012,male,chinese,27.5,238
+Kelantan,1/1/2013,female,chinese,25.4,149
+Kelantan,1/1/2013,male,chinese,27.7,226
+Kelantan,1/1/2014,female,chinese,25.7,184
+Kelantan,1/1/2014,male,chinese,28.3,218
+Kelantan,1/1/2015,female,chinese,25.8,143
+Kelantan,1/1/2015,male,chinese,28.9,239
+Kelantan,1/1/2016,female,chinese,26,164
+Kelantan,1/1/2016,male,chinese,29.4,253
+Kelantan,1/1/2017,female,chinese,26,180
+Kelantan,1/1/2017,male,chinese,29.7,232
+Kelantan,1/1/2018,female,chinese,26.3,156
+Kelantan,1/1/2018,male,chinese,30,257
+Kelantan,1/1/2019,female,chinese,26.5,165
+Kelantan,1/1/2019,male,chinese,30.3,241
+Kelantan,1/1/2020,female,chinese,21.8,146
+Kelantan,1/1/2020,male,chinese,22.9,281
+Kelantan,1/1/2021,female,chinese,21.8,186
+Kelantan,1/1/2021,male,chinese,22.9,305
+Kelantan,1/1/2022,female,chinese,21.8,183
+Kelantan,1/1/2022,male,chinese,22.7,295
+Kelantan,1/1/2023,female,chinese,21.7,181
+Kelantan,1/1/2023,male,chinese,22.6,277
+Malacca,1/1/2000,female,chinese,90.5,513
+Malacca,1/1/2000,male,chinese,91.9,621
+Malacca,1/1/2001,female,chinese,92.2,491
+Malacca,1/1/2001,male,chinese,93.8,679
+Malacca,1/1/2002,female,chinese,93.6,544
+Malacca,1/1/2002,male,chinese,95.4,620
+Malacca,1/1/2003,female,chinese,94.9,519
+Malacca,1/1/2003,male,chinese,97,676
+Malacca,1/1/2004,female,chinese,96.2,558
+Malacca,1/1/2004,male,chinese,98.5,694
+Malacca,1/1/2005,female,chinese,97.4,564
+Malacca,1/1/2005,male,chinese,99.9,693
+Malacca,1/1/2006,female,chinese,98.6,561
+Malacca,1/1/2006,male,chinese,101.2,716
+Malacca,1/1/2007,female,chinese,99.7,516
+Malacca,1/1/2007,male,chinese,102.5,759
+Malacca,1/1/2008,female,chinese,100.9,532
+Malacca,1/1/2008,male,chinese,103.8,727
+Malacca,1/1/2009,female,chinese,102,556
+Malacca,1/1/2009,male,chinese,105,780
+Malacca,1/1/2010,female,chinese,103.2,610
+Malacca,1/1/2010,male,chinese,106.2,760
+Malacca,1/1/2011,female,chinese,103.4,603
+Malacca,1/1/2011,male,chinese,107.3,816
+Malacca,1/1/2012,female,chinese,103.7,547
+Malacca,1/1/2012,male,chinese,107.2,764
+Malacca,1/1/2013,female,chinese,104.8,563
+Malacca,1/1/2013,male,chinese,108.2,817
+Malacca,1/1/2014,female,chinese,105.5,600
+Malacca,1/1/2014,male,chinese,108.6,793
+Malacca,1/1/2015,female,chinese,106.4,623
+Malacca,1/1/2015,male,chinese,109.5,861
+Malacca,1/1/2016,female,chinese,107,672
+Malacca,1/1/2016,male,chinese,110,868
+Malacca,1/1/2017,female,chinese,107,680
+Malacca,1/1/2017,male,chinese,109.8,957
+Malacca,1/1/2018,female,chinese,107.1,664
+Malacca,1/1/2018,male,chinese,110,886
+Malacca,1/1/2019,female,chinese,107.2,694
+Malacca,1/1/2019,male,chinese,110.1,944
+Malacca,1/1/2020,female,chinese,100.9,700
+Malacca,1/1/2020,male,chinese,104.3,968
+Malacca,1/1/2021,female,chinese,100.9,850
+Malacca,1/1/2021,male,chinese,104.1,1112
+Malacca,1/1/2022,female,chinese,100.7,841
+Malacca,1/1/2022,male,chinese,103.6,1072
+Malacca,1/1/2023,female,chinese,100.5,788
+Malacca,1/1/2023,male,chinese,103.3,1021
+Negeri Sembilan,1/1/2000,female,chinese,106.3,598
+Negeri Sembilan,1/1/2000,male,chinese,110.6,749
+Negeri Sembilan,1/1/2001,female,chinese,107,596
+Negeri Sembilan,1/1/2001,male,chinese,111.6,752
+Negeri Sembilan,1/1/2002,female,chinese,107.4,640
+Negeri Sembilan,1/1/2002,male,chinese,112.3,834
+Negeri Sembilan,1/1/2003,female,chinese,107.8,609
+Negeri Sembilan,1/1/2003,male,chinese,113.1,774
+Negeri Sembilan,1/1/2004,female,chinese,108.1,624
+Negeri Sembilan,1/1/2004,male,chinese,113.8,782
+Negeri Sembilan,1/1/2005,female,chinese,108.3,606
+Negeri Sembilan,1/1/2005,male,chinese,114.4,833
+Negeri Sembilan,1/1/2006,female,chinese,108.5,616
+Negeri Sembilan,1/1/2006,male,chinese,115.1,809
+Negeri Sembilan,1/1/2007,female,chinese,108.6,604
+Negeri Sembilan,1/1/2007,male,chinese,115.7,839
+Negeri Sembilan,1/1/2008,female,chinese,108.7,666
+Negeri Sembilan,1/1/2008,male,chinese,116.2,825
+Negeri Sembilan,1/1/2009,female,chinese,108.7,686
+Negeri Sembilan,1/1/2009,male,chinese,116.6,880
+Negeri Sembilan,1/1/2010,female,chinese,108.7,654
+Negeri Sembilan,1/1/2010,male,chinese,116.8,888
+Negeri Sembilan,1/1/2011,female,chinese,109.6,663
+Negeri Sembilan,1/1/2011,male,chinese,117.3,881
+Negeri Sembilan,1/1/2012,female,chinese,109.5,670
+Negeri Sembilan,1/1/2012,male,chinese,118,887
+Negeri Sembilan,1/1/2013,female,chinese,110.2,668
+Negeri Sembilan,1/1/2013,male,chinese,118,919
+Negeri Sembilan,1/1/2014,female,chinese,110.7,706
+Negeri Sembilan,1/1/2014,male,chinese,118.5,990
+Negeri Sembilan,1/1/2015,female,chinese,110.4,741
+Negeri Sembilan,1/1/2015,male,chinese,118.6,986
+Negeri Sembilan,1/1/2016,female,chinese,110.8,714
+Negeri Sembilan,1/1/2016,male,chinese,119,1041
+Negeri Sembilan,1/1/2017,female,chinese,110.7,748
+Negeri Sembilan,1/1/2017,male,chinese,118.7,1051
+Negeri Sembilan,1/1/2018,female,chinese,111.1,768
+Negeri Sembilan,1/1/2018,male,chinese,118.4,1060
+Negeri Sembilan,1/1/2019,female,chinese,111.4,807
+Negeri Sembilan,1/1/2019,male,chinese,118.1,1064
+Negeri Sembilan,1/1/2020,female,chinese,122.1,785
+Negeri Sembilan,1/1/2020,male,chinese,126.4,1056
+Negeri Sembilan,1/1/2021,female,chinese,122.2,897
+Negeri Sembilan,1/1/2021,male,chinese,126.1,1292
+Negeri Sembilan,1/1/2022,female,chinese,121.9,901
+Negeri Sembilan,1/1/2022,male,chinese,125.5,1282
+Negeri Sembilan,1/1/2023,female,chinese,121.7,850
+Negeri Sembilan,1/1/2023,male,chinese,125,1249
+Pahang,1/1/2000,female,chinese,105.9,506
+Pahang,1/1/2000,male,chinese,115.2,648
+Pahang,1/1/2001,female,chinese,106.5,512
+Pahang,1/1/2001,male,chinese,116,685
+Pahang,1/1/2002,female,chinese,106.8,524
+Pahang,1/1/2002,male,chinese,116.6,721
+Pahang,1/1/2003,female,chinese,107.1,556
+Pahang,1/1/2003,male,chinese,117.2,761
+Pahang,1/1/2004,female,chinese,107.3,459
+Pahang,1/1/2004,male,chinese,117.7,707
+Pahang,1/1/2005,female,chinese,107.6,546
+Pahang,1/1/2005,male,chinese,118.3,733
+Pahang,1/1/2006,female,chinese,107.8,521
+Pahang,1/1/2006,male,chinese,118.9,738
+Pahang,1/1/2007,female,chinese,108.1,521
+Pahang,1/1/2007,male,chinese,119.6,682
+Pahang,1/1/2008,female,chinese,108.5,530
+Pahang,1/1/2008,male,chinese,120.2,772
+Pahang,1/1/2009,female,chinese,108.9,526
+Pahang,1/1/2009,male,chinese,120.8,789
+Pahang,1/1/2010,female,chinese,109.5,512
+Pahang,1/1/2010,male,chinese,121.3,792
+Pahang,1/1/2011,female,chinese,110.7,517
+Pahang,1/1/2011,male,chinese,122.2,834
+Pahang,1/1/2012,female,chinese,111,544
+Pahang,1/1/2012,male,chinese,121.6,812
+Pahang,1/1/2013,female,chinese,111.1,565
+Pahang,1/1/2013,male,chinese,122.3,926
+Pahang,1/1/2014,female,chinese,111.1,557
+Pahang,1/1/2014,male,chinese,121.9,867
+Pahang,1/1/2015,female,chinese,111.3,564
+Pahang,1/1/2015,male,chinese,121.8,866
+Pahang,1/1/2016,female,chinese,111.2,589
+Pahang,1/1/2016,male,chinese,121.4,956
+Pahang,1/1/2017,female,chinese,111.3,608
+Pahang,1/1/2017,male,chinese,121.4,1030
+Pahang,1/1/2018,female,chinese,111.4,617
+Pahang,1/1/2018,male,chinese,121.3,973
+Pahang,1/1/2019,female,chinese,111.6,606
+Pahang,1/1/2019,male,chinese,121,1022
+Pahang,1/1/2020,female,chinese,105.9,616
+Pahang,1/1/2020,male,chinese,115.8,1022
+Pahang,1/1/2021,female,chinese,105.9,735
+Pahang,1/1/2021,male,chinese,115.4,1124
+Pahang,1/1/2022,female,chinese,105.6,772
+Pahang,1/1/2022,male,chinese,114.9,1167
+Pahang,1/1/2023,female,chinese,105.5,752
+Pahang,1/1/2023,male,chinese,114.4,1136
+Perak,1/1/2000,female,chinese,325.6,2094
+Perak,1/1/2000,male,chinese,335.3,2748
+Perak,1/1/2001,female,chinese,329,2199
+Perak,1/1/2001,male,chinese,339.4,2659
+Perak,1/1/2002,female,chinese,331.7,2158
+Perak,1/1/2002,male,chinese,342.3,2873
+Perak,1/1/2003,female,chinese,334.1,2221
+Perak,1/1/2003,male,chinese,345.1,2798
+Perak,1/1/2004,female,chinese,336.1,2276
+Perak,1/1/2004,male,chinese,347.4,2839
+Perak,1/1/2005,female,chinese,338,2259
+Perak,1/1/2005,male,chinese,349.5,2801
+Perak,1/1/2006,female,chinese,339.6,2195
+Perak,1/1/2006,male,chinese,351.3,2744
+Perak,1/1/2007,female,chinese,340.9,2268
+Perak,1/1/2007,male,chinese,352.9,2940
+Perak,1/1/2008,female,chinese,342,2240
+Perak,1/1/2008,male,chinese,354.2,3022
+Perak,1/1/2009,female,chinese,343,2266
+Perak,1/1/2009,male,chinese,355.4,3080
+Perak,1/1/2010,female,chinese,344.1,2268
+Perak,1/1/2010,male,chinese,356.4,2969
+Perak,1/1/2011,female,chinese,344.4,2417
+Perak,1/1/2011,male,chinese,357.1,3102
+Perak,1/1/2012,female,chinese,346.3,2424
+Perak,1/1/2012,male,chinese,357.2,3210
+Perak,1/1/2013,female,chinese,347.1,2267
+Perak,1/1/2013,male,chinese,357.9,3192
+Perak,1/1/2014,female,chinese,345.7,2556
+Perak,1/1/2014,male,chinese,357.2,3243
+Perak,1/1/2015,female,chinese,345.9,2553
+Perak,1/1/2015,male,chinese,357.2,3342
+Perak,1/1/2016,female,chinese,344,2658
+Perak,1/1/2016,male,chinese,356.1,3458
+Perak,1/1/2017,female,chinese,342.2,2616
+Perak,1/1/2017,male,chinese,353.7,3689
+Perak,1/1/2018,female,chinese,342,2731
+Perak,1/1/2018,male,chinese,352.1,3753
+Perak,1/1/2019,female,chinese,341.7,2739
+Perak,1/1/2019,male,chinese,350.5,3760
+Perak,1/1/2020,female,chinese,317.1,2649
+Perak,1/1/2020,male,chinese,326.5,3637
+Perak,1/1/2021,female,chinese,317.3,3044
+Perak,1/1/2021,male,chinese,325.6,4075
+Perak,1/1/2022,female,chinese,315.4,3197
+Perak,1/1/2022,male,chinese,322.9,4310
+Perak,1/1/2023,female,chinese,314,2976
+Perak,1/1/2023,male,chinese,320.5,4072
+Perlis,1/1/2000,female,chinese,10.2,60
+Perlis,1/1/2000,male,chinese,10.9,103
+Perlis,1/1/2001,female,chinese,10.1,79
+Perlis,1/1/2001,male,chinese,10.8,115
+Perlis,1/1/2002,female,chinese,10,66
+Perlis,1/1/2002,male,chinese,10.7,93
+Perlis,1/1/2003,female,chinese,9.9,68
+Perlis,1/1/2003,male,chinese,10.6,92
+Perlis,1/1/2004,female,chinese,9.7,73
+Perlis,1/1/2004,male,chinese,10.5,93
+Perlis,1/1/2005,female,chinese,9.6,63
+Perlis,1/1/2005,male,chinese,10.4,113
+Perlis,1/1/2006,female,chinese,9.4,55
+Perlis,1/1/2006,male,chinese,10.3,94
+Perlis,1/1/2007,female,chinese,9.3,75
+Perlis,1/1/2007,male,chinese,10.1,88
+Perlis,1/1/2008,female,chinese,9.2,76
+Perlis,1/1/2008,male,chinese,10,94
+Perlis,1/1/2009,female,chinese,9,56
+Perlis,1/1/2009,male,chinese,10,112
+Perlis,1/1/2010,female,chinese,9,78
+Perlis,1/1/2010,male,chinese,9.9,96
+Perlis,1/1/2011,female,chinese,9,54
+Perlis,1/1/2011,male,chinese,9.9,94
+Perlis,1/1/2012,female,chinese,9,67
+Perlis,1/1/2012,male,chinese,9.9,97
+Perlis,1/1/2013,female,chinese,9.1,74
+Perlis,1/1/2013,male,chinese,9.9,106
+Perlis,1/1/2014,female,chinese,9.2,62
+Perlis,1/1/2014,male,chinese,9.9,84
+Perlis,1/1/2015,female,chinese,9.2,65
+Perlis,1/1/2015,male,chinese,9.9,88
+Perlis,1/1/2016,female,chinese,9.3,69
+Perlis,1/1/2016,male,chinese,9.9,105
+Perlis,1/1/2017,female,chinese,9.2,79
+Perlis,1/1/2017,male,chinese,9.7,108
+Perlis,1/1/2018,female,chinese,9.2,78
+Perlis,1/1/2018,male,chinese,9.7,104
+Perlis,1/1/2019,female,chinese,9.2,67
+Perlis,1/1/2019,male,chinese,9.6,118
+Perlis,1/1/2020,female,chinese,9.8,64
+Perlis,1/1/2020,male,chinese,10.7,114
+Perlis,1/1/2021,female,chinese,9.8,94
+Perlis,1/1/2021,male,chinese,10.6,143
+Perlis,1/1/2022,female,chinese,9.8,92
+Perlis,1/1/2022,male,chinese,10.5,142
+Perlis,1/1/2023,female,chinese,9.7,89
+Perlis,1/1/2023,male,chinese,10.4,123
+Penang,1/1/2000,female,chinese,299.1,1599
+Penang,1/1/2000,male,chinese,301.6,1959
+Penang,1/1/2001,female,chinese,303.7,1650
+Penang,1/1/2001,male,chinese,306.4,1973
+Penang,1/1/2002,female,chinese,307.6,1751
+Penang,1/1/2002,male,chinese,310.5,2140
+Penang,1/1/2003,female,chinese,311.3,1786
+Penang,1/1/2003,male,chinese,314.4,2184
+Penang,1/1/2004,female,chinese,314.9,1771
+Penang,1/1/2004,male,chinese,317.9,2225
+Penang,1/1/2005,female,chinese,318.3,1778
+Penang,1/1/2005,male,chinese,321.4,2261
+Penang,1/1/2006,female,chinese,321.7,1794
+Penang,1/1/2006,male,chinese,324.7,2201
+Penang,1/1/2007,female,chinese,324.9,1842
+Penang,1/1/2007,male,chinese,328,2411
+Penang,1/1/2008,female,chinese,328.1,1892
+Penang,1/1/2008,male,chinese,331.1,2356
+Penang,1/1/2009,female,chinese,331.1,1936
+Penang,1/1/2009,male,chinese,334.1,2436
+Penang,1/1/2010,female,chinese,334.2,2017
+Penang,1/1/2010,male,chinese,337.1,2547
+Penang,1/1/2011,female,chinese,336.3,2025
+Penang,1/1/2011,male,chinese,338.6,2602
+Penang,1/1/2012,female,chinese,337.6,2058
+Penang,1/1/2012,male,chinese,340.5,2497
+Penang,1/1/2013,female,chinese,338.6,2114
+Penang,1/1/2013,male,chinese,342.7,2685
+Penang,1/1/2014,female,chinese,339.2,2111
+Penang,1/1/2014,male,chinese,344.3,2680
+Penang,1/1/2015,female,chinese,340.6,2193
+Penang,1/1/2015,male,chinese,345.2,2958
+Penang,1/1/2016,female,chinese,343.1,2303
+Penang,1/1/2016,male,chinese,345.8,3038
+Penang,1/1/2017,female,chinese,345.8,2256
+Penang,1/1/2017,male,chinese,348.4,2956
+Penang,1/1/2018,female,chinese,346.3,2402
+Penang,1/1/2018,male,chinese,347.9,3099
+Penang,1/1/2019,female,chinese,346.6,2341
+Penang,1/1/2019,male,chinese,347.3,2984
+Penang,1/1/2020,female,chinese,354.4,2307
+Penang,1/1/2020,male,chinese,364,3027
+Penang,1/1/2021,female,chinese,354.5,3021
+Penang,1/1/2021,male,chinese,363.7,3717
+Penang,1/1/2022,female,chinese,353.5,2709
+Penang,1/1/2022,male,chinese,361.8,3604
+Penang,1/1/2023,female,chinese,352.8,2769
+Penang,1/1/2023,male,chinese,360.4,3374
+Sabah,1/1/2000,female,chinese,241.1,379
+Sabah,1/1/2000,male,chinese,238.9,601
+Sabah,1/1/2001,female,chinese,245,424
+Sabah,1/1/2001,male,chinese,243.3,672
+Sabah,1/1/2002,female,chinese,248.5,423
+Sabah,1/1/2002,male,chinese,247.7,642
+Sabah,1/1/2003,female,chinese,251.7,486
+Sabah,1/1/2003,male,chinese,251.7,676
+Sabah,1/1/2004,female,chinese,255.3,472
+Sabah,1/1/2004,male,chinese,255.8,696
+Sabah,1/1/2005,female,chinese,259.1,485
+Sabah,1/1/2005,male,chinese,260.2,658
+Sabah,1/1/2006,female,chinese,263.1,434
+Sabah,1/1/2006,male,chinese,264.8,703
+Sabah,1/1/2007,female,chinese,267.3,464
+Sabah,1/1/2007,male,chinese,269.7,693
+Sabah,1/1/2008,female,chinese,271.9,511
+Sabah,1/1/2008,male,chinese,274.9,763
+Sabah,1/1/2009,female,chinese,276.7,512
+Sabah,1/1/2009,male,chinese,280.6,711
+Sabah,1/1/2010,female,chinese,142.4,542
+Sabah,1/1/2010,male,chinese,153.3,802
+Sabah,1/1/2011,female,chinese,143.7,527
+Sabah,1/1/2011,male,chinese,154.6,808
+Sabah,1/1/2012,female,chinese,144.5,540
+Sabah,1/1/2012,male,chinese,155.4,767
+Sabah,1/1/2013,female,chinese,145.1,522
+Sabah,1/1/2013,male,chinese,156.4,788
+Sabah,1/1/2014,female,chinese,146.4,655
+Sabah,1/1/2014,male,chinese,157.2,1037
+Sabah,1/1/2015,female,chinese,146.6,673
+Sabah,1/1/2015,male,chinese,156.9,1064
+Sabah,1/1/2016,female,chinese,148.5,786
+Sabah,1/1/2016,male,chinese,158.5,1115
+Sabah,1/1/2017,female,chinese,148.5,815
+Sabah,1/1/2017,male,chinese,158.5,1148
+Sabah,1/1/2018,female,chinese,148.7,908
+Sabah,1/1/2018,male,chinese,158.2,1234
+Sabah,1/1/2019,female,chinese,148.9,904
+Sabah,1/1/2019,male,chinese,158.2,1335
+Sabah,1/1/2020,female,chinese,117.3,892
+Sabah,1/1/2020,male,chinese,131.7,1398
+Sabah,1/1/2021,female,chinese,117,1055
+Sabah,1/1/2021,male,chinese,130.9,1657
+Sabah,1/1/2022,female,chinese,116.4,1093
+Sabah,1/1/2022,male,chinese,129.8,1572
+Sabah,1/1/2023,female,chinese,115.9,998
+Sabah,1/1/2023,male,chinese,128.9,1460
+Sarawak,1/1/2000,female,chinese,301.3,898
+Sarawak,1/1/2000,male,chinese,302.5,1288
+Sarawak,1/1/2001,female,chinese,306.2,947
+Sarawak,1/1/2001,male,chinese,308.2,1265
+Sarawak,1/1/2002,female,chinese,311.5,944
+Sarawak,1/1/2002,male,chinese,313.7,1311
+Sarawak,1/1/2003,female,chinese,316.5,1007
+Sarawak,1/1/2003,male,chinese,319.4,1327
+Sarawak,1/1/2004,female,chinese,322.3,995
+Sarawak,1/1/2004,male,chinese,324.9,1436
+Sarawak,1/1/2005,female,chinese,327.7,1027
+Sarawak,1/1/2005,male,chinese,330.9,1420
+Sarawak,1/1/2006,female,chinese,333.4,1067
+Sarawak,1/1/2006,male,chinese,336.9,1387
+Sarawak,1/1/2007,female,chinese,338.5,1131
+Sarawak,1/1/2007,male,chinese,342.3,1472
+Sarawak,1/1/2008,female,chinese,344.4,1102
+Sarawak,1/1/2008,male,chinese,348.4,1531
+Sarawak,1/1/2009,female,chinese,351.3,1176
+Sarawak,1/1/2009,male,chinese,354.6,1622
+Sarawak,1/1/2010,female,chinese,282.5,1130
+Sarawak,1/1/2010,male,chinese,301.6,1665
+Sarawak,1/1/2011,female,chinese,284.9,1149
+Sarawak,1/1/2011,male,chinese,304.4,1628
+Sarawak,1/1/2012,female,chinese,288.2,1189
+Sarawak,1/1/2012,male,chinese,307.7,1707
+Sarawak,1/1/2013,female,chinese,291.3,1211
+Sarawak,1/1/2013,male,chinese,311.1,1700
+Sarawak,1/1/2014,female,chinese,293.6,1302
+Sarawak,1/1/2014,male,chinese,313.1,1858
+Sarawak,1/1/2015,female,chinese,296.1,1349
+Sarawak,1/1/2015,male,chinese,315.5,1806
+Sarawak,1/1/2016,female,chinese,298.4,1319
+Sarawak,1/1/2016,male,chinese,317.4,1902
+Sarawak,1/1/2017,female,chinese,300.2,1424
+Sarawak,1/1/2017,male,chinese,318.9,1996
+Sarawak,1/1/2018,female,chinese,301.8,1492
+Sarawak,1/1/2018,male,chinese,320.2,2081
+Sarawak,1/1/2019,female,chinese,303.5,1526
+Sarawak,1/1/2019,male,chinese,321.5,2083
+Sarawak,1/1/2020,female,chinese,269.2,1487
+Sarawak,1/1/2020,male,chinese,285.4,2238
+Sarawak,1/1/2021,female,chinese,270.3,1800
+Sarawak,1/1/2021,male,chinese,285.9,2680
+Sarawak,1/1/2022,female,chinese,270.5,1732
+Sarawak,1/1/2022,male,chinese,285.3,2569
+Sarawak,1/1/2023,female,chinese,271.4,1690
+Sarawak,1/1/2023,male,chinese,285.3,2509
+Selangor,1/1/2000,female,chinese,596.8,1770
+Selangor,1/1/2000,male,chinese,633.5,2299
+Selangor,1/1/2001,female,chinese,608.3,1894
+Selangor,1/1/2001,male,chinese,646.4,2366
+Selangor,1/1/2002,female,chinese,618.8,1903
+Selangor,1/1/2002,male,chinese,658.4,2445
+Selangor,1/1/2003,female,chinese,629.4,1951
+Selangor,1/1/2003,male,chinese,670.5,2467
+Selangor,1/1/2004,female,chinese,640,1994
+Selangor,1/1/2004,male,chinese,682.2,2683
+Selangor,1/1/2005,female,chinese,650.6,2111
+Selangor,1/1/2005,male,chinese,693.8,2679
+Selangor,1/1/2006,female,chinese,661,2174
+Selangor,1/1/2006,male,chinese,705.1,2866
+Selangor,1/1/2007,female,chinese,671.1,2154
+Selangor,1/1/2007,male,chinese,716.5,2846
+Selangor,1/1/2008,female,chinese,681.1,2319
+Selangor,1/1/2008,male,chinese,727.6,3024
+Selangor,1/1/2009,female,chinese,691.2,2364
+Selangor,1/1/2009,male,chinese,738.5,3151
+Selangor,1/1/2010,female,chinese,700.8,2471
+Selangor,1/1/2010,male,chinese,748.8,3338
+Selangor,1/1/2011,female,chinese,706.4,2536
+Selangor,1/1/2011,male,chinese,754.5,3439
+Selangor,1/1/2012,female,chinese,713.8,2912
+Selangor,1/1/2012,male,chinese,762.1,3772
+Selangor,1/1/2013,female,chinese,725.1,2877
+Selangor,1/1/2013,male,chinese,771.3,3864
+Selangor,1/1/2014,female,chinese,735,3062
+Selangor,1/1/2014,male,chinese,778.8,4086
+Selangor,1/1/2015,female,chinese,744.5,3294
+Selangor,1/1/2015,male,chinese,787.3,4210
+Selangor,1/1/2016,female,chinese,751,3302
+Selangor,1/1/2016,male,chinese,793,4667
+Selangor,1/1/2017,female,chinese,756.2,3617
+Selangor,1/1/2017,male,chinese,797.2,4840
+Selangor,1/1/2018,female,chinese,759.3,3547
+Selangor,1/1/2018,male,chinese,800.9,4911
+Selangor,1/1/2019,female,chinese,762.2,3719
+Selangor,1/1/2019,male,chinese,804.9,4936
+Selangor,1/1/2020,female,chinese,862.2,3521
+Selangor,1/1/2020,male,chinese,894,4710
+Selangor,1/1/2021,female,chinese,864.1,4884
+Selangor,1/1/2021,male,chinese,894.9,6961
+Selangor,1/1/2022,female,chinese,864.3,4380
+Selangor,1/1/2022,male,chinese,893.5,5938
+Selangor,1/1/2023,female,chinese,865.5,4327
+Selangor,1/1/2023,male,chinese,893.3,5954
+Terengganu,1/1/2000,female,chinese,11.9,85
+Terengganu,1/1/2000,male,chinese,13.1,92
+Terengganu,1/1/2001,female,chinese,12,68
+Terengganu,1/1/2001,male,chinese,13.3,92
+Terengganu,1/1/2002,female,chinese,12,60
+Terengganu,1/1/2002,male,chinese,13.4,93
+Terengganu,1/1/2003,female,chinese,12.1,65
+Terengganu,1/1/2003,male,chinese,13.5,108
+Terengganu,1/1/2004,female,chinese,12.1,75
+Terengganu,1/1/2004,male,chinese,13.7,99
+Terengganu,1/1/2005,female,chinese,12.1,83
+Terengganu,1/1/2005,male,chinese,13.8,98
+Terengganu,1/1/2006,female,chinese,12.1,71
+Terengganu,1/1/2006,male,chinese,14,110
+Terengganu,1/1/2007,female,chinese,12.1,59
+Terengganu,1/1/2007,male,chinese,14.1,94
+Terengganu,1/1/2008,female,chinese,12.2,82
+Terengganu,1/1/2008,male,chinese,14.3,114
+Terengganu,1/1/2009,female,chinese,12.2,69
+Terengganu,1/1/2009,male,chinese,14.4,102
+Terengganu,1/1/2010,female,chinese,12.2,81
+Terengganu,1/1/2010,male,chinese,14.5,112
+Terengganu,1/1/2011,female,chinese,12.3,81
+Terengganu,1/1/2011,male,chinese,14.6,119
+Terengganu,1/1/2012,female,chinese,11.8,66
+Terengganu,1/1/2012,male,chinese,14.8,131
+Terengganu,1/1/2013,female,chinese,12.1,62
+Terengganu,1/1/2013,male,chinese,15,121
+Terengganu,1/1/2014,female,chinese,12.4,80
+Terengganu,1/1/2014,male,chinese,15.3,110
+Terengganu,1/1/2015,female,chinese,12.4,80
+Terengganu,1/1/2015,male,chinese,15.4,112
+Terengganu,1/1/2016,female,chinese,12.6,75
+Terengganu,1/1/2016,male,chinese,15.7,120
+Terengganu,1/1/2017,female,chinese,12.6,73
+Terengganu,1/1/2017,male,chinese,15.8,132
+Terengganu,1/1/2018,female,chinese,12.6,81
+Terengganu,1/1/2018,male,chinese,15.9,99
+Terengganu,1/1/2019,female,chinese,12.5,92
+Terengganu,1/1/2019,male,chinese,16,145
+Terengganu,1/1/2020,female,chinese,11.1,67
+Terengganu,1/1/2020,male,chinese,12,124
+Terengganu,1/1/2021,female,chinese,11.1,85
+Terengganu,1/1/2021,male,chinese,11.9,143
+Terengganu,1/1/2022,female,chinese,11.1,100
+Terengganu,1/1/2022,male,chinese,11.9,141
+Terengganu,1/1/2023,female,chinese,11,78
+Terengganu,1/1/2023,male,chinese,11.8,154
+Kuala Lumpur,1/1/2000,female,chinese,282.3,1207
+Kuala Lumpur,1/1/2000,male,chinese,294.3,1565
+Kuala Lumpur,1/1/2001,female,chinese,286.7,1302
+Kuala Lumpur,1/1/2001,male,chinese,299.2,1650
+Kuala Lumpur,1/1/2002,female,chinese,290.5,1348
+Kuala Lumpur,1/1/2002,male,chinese,303.5,1640
+Kuala Lumpur,1/1/2003,female,chinese,294.2,1422
+Kuala Lumpur,1/1/2003,male,chinese,307.8,1704
+Kuala Lumpur,1/1/2004,female,chinese,297.7,1278
+Kuala Lumpur,1/1/2004,male,chinese,311.9,1659
+Kuala Lumpur,1/1/2005,female,chinese,301.2,1291
+Kuala Lumpur,1/1/2005,male,chinese,316.2,1641
+Kuala Lumpur,1/1/2006,female,chinese,304.9,1252
+Kuala Lumpur,1/1/2006,male,chinese,320.5,1630
+Kuala Lumpur,1/1/2007,female,chinese,308.4,1290
+Kuala Lumpur,1/1/2007,male,chinese,324.8,1713
+Kuala Lumpur,1/1/2008,female,chinese,312.1,1401
+Kuala Lumpur,1/1/2008,male,chinese,329.1,1676
+Kuala Lumpur,1/1/2009,female,chinese,315.6,1362
+Kuala Lumpur,1/1/2009,male,chinese,333.2,1875
+Kuala Lumpur,1/1/2010,female,chinese,319.7,1388
+Kuala Lumpur,1/1/2010,male,chinese,337.2,1834
+Kuala Lumpur,1/1/2011,female,chinese,321.3,1504
+Kuala Lumpur,1/1/2011,male,chinese,338.5,1947
+Kuala Lumpur,1/1/2012,female,chinese,323.7,1409
+Kuala Lumpur,1/1/2012,male,chinese,339.7,1873
+Kuala Lumpur,1/1/2013,female,chinese,323.5,1485
+Kuala Lumpur,1/1/2013,male,chinese,337.5,1927
+Kuala Lumpur,1/1/2014,female,chinese,323.2,1536
+Kuala Lumpur,1/1/2014,male,chinese,335.3,2152
+Kuala Lumpur,1/1/2015,female,chinese,322.8,1600
+Kuala Lumpur,1/1/2015,male,chinese,334.2,2104
+Kuala Lumpur,1/1/2016,female,chinese,322.4,1635
+Kuala Lumpur,1/1/2016,male,chinese,332.5,2220
+Kuala Lumpur,1/1/2017,female,chinese,322.5,1698
+Kuala Lumpur,1/1/2017,male,chinese,332,2224
+Kuala Lumpur,1/1/2018,female,chinese,322.6,1701
+Kuala Lumpur,1/1/2018,male,chinese,331.5,2308
+Kuala Lumpur,1/1/2019,female,chinese,323.4,1770
+Kuala Lumpur,1/1/2019,male,chinese,331.5,2439
+Kuala Lumpur,1/1/2020,female,chinese,362.3,1817
+Kuala Lumpur,1/1/2020,male,chinese,374.9,2238
+Kuala Lumpur,1/1/2021,female,chinese,360.1,2407
+Kuala Lumpur,1/1/2021,male,chinese,372.3,3385
+Kuala Lumpur,1/1/2022,female,chinese,359.6,2082
+Kuala Lumpur,1/1/2022,male,chinese,371.1,2677
+Kuala Lumpur,1/1/2023,female,chinese,359.6,1966
+Kuala Lumpur,1/1/2023,male,chinese,370.9,2517
+Labuan,1/1/2000,female,chinese,2.5,19
+Labuan,1/1/2000,male,chinese,2.4,25
+Labuan,1/1/2001,female,chinese,2.6,13
+Labuan,1/1/2001,male,chinese,2.5,19
+Labuan,1/1/2002,female,chinese,2.7,24
+Labuan,1/1/2002,male,chinese,2.7,28
+Labuan,1/1/2003,female,chinese,2.8,21
+Labuan,1/1/2003,male,chinese,2.8,36
+Labuan,1/1/2004,female,chinese,3,15
+Labuan,1/1/2004,male,chinese,2.9,33
+Labuan,1/1/2005,female,chinese,3.1,18
+Labuan,1/1/2005,male,chinese,3,23
+Labuan,1/1/2006,female,chinese,3.2,23
+Labuan,1/1/2006,male,chinese,3.2,21
+Labuan,1/1/2007,female,chinese,3.3,22
+Labuan,1/1/2007,male,chinese,3.3,22
+Labuan,1/1/2008,female,chinese,3.5,11
+Labuan,1/1/2008,male,chinese,3.4,25
+Labuan,1/1/2009,female,chinese,3.6,26
+Labuan,1/1/2009,male,chinese,3.6,26
+Labuan,1/1/2010,female,chinese,4.9,12
+Labuan,1/1/2010,male,chinese,5.2,33
+Labuan,1/1/2011,female,chinese,4.9,21
+Labuan,1/1/2011,male,chinese,5.2,24
+Labuan,1/1/2012,female,chinese,4.9,24
+Labuan,1/1/2012,male,chinese,4.5,36
+Labuan,1/1/2013,female,chinese,5,18
+Labuan,1/1/2013,male,chinese,4.5,30
+Labuan,1/1/2014,female,chinese,5,30
+Labuan,1/1/2014,male,chinese,4.5,32
+Labuan,1/1/2015,female,chinese,5,23
+Labuan,1/1/2015,male,chinese,4.5,22
+Labuan,1/1/2016,female,chinese,5,23
+Labuan,1/1/2016,male,chinese,4.5,27
+Labuan,1/1/2017,female,chinese,5,25
+Labuan,1/1/2017,male,chinese,4.5,34
+Labuan,1/1/2018,female,chinese,5,25
+Labuan,1/1/2018,male,chinese,4.6,41
+Labuan,1/1/2019,female,chinese,5,27
+Labuan,1/1/2019,male,chinese,4.5,36
+Labuan,1/1/2020,female,chinese,5.5,38
+Labuan,1/1/2020,male,chinese,4.4,34
+Labuan,1/1/2021,female,chinese,5.4,41
+Labuan,1/1/2021,male,chinese,4.3,52
+Labuan,1/1/2022,female,chinese,5.4,28
+Labuan,1/1/2022,male,chinese,4.3,51
+Labuan,1/1/2023,female,chinese,5.4,35
+Labuan,1/1/2023,male,chinese,4.3,40
+Putrajaya,1/1/2010,female,chinese,0.2,1
+Putrajaya,1/1/2010,male,chinese,0.2,1
+Putrajaya,1/1/2011,female,chinese,0.2,3
+Putrajaya,1/1/2011,male,chinese,0.3,0
+Putrajaya,1/1/2012,female,chinese,0.2,1
+Putrajaya,1/1/2012,male,chinese,0.3,0
+Putrajaya,1/1/2013,female,chinese,0.2,5
+Putrajaya,1/1/2013,male,chinese,0.3,1
+Putrajaya,1/1/2014,female,chinese,0.2,3
+Putrajaya,1/1/2014,male,chinese,0.3,3
+Putrajaya,1/1/2015,female,chinese,0.2,3
+Putrajaya,1/1/2015,male,chinese,0.3,1
+Putrajaya,1/1/2016,female,chinese,0.2,3
+Putrajaya,1/1/2016,male,chinese,0.3,0
+Putrajaya,1/1/2017,female,chinese,0.3,0
+Putrajaya,1/1/2017,male,chinese,0.3,2
+Putrajaya,1/1/2018,female,chinese,1,0
+Putrajaya,1/1/2018,male,chinese,0.5,2
+Putrajaya,1/1/2019,female,chinese,1.5,0
+Putrajaya,1/1/2019,male,chinese,0.6,2
+Putrajaya,1/1/2020,female,chinese,0.4,2
+Putrajaya,1/1/2020,male,chinese,0.3,2
+Putrajaya,1/1/2021,female,chinese,0.3,2
+Putrajaya,1/1/2021,male,chinese,0.3,2
+Putrajaya,1/1/2022,female,chinese,0.3,3
+Putrajaya,1/1/2022,male,chinese,0.3,1
+Putrajaya,1/1/2023,female,chinese,0.3,2
+Putrajaya,1/1/2023,male,chinese,0.3,5
+Johor,1/1/2000,female,indian,87.1,279
+Johor,1/1/2000,male,indian,91.8,529
+Johor,1/1/2001,female,indian,89.3,323
+Johor,1/1/2001,male,indian,94.1,504
+Johor,1/1/2002,female,indian,91.3,286
+Johor,1/1/2002,male,indian,96.4,595
+Johor,1/1/2003,female,indian,93.2,354
+Johor,1/1/2003,male,indian,98.5,593
+Johor,1/1/2004,female,indian,95.3,350
+Johor,1/1/2004,male,indian,100.5,615
+Johor,1/1/2005,female,indian,97.2,344
+Johor,1/1/2005,male,indian,102.5,656
+Johor,1/1/2006,female,indian,99,385
+Johor,1/1/2006,male,indian,104.6,708
+Johor,1/1/2007,female,indian,100.8,377
+Johor,1/1/2007,male,indian,106.5,724
+Johor,1/1/2008,female,indian,102.6,403
+Johor,1/1/2008,male,indian,108.6,740
+Johor,1/1/2009,female,indian,104.4,409
+Johor,1/1/2009,male,indian,110.5,757
+Johor,1/1/2010,female,indian,106.1,449
+Johor,1/1/2010,male,indian,112.4,769
+Johor,1/1/2011,female,indian,107,463
+Johor,1/1/2011,male,indian,113.2,810
+Johor,1/1/2012,female,indian,108,442
+Johor,1/1/2012,male,indian,113.9,822
+Johor,1/1/2013,female,indian,109.2,508
+Johor,1/1/2013,male,indian,115,864
+Johor,1/1/2014,female,indian,110.7,485
+Johor,1/1/2014,male,indian,116.9,905
+Johor,1/1/2015,female,indian,112.6,551
+Johor,1/1/2015,male,indian,118.2,927
+Johor,1/1/2016,female,indian,113.7,580
+Johor,1/1/2016,male,indian,118.9,970
+Johor,1/1/2017,female,indian,115.3,658
+Johor,1/1/2017,male,indian,120.4,1000
+Johor,1/1/2018,female,indian,117.8,652
+Johor,1/1/2018,male,indian,121.3,1056
+Johor,1/1/2019,female,indian,119.7,685
+Johor,1/1/2019,male,indian,122.1,1150
+Johor,1/1/2020,female,indian,121.5,584
+Johor,1/1/2020,male,indian,122.8,990
+Johor,1/1/2021,female,indian,121.9,879
+Johor,1/1/2021,male,indian,123,1180
+Johor,1/1/2022,female,indian,122,752
+Johor,1/1/2022,male,indian,122.7,1160
+Johor,1/1/2023,female,indian,122.7,794
+Johor,1/1/2023,male,indian,123.1,1195
+Kedah,1/1/2000,female,indian,60,220
+Kedah,1/1/2000,male,indian,57.9,426
+Kedah,1/1/2001,female,indian,61.1,235
+Kedah,1/1/2001,male,indian,58.9,393
+Kedah,1/1/2002,female,indian,62.1,284
+Kedah,1/1/2002,male,indian,59.9,472
+Kedah,1/1/2003,female,indian,63.1,241
+Kedah,1/1/2003,male,indian,60.8,441
+Kedah,1/1/2004,female,indian,64.3,253
+Kedah,1/1/2004,male,indian,61.8,464
+Kedah,1/1/2005,female,indian,65.2,252
+Kedah,1/1/2005,male,indian,62.7,445
+Kedah,1/1/2006,female,indian,66.1,278
+Kedah,1/1/2006,male,indian,63.6,458
+Kedah,1/1/2007,female,indian,67,283
+Kedah,1/1/2007,male,indian,64.4,471
+Kedah,1/1/2008,female,indian,67.8,291
+Kedah,1/1/2008,male,indian,65.3,485
+Kedah,1/1/2009,female,indian,68.7,270
+Kedah,1/1/2009,male,indian,66.1,444
+Kedah,1/1/2010,female,indian,69.6,334
+Kedah,1/1/2010,male,indian,67.1,495
+Kedah,1/1/2011,female,indian,70.1,312
+Kedah,1/1/2011,male,indian,67.2,529
+Kedah,1/1/2012,female,indian,70.3,348
+Kedah,1/1/2012,male,indian,67.6,588
+Kedah,1/1/2013,female,indian,70.3,322
+Kedah,1/1/2013,male,indian,68,554
+Kedah,1/1/2014,female,indian,70.4,381
+Kedah,1/1/2014,male,indian,68.4,558
+Kedah,1/1/2015,female,indian,70.7,385
+Kedah,1/1/2015,male,indian,69.5,577
+Kedah,1/1/2016,female,indian,70.7,386
+Kedah,1/1/2016,male,indian,69.8,560
+Kedah,1/1/2017,female,indian,70.9,407
+Kedah,1/1/2017,male,indian,70.1,557
+Kedah,1/1/2018,female,indian,71,411
+Kedah,1/1/2018,male,indian,69.9,588
+Kedah,1/1/2019,female,indian,71,433
+Kedah,1/1/2019,male,indian,69.8,637
+Kedah,1/1/2020,female,indian,66.6,405
+Kedah,1/1/2020,male,indian,62.4,564
+Kedah,1/1/2021,female,indian,66.7,618
+Kedah,1/1/2021,male,indian,62.3,830
+Kedah,1/1/2022,female,indian,66.6,474
+Kedah,1/1/2022,male,indian,62,693
+Kedah,1/1/2023,female,indian,66.7,497
+Kedah,1/1/2023,male,indian,61.9,712
+Kelantan,1/1/2000,female,indian,1.9,10
+Kelantan,1/1/2000,male,indian,1.9,22
+Kelantan,1/1/2001,female,indian,1.9,7
+Kelantan,1/1/2001,male,indian,2,22
+Kelantan,1/1/2002,female,indian,1.9,8
+Kelantan,1/1/2002,male,indian,2.1,19
+Kelantan,1/1/2003,female,indian,2,6
+Kelantan,1/1/2003,male,indian,2.1,18
+Kelantan,1/1/2004,female,indian,2,8
+Kelantan,1/1/2004,male,indian,2.2,16
+Kelantan,1/1/2005,female,indian,2,6
+Kelantan,1/1/2005,male,indian,2.2,18
+Kelantan,1/1/2006,female,indian,2,14
+Kelantan,1/1/2006,male,indian,2.3,17
+Kelantan,1/1/2007,female,indian,2,11
+Kelantan,1/1/2007,male,indian,2.3,11
+Kelantan,1/1/2008,female,indian,2,14
+Kelantan,1/1/2008,male,indian,2.4,18
+Kelantan,1/1/2009,female,indian,2,10
+Kelantan,1/1/2009,male,indian,2.5,21
+Kelantan,1/1/2010,female,indian,2,8
+Kelantan,1/1/2010,male,indian,2.5,20
+Kelantan,1/1/2011,female,indian,2,5
+Kelantan,1/1/2011,male,indian,2.6,14
+Kelantan,1/1/2012,female,indian,2,12
+Kelantan,1/1/2012,male,indian,2.6,23
+Kelantan,1/1/2013,female,indian,2.1,8
+Kelantan,1/1/2013,male,indian,2.6,16
+Kelantan,1/1/2014,female,indian,2.1,10
+Kelantan,1/1/2014,male,indian,2.6,13
+Kelantan,1/1/2015,female,indian,2.1,9
+Kelantan,1/1/2015,male,indian,2.6,17
+Kelantan,1/1/2016,female,indian,2.1,7
+Kelantan,1/1/2016,male,indian,2.6,17
+Kelantan,1/1/2017,female,indian,2.1,14
+Kelantan,1/1/2017,male,indian,2.7,22
+Kelantan,1/1/2018,female,indian,2.1,6
+Kelantan,1/1/2018,male,indian,2.7,21
+Kelantan,1/1/2019,female,indian,2.1,9
+Kelantan,1/1/2019,male,indian,2.7,22
+Kelantan,1/1/2020,female,indian,2.4,7
+Kelantan,1/1/2020,male,indian,2.3,14
+Kelantan,1/1/2021,female,indian,2.5,12
+Kelantan,1/1/2021,male,indian,2.3,28
+Kelantan,1/1/2022,female,indian,2.5,14
+Kelantan,1/1/2022,male,indian,2.3,22
+Kelantan,1/1/2023,female,indian,2.5,10
+Kelantan,1/1/2023,male,indian,2.3,16
+Malacca,1/1/2000,female,indian,20.7,102
+Malacca,1/1/2000,male,indian,20.1,162
+Malacca,1/1/2001,female,indian,21.2,99
+Malacca,1/1/2001,male,indian,20.6,161
+Malacca,1/1/2002,female,indian,21.6,107
+Malacca,1/1/2002,male,indian,21.1,156
+Malacca,1/1/2003,female,indian,22,100
+Malacca,1/1/2003,male,indian,21.6,182
+Malacca,1/1/2004,female,indian,22.5,105
+Malacca,1/1/2004,male,indian,22,173
+Malacca,1/1/2005,female,indian,22.9,108
+Malacca,1/1/2005,male,indian,22.4,161
+Malacca,1/1/2006,female,indian,23.3,102
+Malacca,1/1/2006,male,indian,22.9,169
+Malacca,1/1/2007,female,indian,23.7,107
+Malacca,1/1/2007,male,indian,23.3,162
+Malacca,1/1/2008,female,indian,24.1,103
+Malacca,1/1/2008,male,indian,23.7,203
+Malacca,1/1/2009,female,indian,24.5,118
+Malacca,1/1/2009,male,indian,24.1,194
+Malacca,1/1/2010,female,indian,24.9,100
+Malacca,1/1/2010,male,indian,24.5,199
+Malacca,1/1/2011,female,indian,23.7,131
+Malacca,1/1/2011,male,indian,24,205
+Malacca,1/1/2012,female,indian,23.2,123
+Malacca,1/1/2012,male,indian,24.3,219
+Malacca,1/1/2013,female,indian,23.7,138
+Malacca,1/1/2013,male,indian,24.8,215
+Malacca,1/1/2014,female,indian,24,111
+Malacca,1/1/2014,male,indian,25.2,227
+Malacca,1/1/2015,female,indian,24.4,135
+Malacca,1/1/2015,male,indian,25.6,204
+Malacca,1/1/2016,female,indian,24.6,135
+Malacca,1/1/2016,male,indian,26,242
+Malacca,1/1/2017,female,indian,24.9,152
+Malacca,1/1/2017,male,indian,26,254
+Malacca,1/1/2018,female,indian,25,162
+Malacca,1/1/2018,male,indian,26.1,239
+Malacca,1/1/2019,female,indian,25.1,174
+Malacca,1/1/2019,male,indian,26.3,210
+Malacca,1/1/2020,female,indian,26.3,166
+Malacca,1/1/2020,male,indian,26.1,236
+Malacca,1/1/2021,female,indian,26.3,227
+Malacca,1/1/2021,male,indian,26.1,275
+Malacca,1/1/2022,female,indian,26.3,204
+Malacca,1/1/2022,male,indian,26,299
+Malacca,1/1/2023,female,indian,26.4,191
+Malacca,1/1/2023,male,indian,26,257
+Negeri Sembilan,1/1/2000,female,indian,67.5,249
+Negeri Sembilan,1/1/2000,male,indian,66.5,536
+Negeri Sembilan,1/1/2001,female,indian,68.4,253
+Negeri Sembilan,1/1/2001,male,indian,67.3,464
+Negeri Sembilan,1/1/2002,female,indian,69.3,300
+Negeri Sembilan,1/1/2002,male,indian,68.3,474
+Negeri Sembilan,1/1/2003,female,indian,70,282
+Negeri Sembilan,1/1/2003,male,indian,69.1,534
+Negeri Sembilan,1/1/2004,female,indian,70.7,312
+Negeri Sembilan,1/1/2004,male,indian,69.9,564
+Negeri Sembilan,1/1/2005,female,indian,71.4,313
+Negeri Sembilan,1/1/2005,male,indian,70.6,506
+Negeri Sembilan,1/1/2006,female,indian,72,311
+Negeri Sembilan,1/1/2006,male,indian,71.4,519
+Negeri Sembilan,1/1/2007,female,indian,72.6,306
+Negeri Sembilan,1/1/2007,male,indian,72.1,528
+Negeri Sembilan,1/1/2008,female,indian,73.2,312
+Negeri Sembilan,1/1/2008,male,indian,72.8,576
+Negeri Sembilan,1/1/2009,female,indian,73.9,315
+Negeri Sembilan,1/1/2009,male,indian,73.5,592
+Negeri Sembilan,1/1/2010,female,indian,74.4,309
+Negeri Sembilan,1/1/2010,male,indian,73.9,627
+Negeri Sembilan,1/1/2011,female,indian,76.3,325
+Negeri Sembilan,1/1/2011,male,indian,74.7,615
+Negeri Sembilan,1/1/2012,female,indian,75.3,357
+Negeri Sembilan,1/1/2012,male,indian,75.2,603
+Negeri Sembilan,1/1/2013,female,indian,75.8,396
+Negeri Sembilan,1/1/2013,male,indian,76,679
+Negeri Sembilan,1/1/2014,female,indian,76.7,421
+Negeri Sembilan,1/1/2014,male,indian,76.7,634
+Negeri Sembilan,1/1/2015,female,indian,76.2,402
+Negeri Sembilan,1/1/2015,male,indian,76.3,668
+Negeri Sembilan,1/1/2016,female,indian,77,414
+Negeri Sembilan,1/1/2016,male,indian,76.7,739
+Negeri Sembilan,1/1/2017,female,indian,77.3,487
+Negeri Sembilan,1/1/2017,male,indian,77.1,681
+Negeri Sembilan,1/1/2018,female,indian,77.2,441
+Negeri Sembilan,1/1/2018,male,indian,76.9,774
+Negeri Sembilan,1/1/2019,female,indian,77.3,471
+Negeri Sembilan,1/1/2019,male,indian,76.7,656
+Negeri Sembilan,1/1/2020,female,indian,79.8,466
+Negeri Sembilan,1/1/2020,male,indian,81.9,663
+Negeri Sembilan,1/1/2021,female,indian,80.2,651
+Negeri Sembilan,1/1/2021,male,indian,82.1,894
+Negeri Sembilan,1/1/2022,female,indian,80.4,551
+Negeri Sembilan,1/1/2022,male,indian,82,820
+Negeri Sembilan,1/1/2023,female,indian,80.7,572
+Negeri Sembilan,1/1/2023,male,indian,82.2,756
+Pahang,1/1/2000,female,indian,30.3,83
+Pahang,1/1/2000,male,indian,31.6,190
+Pahang,1/1/2001,female,indian,30.4,91
+Pahang,1/1/2001,male,indian,31.8,182
+Pahang,1/1/2002,female,indian,30.4,111
+Pahang,1/1/2002,male,indian,31.8,220
+Pahang,1/1/2003,female,indian,30.4,109
+Pahang,1/1/2003,male,indian,31.9,199
+Pahang,1/1/2004,female,indian,30.5,110
+Pahang,1/1/2004,male,indian,32,226
+Pahang,1/1/2005,female,indian,30.4,96
+Pahang,1/1/2005,male,indian,32.2,210
+Pahang,1/1/2006,female,indian,30.4,115
+Pahang,1/1/2006,male,indian,32.3,173
+Pahang,1/1/2007,female,indian,30.3,109
+Pahang,1/1/2007,male,indian,32.4,213
+Pahang,1/1/2008,female,indian,30.3,92
+Pahang,1/1/2008,male,indian,32.6,215
+Pahang,1/1/2009,female,indian,30.3,123
+Pahang,1/1/2009,male,indian,32.7,213
+Pahang,1/1/2010,female,indian,30.4,111
+Pahang,1/1/2010,male,indian,32.7,239
+Pahang,1/1/2011,female,indian,30.8,97
+Pahang,1/1/2011,male,indian,33.2,241
+Pahang,1/1/2012,female,indian,31,107
+Pahang,1/1/2012,male,indian,33.4,246
+Pahang,1/1/2013,female,indian,30.7,134
+Pahang,1/1/2013,male,indian,33.6,249
+Pahang,1/1/2014,female,indian,31.1,128
+Pahang,1/1/2014,male,indian,33.7,268
+Pahang,1/1/2015,female,indian,30.7,144
+Pahang,1/1/2015,male,indian,33.8,232
+Pahang,1/1/2016,female,indian,31.1,134
+Pahang,1/1/2016,male,indian,33.9,264
+Pahang,1/1/2017,female,indian,31.3,163
+Pahang,1/1/2017,male,indian,34,263
+Pahang,1/1/2018,female,indian,31.8,145
+Pahang,1/1/2018,male,indian,34.7,262
+Pahang,1/1/2019,female,indian,32.2,155
+Pahang,1/1/2019,male,indian,35.4,252
+Pahang,1/1/2020,female,indian,27.4,128
+Pahang,1/1/2020,male,indian,28.5,232
+Pahang,1/1/2021,female,indian,27.4,196
+Pahang,1/1/2021,male,indian,28.4,311
+Pahang,1/1/2022,female,indian,27.4,188
+Pahang,1/1/2022,male,indian,28.3,277
+Pahang,1/1/2023,female,indian,27.5,173
+Pahang,1/1/2023,male,indian,28.3,242
+Perak,1/1/2000,female,indian,136.5,592
+Perak,1/1/2000,male,indian,130.6,1063
+Perak,1/1/2001,female,indian,137.9,620
+Perak,1/1/2001,male,indian,132.1,1065
+Perak,1/1/2002,female,indian,139.2,678
+Perak,1/1/2002,male,indian,133.3,1104
+Perak,1/1/2003,female,indian,140.1,686
+Perak,1/1/2003,male,indian,134.4,1111
+Perak,1/1/2004,female,indian,141.3,634
+Perak,1/1/2004,male,indian,135.3,1127
+Perak,1/1/2005,female,indian,142.2,646
+Perak,1/1/2005,male,indian,136.2,1093
+Perak,1/1/2006,female,indian,143,661
+Perak,1/1/2006,male,indian,137,1076
+Perak,1/1/2007,female,indian,143.7,680
+Perak,1/1/2007,male,indian,137.7,1074
+Perak,1/1/2008,female,indian,144.4,736
+Perak,1/1/2008,male,indian,138.3,1171
+Perak,1/1/2009,female,indian,144.9,759
+Perak,1/1/2009,male,indian,139,1170
+Perak,1/1/2010,female,indian,145.4,727
+Perak,1/1/2010,male,indian,139.4,1267
+Perak,1/1/2011,female,indian,146,731
+Perak,1/1/2011,male,indian,139.7,1228
+Perak,1/1/2012,female,indian,147.5,775
+Perak,1/1/2012,male,indian,141.1,1266
+Perak,1/1/2013,female,indian,147.9,846
+Perak,1/1/2013,male,indian,139.6,1307
+Perak,1/1/2014,female,indian,147.3,886
+Perak,1/1/2014,male,indian,137.7,1235
+Perak,1/1/2015,female,indian,146.9,836
+Perak,1/1/2015,male,indian,136.1,1267
+Perak,1/1/2016,female,indian,146.3,925
+Perak,1/1/2016,male,indian,134.1,1278
+Perak,1/1/2017,female,indian,146.2,839
+Perak,1/1/2017,male,indian,133.3,1308
+Perak,1/1/2018,female,indian,145.3,909
+Perak,1/1/2018,male,indian,132.2,1364
+Perak,1/1/2019,female,indian,144.6,962
+Perak,1/1/2019,male,indian,131.1,1405
+Perak,1/1/2020,female,indian,138.1,933
+Perak,1/1/2020,male,indian,132.7,1270
+Perak,1/1/2021,female,indian,138.8,1105
+Perak,1/1/2021,male,indian,132.9,1592
+Perak,1/1/2022,female,indian,138.8,1049
+Perak,1/1/2022,male,indian,132.4,1714
+Perak,1/1/2023,female,indian,138.9,1149
+Perak,1/1/2023,male,indian,132.1,1456
+Perlis,1/1/2000,female,indian,1.3,7
+Perlis,1/1/2000,male,indian,1.4,16
+Perlis,1/1/2001,female,indian,1.3,5
+Perlis,1/1/2001,male,indian,1.4,12
+Perlis,1/1/2002,female,indian,1.3,6
+Perlis,1/1/2002,male,indian,1.4,6
+Perlis,1/1/2003,female,indian,1.4,5
+Perlis,1/1/2003,male,indian,1.4,15
+Perlis,1/1/2004,female,indian,1.4,3
+Perlis,1/1/2004,male,indian,1.5,15
+Perlis,1/1/2005,female,indian,1.4,6
+Perlis,1/1/2005,male,indian,1.5,9
+Perlis,1/1/2006,female,indian,1.4,12
+Perlis,1/1/2006,male,indian,1.5,16
+Perlis,1/1/2007,female,indian,1.4,2
+Perlis,1/1/2007,male,indian,1.5,16
+Perlis,1/1/2008,female,indian,1.4,5
+Perlis,1/1/2008,male,indian,1.5,19
+Perlis,1/1/2009,female,indian,1.4,8
+Perlis,1/1/2009,male,indian,1.5,15
+Perlis,1/1/2010,female,indian,1.4,6
+Perlis,1/1/2010,male,indian,1.5,16
+Perlis,1/1/2011,female,indian,1.5,6
+Perlis,1/1/2011,male,indian,1.6,12
+Perlis,1/1/2012,female,indian,1.5,9
+Perlis,1/1/2012,male,indian,1.6,8
+Perlis,1/1/2013,female,indian,1.5,8
+Perlis,1/1/2013,male,indian,1.6,18
+Perlis,1/1/2014,female,indian,1.5,7
+Perlis,1/1/2014,male,indian,1.6,12
+Perlis,1/1/2015,female,indian,1.5,9
+Perlis,1/1/2015,male,indian,1.6,17
+Perlis,1/1/2016,female,indian,1.5,11
+Perlis,1/1/2016,male,indian,1.6,19
+Perlis,1/1/2017,female,indian,1.6,12
+Perlis,1/1/2017,male,indian,1.6,24
+Perlis,1/1/2018,female,indian,1.6,7
+Perlis,1/1/2018,male,indian,1.5,11
+Perlis,1/1/2019,female,indian,1.6,10
+Perlis,1/1/2019,male,indian,1.5,19
+Perlis,1/1/2020,female,indian,2.5,12
+Perlis,1/1/2020,male,indian,2.6,19
+Perlis,1/1/2021,female,indian,2.5,12
+Perlis,1/1/2021,male,indian,2.6,14
+Perlis,1/1/2022,female,indian,2.5,12
+Perlis,1/1/2022,male,indian,2.6,18
+Perlis,1/1/2023,female,indian,2.5,13
+Perlis,1/1/2023,male,indian,2.6,15
+Penang,1/1/2000,female,indian,69.1,292
+Penang,1/1/2000,male,indian,68.4,551
+Penang,1/1/2001,female,indian,70.4,334
+Penang,1/1/2001,male,indian,69.5,541
+Penang,1/1/2002,female,indian,71.6,358
+Penang,1/1/2002,male,indian,70.6,584
+Penang,1/1/2003,female,indian,72.8,375
+Penang,1/1/2003,male,indian,71.5,580
+Penang,1/1/2004,female,indian,74,354
+Penang,1/1/2004,male,indian,72.4,590
+Penang,1/1/2005,female,indian,75.1,363
+Penang,1/1/2005,male,indian,73.3,558
+Penang,1/1/2006,female,indian,76,423
+Penang,1/1/2006,male,indian,74.1,560
+Penang,1/1/2007,female,indian,77,390
+Penang,1/1/2007,male,indian,74.8,633
+Penang,1/1/2008,female,indian,77.9,420
+Penang,1/1/2008,male,indian,75.6,586
+Penang,1/1/2009,female,indian,78.9,412
+Penang,1/1/2009,male,indian,76.3,662
+Penang,1/1/2010,female,indian,79.9,468
+Penang,1/1/2010,male,indian,77,688
+Penang,1/1/2011,female,indian,81.1,426
+Penang,1/1/2011,male,indian,77.9,711
+Penang,1/1/2012,female,indian,82.7,455
+Penang,1/1/2012,male,indian,78.2,709
+Penang,1/1/2013,female,indian,83.3,454
+Penang,1/1/2013,male,indian,78.2,753
+Penang,1/1/2014,female,indian,83.9,470
+Penang,1/1/2014,male,indian,78,792
+Penang,1/1/2015,female,indian,85.3,497
+Penang,1/1/2015,male,indian,79,747
+Penang,1/1/2016,female,indian,86.1,505
+Penang,1/1/2016,male,indian,79.6,820
+Penang,1/1/2017,female,indian,86.5,553
+Penang,1/1/2017,male,indian,79.6,820
+Penang,1/1/2018,female,indian,86.6,605
+Penang,1/1/2018,male,indian,79.9,837
+Penang,1/1/2019,female,indian,86.6,599
+Penang,1/1/2019,male,indian,80.2,841
+Penang,1/1/2020,female,indian,77,585
+Penang,1/1/2020,male,indian,78.5,820
+Penang,1/1/2021,female,indian,77.2,762
+Penang,1/1/2021,male,indian,78.4,1094
+Penang,1/1/2022,female,indian,77.1,664
+Penang,1/1/2022,male,indian,78,1014
+Penang,1/1/2023,female,indian,77.3,659
+Penang,1/1/2023,male,indian,77.8,944
+Sabah,1/1/2000,female,indian,4.1,4
+Sabah,1/1/2000,male,indian,5.6,11
+Sabah,1/1/2001,female,indian,4.1,5
+Sabah,1/1/2001,male,indian,5.6,13
+Sabah,1/1/2002,female,indian,4.1,5
+Sabah,1/1/2002,male,indian,5.5,16
+Sabah,1/1/2003,female,indian,4.1,4
+Sabah,1/1/2003,male,indian,5.5,17
+Sabah,1/1/2004,female,indian,4.1,4
+Sabah,1/1/2004,male,indian,5.4,16
+Sabah,1/1/2005,female,indian,4.2,11
+Sabah,1/1/2005,male,indian,5.4,13
+Sabah,1/1/2006,female,indian,4.2,5
+Sabah,1/1/2006,male,indian,5.3,14
+Sabah,1/1/2007,female,indian,4.2,6
+Sabah,1/1/2007,male,indian,5.3,20
+Sabah,1/1/2008,female,indian,4.2,6
+Sabah,1/1/2008,male,indian,5.2,18
+Sabah,1/1/2009,female,indian,4.3,5
+Sabah,1/1/2009,male,indian,5.2,19
+Sabah,1/1/2010,female,indian,4.3,7
+Sabah,1/1/2010,male,indian,5.2,13
+Sabah,1/1/2011,female,indian,4.7,4
+Sabah,1/1/2011,male,indian,5.7,24
+Sabah,1/1/2012,female,indian,5.2,3
+Sabah,1/1/2012,male,indian,6,15
+Sabah,1/1/2013,female,indian,5.5,12
+Sabah,1/1/2013,male,indian,6.7,25
+Sabah,1/1/2014,female,indian,5.5,33
+Sabah,1/1/2014,male,indian,6.7,28
+Sabah,1/1/2015,female,indian,5.5,34
+Sabah,1/1/2015,male,indian,6.7,29
+Sabah,1/1/2016,female,indian,5.6,4
+Sabah,1/1/2016,male,indian,6.8,40
+Sabah,1/1/2017,female,indian,5.9,18
+Sabah,1/1/2017,male,indian,7.2,30
+Sabah,1/1/2018,female,indian,6,14
+Sabah,1/1/2018,male,indian,7.2,32
+Sabah,1/1/2019,female,indian,6,13
+Sabah,1/1/2019,male,indian,7.2,38
+Sabah,1/1/2020,female,indian,2.6,9
+Sabah,1/1/2020,male,indian,3.4,30
+Sabah,1/1/2021,female,indian,2.6,15
+Sabah,1/1/2021,male,indian,3.3,32
+Sabah,1/1/2022,female,indian,2.6,19
+Sabah,1/1/2022,male,indian,3.3,30
+Sabah,1/1/2023,female,indian,2.6,9
+Sabah,1/1/2023,male,indian,3.3,39
+Sarawak,1/1/2000,female,indian,83,5
+Sarawak,1/1/2000,male,indian,83.8,17
+Sarawak,1/1/2001,female,indian,84.7,5
+Sarawak,1/1/2001,male,indian,85.8,9
+Sarawak,1/1/2002,female,indian,86.2,12
+Sarawak,1/1/2002,male,indian,87.8,11
+Sarawak,1/1/2003,female,indian,87.7,7
+Sarawak,1/1/2003,male,indian,89.5,21
+Sarawak,1/1/2004,female,indian,89.2,6
+Sarawak,1/1/2004,male,indian,91.3,20
+Sarawak,1/1/2005,female,indian,90.8,9
+Sarawak,1/1/2005,male,indian,93,12
+Sarawak,1/1/2006,female,indian,92.3,5
+Sarawak,1/1/2006,male,indian,94.7,14
+Sarawak,1/1/2007,female,indian,93.8,4
+Sarawak,1/1/2007,male,indian,96.4,12
+Sarawak,1/1/2008,female,indian,95.3,4
+Sarawak,1/1/2008,male,indian,98,14
+Sarawak,1/1/2009,female,indian,96.7,9
+Sarawak,1/1/2009,male,indian,99.5,17
+Sarawak,1/1/2010,female,indian,3.5,7
+Sarawak,1/1/2010,male,indian,3.9,8
+Sarawak,1/1/2011,female,indian,3.2,9
+Sarawak,1/1/2011,male,indian,4,21
+Sarawak,1/1/2012,female,indian,3.2,10
+Sarawak,1/1/2012,male,indian,4,22
+Sarawak,1/1/2013,female,indian,3.6,6
+Sarawak,1/1/2013,male,indian,4,16
+Sarawak,1/1/2014,female,indian,3.3,7
+Sarawak,1/1/2014,male,indian,4.1,22
+Sarawak,1/1/2015,female,indian,3.4,8
+Sarawak,1/1/2015,male,indian,4.1,8
+Sarawak,1/1/2016,female,indian,3.4,8
+Sarawak,1/1/2016,male,indian,4.1,18
+Sarawak,1/1/2017,female,indian,3.5,7
+Sarawak,1/1/2017,male,indian,4.2,22
+Sarawak,1/1/2018,female,indian,3.5,6
+Sarawak,1/1/2018,male,indian,4.2,21
+Sarawak,1/1/2019,female,indian,3.5,10
+Sarawak,1/1/2019,male,indian,4.2,29
+Sarawak,1/1/2020,female,indian,2.3,9
+Sarawak,1/1/2020,male,indian,2.8,15
+Sarawak,1/1/2021,female,indian,2.3,7
+Sarawak,1/1/2021,male,indian,2.7,19
+Sarawak,1/1/2022,female,indian,2.3,15
+Sarawak,1/1/2022,male,indian,2.7,24
+Sarawak,1/1/2023,female,indian,2.3,10
+Sarawak,1/1/2023,male,indian,2.7,24
+Selangor,1/1/2000,female,indian,290.4,834
+Selangor,1/1/2000,male,indian,295,1563
+Selangor,1/1/2001,female,indian,295.4,842
+Selangor,1/1/2001,male,indian,300.3,1623
+Selangor,1/1/2002,female,indian,300.1,907
+Selangor,1/1/2002,male,indian,305.6,1643
+Selangor,1/1/2003,female,indian,304.7,884
+Selangor,1/1/2003,male,indian,310.7,1759
+Selangor,1/1/2004,female,indian,309.6,932
+Selangor,1/1/2004,male,indian,315.9,1663
+Selangor,1/1/2005,female,indian,314.2,1028
+Selangor,1/1/2005,male,indian,321,1761
+Selangor,1/1/2006,female,indian,318.9,974
+Selangor,1/1/2006,male,indian,325.9,1850
+Selangor,1/1/2007,female,indian,323.5,1021
+Selangor,1/1/2007,male,indian,330.8,1826
+Selangor,1/1/2008,female,indian,328,1141
+Selangor,1/1/2008,male,indian,335.4,2045
+Selangor,1/1/2009,female,indian,332.4,1224
+Selangor,1/1/2009,male,indian,339.8,2057
+Selangor,1/1/2010,female,indian,336.6,1226
+Selangor,1/1/2010,male,indian,344.2,2114
+Selangor,1/1/2011,female,indian,339.3,1278
+Selangor,1/1/2011,male,indian,346.6,2174
+Selangor,1/1/2012,female,indian,343.6,1398
+Selangor,1/1/2012,male,indian,349,2350
+Selangor,1/1/2013,female,indian,349.1,1456
+Selangor,1/1/2013,male,indian,353.1,2474
+Selangor,1/1/2014,female,indian,354.2,1562
+Selangor,1/1/2014,male,indian,357,2457
+Selangor,1/1/2015,female,indian,356.9,1517
+Selangor,1/1/2015,male,indian,358.6,2491
+Selangor,1/1/2016,female,indian,359.2,1654
+Selangor,1/1/2016,male,indian,360.4,2754
+Selangor,1/1/2017,female,indian,361.8,1773
+Selangor,1/1/2017,male,indian,362.3,2701
+Selangor,1/1/2018,female,indian,363.9,1872
+Selangor,1/1/2018,male,indian,363.9,2811
+Selangor,1/1/2019,female,indian,365.8,1897
+Selangor,1/1/2019,male,indian,365.2,2846
+Selangor,1/1/2020,female,indian,356,1682
+Selangor,1/1/2020,male,indian,370.1,2491
+Selangor,1/1/2021,female,indian,357.5,2848
+Selangor,1/1/2021,male,indian,370.7,4107
+Selangor,1/1/2022,female,indian,357.7,2255
+Selangor,1/1/2022,male,indian,369.9,3262
+Selangor,1/1/2023,female,indian,358.9,2220
+Selangor,1/1/2023,male,indian,370.2,3208
+Terengganu,1/1/2000,female,indian,0.8,3
+Terengganu,1/1/2000,male,indian,1.1,10
+Terengganu,1/1/2001,female,indian,0.9,1
+Terengganu,1/1/2001,male,indian,1.1,13
+Terengganu,1/1/2002,female,indian,0.9,5
+Terengganu,1/1/2002,male,indian,1.2,9
+Terengganu,1/1/2003,female,indian,0.9,5
+Terengganu,1/1/2003,male,indian,1.2,11
+Terengganu,1/1/2004,female,indian,0.9,3
+Terengganu,1/1/2004,male,indian,1.3,13
+Terengganu,1/1/2005,female,indian,1,1
+Terengganu,1/1/2005,male,indian,1.3,12
+Terengganu,1/1/2006,female,indian,1,3
+Terengganu,1/1/2006,male,indian,1.4,13
+Terengganu,1/1/2007,female,indian,1,1
+Terengganu,1/1/2007,male,indian,1.4,7
+Terengganu,1/1/2008,female,indian,1.1,7
+Terengganu,1/1/2008,male,indian,1.4,12
+Terengganu,1/1/2009,female,indian,1.1,5
+Terengganu,1/1/2009,male,indian,1.5,11
+Terengganu,1/1/2010,female,indian,1.1,5
+Terengganu,1/1/2010,male,indian,1.5,13
+Terengganu,1/1/2011,female,indian,1.1,2
+Terengganu,1/1/2011,male,indian,1.7,13
+Terengganu,1/1/2012,female,indian,1.1,4
+Terengganu,1/1/2012,male,indian,1.6,12
+Terengganu,1/1/2013,female,indian,1.1,2
+Terengganu,1/1/2013,male,indian,1.6,12
+Terengganu,1/1/2014,female,indian,1.1,5
+Terengganu,1/1/2014,male,indian,1.6,9
+Terengganu,1/1/2015,female,indian,1.2,2
+Terengganu,1/1/2015,male,indian,1.6,8
+Terengganu,1/1/2016,female,indian,1.2,5
+Terengganu,1/1/2016,male,indian,1.2,10
+Terengganu,1/1/2017,female,indian,1.2,3
+Terengganu,1/1/2017,male,indian,1.3,12
+Terengganu,1/1/2018,female,indian,1.2,1
+Terengganu,1/1/2018,male,indian,1.3,15
+Terengganu,1/1/2019,female,indian,1.2,1
+Terengganu,1/1/2019,male,indian,1.3,9
+Terengganu,1/1/2020,female,indian,1.1,5
+Terengganu,1/1/2020,male,indian,1,9
+Terengganu,1/1/2021,female,indian,1.1,4
+Terengganu,1/1/2021,male,indian,1,15
+Terengganu,1/1/2022,female,indian,1.1,11
+Terengganu,1/1/2022,male,indian,1,10
+Terengganu,1/1/2023,female,indian,1.1,4
+Terengganu,1/1/2023,male,indian,1,18
+Kuala Lumpur,1/1/2000,female,indian,73.7,277
+Kuala Lumpur,1/1/2000,male,indian,75.9,510
+Kuala Lumpur,1/1/2001,female,indian,74.4,286
+Kuala Lumpur,1/1/2001,male,indian,76.5,511
+Kuala Lumpur,1/1/2002,female,indian,74.9,292
+Kuala Lumpur,1/1/2002,male,indian,77,539
+Kuala Lumpur,1/1/2003,female,indian,75.5,256
+Kuala Lumpur,1/1/2003,male,indian,77.5,496
+Kuala Lumpur,1/1/2004,female,indian,76,254
+Kuala Lumpur,1/1/2004,male,indian,77.9,527
+Kuala Lumpur,1/1/2005,female,indian,76.5,274
+Kuala Lumpur,1/1/2005,male,indian,78.2,478
+Kuala Lumpur,1/1/2006,female,indian,76.9,283
+Kuala Lumpur,1/1/2006,male,indian,78.6,484
+Kuala Lumpur,1/1/2007,female,indian,77.3,295
+Kuala Lumpur,1/1/2007,male,indian,78.9,481
+Kuala Lumpur,1/1/2008,female,indian,77.7,284
+Kuala Lumpur,1/1/2008,male,indian,79.2,527
+Kuala Lumpur,1/1/2009,female,indian,78,333
+Kuala Lumpur,1/1/2009,male,indian,79.4,575
+Kuala Lumpur,1/1/2010,female,indian,78.3,302
+Kuala Lumpur,1/1/2010,male,indian,79.6,589
+Kuala Lumpur,1/1/2011,female,indian,79.1,296
+Kuala Lumpur,1/1/2011,male,indian,80.1,580
+Kuala Lumpur,1/1/2012,female,indian,78,350
+Kuala Lumpur,1/1/2012,male,indian,79.2,642
+Kuala Lumpur,1/1/2013,female,indian,77.2,376
+Kuala Lumpur,1/1/2013,male,indian,77.9,609
+Kuala Lumpur,1/1/2014,female,indian,77,377
+Kuala Lumpur,1/1/2014,male,indian,76.8,615
+Kuala Lumpur,1/1/2015,female,indian,77.2,378
+Kuala Lumpur,1/1/2015,male,indian,76.3,623
+Kuala Lumpur,1/1/2016,female,indian,76.7,399
+Kuala Lumpur,1/1/2016,male,indian,75,633
+Kuala Lumpur,1/1/2017,female,indian,76.6,462
+Kuala Lumpur,1/1/2017,male,indian,74.7,634
+Kuala Lumpur,1/1/2018,female,indian,76.8,455
+Kuala Lumpur,1/1/2018,male,indian,74.6,666
+Kuala Lumpur,1/1/2019,female,indian,77.1,465
+Kuala Lumpur,1/1/2019,male,indian,74.7,681
+Kuala Lumpur,1/1/2020,female,indian,86.6,403
+Kuala Lumpur,1/1/2020,male,indian,91.5,635
+Kuala Lumpur,1/1/2021,female,indian,86.4,711
+Kuala Lumpur,1/1/2021,male,indian,91.1,952
+Kuala Lumpur,1/1/2022,female,indian,86.4,542
+Kuala Lumpur,1/1/2022,male,indian,90.7,828
+Kuala Lumpur,1/1/2023,female,indian,86.5,552
+Kuala Lumpur,1/1/2023,male,indian,90.5,803
+Labuan,1/1/2000,female,indian,0.4,0
+Labuan,1/1/2000,male,indian,0.5,0
+Labuan,1/1/2001,female,indian,0.4,0
+Labuan,1/1/2001,male,indian,0.5,2
+Labuan,1/1/2002,female,indian,0.4,0
+Labuan,1/1/2002,male,indian,0.5,4
+Labuan,1/1/2003,female,indian,0.3,0
+Labuan,1/1/2003,male,indian,0.5,2
+Labuan,1/1/2004,female,indian,0.3,0
+Labuan,1/1/2004,male,indian,0.5,2
+Labuan,1/1/2005,female,indian,0.3,5
+Labuan,1/1/2005,male,indian,0.4,2
+Labuan,1/1/2006,female,indian,0.3,2
+Labuan,1/1/2006,male,indian,0.4,1
+Labuan,1/1/2007,female,indian,0.3,0
+Labuan,1/1/2007,male,indian,0.4,1
+Labuan,1/1/2008,female,indian,0.3,0
+Labuan,1/1/2008,male,indian,0.4,3
+Labuan,1/1/2009,female,indian,0.3,0
+Labuan,1/1/2009,male,indian,0.4,3
+Labuan,1/1/2010,female,indian,0.3,1
+Labuan,1/1/2010,male,indian,0.4,3
+Labuan,1/1/2011,female,indian,0.3,1
+Labuan,1/1/2011,male,indian,0.4,4
+Labuan,1/1/2012,female,indian,0.3,2
+Labuan,1/1/2012,male,indian,0.4,4
+Labuan,1/1/2013,female,indian,0.3,1
+Labuan,1/1/2013,male,indian,0.4,2
+Labuan,1/1/2014,female,indian,0.3,0
+Labuan,1/1/2014,male,indian,0.4,0
+Labuan,1/1/2015,female,indian,0.3,1
+Labuan,1/1/2015,male,indian,0.4,2
+Labuan,1/1/2016,female,indian,0.3,2
+Labuan,1/1/2016,male,indian,0.4,1
+Labuan,1/1/2017,female,indian,0.3,1
+Labuan,1/1/2017,male,indian,0.4,2
+Labuan,1/1/2018,female,indian,0.3,1
+Labuan,1/1/2018,male,indian,0.4,3
+Labuan,1/1/2019,female,indian,0.3,0
+Labuan,1/1/2019,male,indian,0.4,2
+Labuan,1/1/2020,female,indian,0.5,3
+Labuan,1/1/2020,male,indian,0.4,1
+Labuan,1/1/2021,female,indian,0.4,2
+Labuan,1/1/2021,male,indian,0.4,3
+Labuan,1/1/2022,female,indian,0.4,2
+Labuan,1/1/2022,male,indian,0.4,3
+Labuan,1/1/2023,female,indian,0.4,0
+Labuan,1/1/2023,male,indian,0.4,2
+Putrajaya,1/1/2010,female,indian,0.5,3
+Putrajaya,1/1/2010,male,indian,0.4,1
+Putrajaya,1/1/2011,female,indian,0.5,2
+Putrajaya,1/1/2011,male,indian,0.4,2
+Putrajaya,1/1/2012,female,indian,0.5,1
+Putrajaya,1/1/2012,male,indian,0.5,1
+Putrajaya,1/1/2013,female,indian,0.5,2
+Putrajaya,1/1/2013,male,indian,0.5,3
+Putrajaya,1/1/2014,female,indian,0.6,1
+Putrajaya,1/1/2014,male,indian,0.5,2
+Putrajaya,1/1/2015,female,indian,0.6,0
+Putrajaya,1/1/2015,male,indian,0.5,4
+Putrajaya,1/1/2016,female,indian,0.6,2
+Putrajaya,1/1/2016,male,indian,0.6,3
+Putrajaya,1/1/2017,female,indian,0.6,3
+Putrajaya,1/1/2017,male,indian,0.6,4
+Putrajaya,1/1/2018,female,indian,0.8,3
+Putrajaya,1/1/2018,male,indian,0.7,2
+Putrajaya,1/1/2019,female,indian,0.9,2
+Putrajaya,1/1/2019,male,indian,0.7,3
+Putrajaya,1/1/2020,female,indian,0.7,2
+Putrajaya,1/1/2020,male,indian,0.6,2
+Putrajaya,1/1/2021,female,indian,0.7,6
+Putrajaya,1/1/2021,male,indian,0.6,5
+Putrajaya,1/1/2022,female,indian,0.7,5
+Putrajaya,1/1/2022,male,indian,0.7,4
+Putrajaya,1/1/2023,female,indian,0.7,2
+Putrajaya,1/1/2023,male,indian,0.7,4
+Johor,1/1/2000,both,bumi_malay,1452.5,6745
+Johor,1/1/2000,both,chinese,923.2,4125
+Johor,1/1/2000,both,indian,178.9,808
+Johor,1/1/2001,both,bumi_malay,1486.9,7295
+Johor,1/1/2001,both,chinese,939.1,4116
+Johor,1/1/2001,both,indian,183.3,827
+Johor,1/1/2002,both,bumi_malay,1519.9,7606
+Johor,1/1/2002,both,chinese,952.6,4459
+Johor,1/1/2002,both,indian,187.7,881
+Johor,1/1/2003,both,bumi_malay,1551,7640
+Johor,1/1/2003,both,chinese,965.2,4514
+Johor,1/1/2003,both,indian,191.7,947
+Johor,1/1/2004,both,bumi_malay,1582.8,7716
+Johor,1/1/2004,both,chinese,976.9,4595
+Johor,1/1/2004,both,indian,195.8,965
+Johor,1/1/2005,both,bumi_malay,1613.9,7969
+Johor,1/1/2005,both,chinese,988.5,4631
+Johor,1/1/2005,both,indian,199.7,1000
+Johor,1/1/2006,both,bumi_malay,1645,8177
+Johor,1/1/2006,both,chinese,999.9,4698
+Johor,1/1/2006,both,indian,203.5,1093
+Johor,1/1/2007,both,bumi_malay,1675.7,8539
+Johor,1/1/2007,both,chinese,1010.8,4892
+Johor,1/1/2007,both,indian,207.3,1101
+Johor,1/1/2008,both,bumi_malay,1705.7,8967
+Johor,1/1/2008,both,chinese,1021.9,5204
+Johor,1/1/2008,both,indian,211.1,1143
+Johor,1/1/2009,both,bumi_malay,1735.3,8961
+Johor,1/1/2009,both,chinese,1031.6,5190
+Johor,1/1/2009,both,indian,214.8,1166
+Johor,1/1/2010,both,bumi_malay,1766.5,8997
+Johor,1/1/2010,both,chinese,1041.1,5169
+Johor,1/1/2010,both,indian,218.5,1218
+Johor,1/1/2011,both,bumi_malay,1792.3,9149
+Johor,1/1/2011,both,chinese,1049.9,5407
+Johor,1/1/2011,both,indian,220.2,1273
+Johor,1/1/2012,both,bumi_malay,1812.5,9622
+Johor,1/1/2012,both,chinese,1057.2,5599
+Johor,1/1/2012,both,indian,221.9,1264
+Johor,1/1/2013,both,bumi_malay,1832.8,9858
+Johor,1/1/2013,both,chinese,1065.7,5779
+Johor,1/1/2013,both,indian,224.2,1372
+Johor,1/1/2014,both,bumi_malay,1858.7,9875
+Johor,1/1/2014,both,chinese,1072.8,5945
+Johor,1/1/2014,both,indian,227.6,1390
+Johor,1/1/2015,both,bumi_malay,1886.5,10474
+Johor,1/1/2015,both,chinese,1078.8,6178
+Johor,1/1/2015,both,indian,230.8,1478
+Johor,1/1/2016,both,bumi_malay,1908.6,11156
+Johor,1/1/2016,both,chinese,1085.4,6404
+Johor,1/1/2016,both,indian,232.5,1550
+Johor,1/1/2017,both,bumi_malay,1937,11547
+Johor,1/1/2017,both,chinese,1092.8,6641
+Johor,1/1/2017,both,indian,235.6,1658
+Johor,1/1/2018,both,bumi_malay,1971.3,11812
+Johor,1/1/2018,both,chinese,1098.6,6773
+Johor,1/1/2018,both,indian,239.1,1708
+Johor,1/1/2019,both,bumi_malay,2005.5,12162
+Johor,1/1/2019,both,chinese,1103.9,6967
+Johor,1/1/2019,both,indian,241.8,1835
+Johor,1/1/2020,both,bumi_malay,2158.4,11476
+Johor,1/1/2020,both,chinese,1208.7,6802
+Johor,1/1/2020,both,indian,244.3,1574
+Johor,1/1/2021,both,bumi_malay,2188.7,15290
+Johor,1/1/2021,both,chinese,1211.5,8095
+Johor,1/1/2021,both,indian,244.9,2059
+Johor,1/1/2022,both,bumi_malay,2208.6,14317
+Johor,1/1/2022,both,chinese,1210.1,8090
+Johor,1/1/2022,both,indian,244.7,1912
+Johor,1/1/2023,both,bumi_malay,2233.8,13563
+Johor,1/1/2023,both,chinese,1211.1,8182
+Johor,1/1/2023,both,indian,245.8,1989
+Kedah,1/1/2000,both,bumi_malay,1256.2,6672
+Kedah,1/1/2000,both,chinese,244.7,1402
+Kedah,1/1/2000,both,indian,117.9,646
+Kedah,1/1/2001,both,bumi_malay,1279.3,6881
+Kedah,1/1/2001,both,chinese,246.9,1416
+Kedah,1/1/2001,both,indian,120,628
+Kedah,1/1/2002,both,bumi_malay,1301.7,7346
+Kedah,1/1/2002,both,chinese,248.7,1538
+Kedah,1/1/2002,both,indian,122,756
+Kedah,1/1/2003,both,bumi_malay,1322.6,7783
+Kedah,1/1/2003,both,chinese,250.3,1540
+Kedah,1/1/2003,both,indian,124,682
+Kedah,1/1/2004,both,bumi_malay,1343.4,7534
+Kedah,1/1/2004,both,chinese,251.6,1548
+Kedah,1/1/2004,both,indian,126,717
+Kedah,1/1/2005,both,bumi_malay,1363.7,7729
+Kedah,1/1/2005,both,chinese,252.8,1572
+Kedah,1/1/2005,both,indian,127.9,697
+Kedah,1/1/2006,both,bumi_malay,1383.6,8091
+Kedah,1/1/2006,both,chinese,253.7,1570
+Kedah,1/1/2006,both,indian,129.7,736
+Kedah,1/1/2007,both,bumi_malay,1403.2,8257
+Kedah,1/1/2007,both,chinese,254.6,1517
+Kedah,1/1/2007,both,indian,131.4,754
+Kedah,1/1/2008,both,bumi_malay,1422.2,8307
+Kedah,1/1/2008,both,chinese,255.4,1652
+Kedah,1/1/2008,both,indian,133.1,776
+Kedah,1/1/2009,both,bumi_malay,1441.8,8912
+Kedah,1/1/2009,both,chinese,256.2,1661
+Kedah,1/1/2009,both,indian,134.8,714
+Kedah,1/1/2010,both,bumi_malay,1463.6,8850
+Kedah,1/1/2010,both,chinese,257,1684
+Kedah,1/1/2010,both,indian,136.7,829
+Kedah,1/1/2011,both,bumi_malay,1481.2,9039
+Kedah,1/1/2011,both,chinese,256.9,1681
+Kedah,1/1/2011,both,indian,137.2,841
+Kedah,1/1/2012,both,bumi_malay,1508.4,9377
+Kedah,1/1/2012,both,chinese,257.1,1628
+Kedah,1/1/2012,both,indian,137.8,936
+Kedah,1/1/2013,both,bumi_malay,1533.5,9573
+Kedah,1/1/2013,both,chinese,257.3,1757
+Kedah,1/1/2013,both,indian,138.3,876
+Kedah,1/1/2014,both,bumi_malay,1558,9977
+Kedah,1/1/2014,both,chinese,257.2,1816
+Kedah,1/1/2014,both,indian,138.9,939
+Kedah,1/1/2015,both,bumi_malay,1583.5,10521
+Kedah,1/1/2015,both,chinese,257.6,1907
+Kedah,1/1/2015,both,indian,140.2,962
+Kedah,1/1/2016,both,bumi_malay,1603,10631
+Kedah,1/1/2016,both,chinese,257.3,1860
+Kedah,1/1/2016,both,indian,140.5,946
+Kedah,1/1/2017,both,bumi_malay,1625.4,11161
+Kedah,1/1/2017,both,chinese,256.5,1869
+Kedah,1/1/2017,both,indian,141,964
+Kedah,1/1/2018,both,bumi_malay,1643,11292
+Kedah,1/1/2018,both,chinese,257.8,1944
+Kedah,1/1/2018,both,indian,140.9,999
+Kedah,1/1/2019,both,bumi_malay,1661,10974
+Kedah,1/1/2019,both,chinese,259.1,1935
+Kedah,1/1/2019,both,indian,140.8,1070
+Kedah,1/1/2020,both,bumi_malay,1624.8,10540
+Kedah,1/1/2020,both,chinese,250.6,1884
+Kedah,1/1/2020,both,indian,129.1,969
+Kedah,1/1/2021,both,bumi_malay,1653,14314
+Kedah,1/1/2021,both,chinese,250.6,2260
+Kedah,1/1/2021,both,indian,129.1,1448
+Kedah,1/1/2022,both,bumi_malay,1665.5,13747
+Kedah,1/1/2022,both,chinese,249.5,2309
+Kedah,1/1/2022,both,indian,128.6,1167
+Kedah,1/1/2023,both,bumi_malay,1682,12859
+Kedah,1/1/2023,both,chinese,248.6,2260
+Kedah,1/1/2023,both,indian,128.6,1209
+Kelantan,1/1/2000,both,bumi_malay,1261.4,7046
+Kelantan,1/1/2000,both,chinese,50,328
+Kelantan,1/1/2000,both,indian,3.9,32
+Kelantan,1/1/2001,both,bumi_malay,1287.3,7216
+Kelantan,1/1/2001,both,chinese,50.4,343
+Kelantan,1/1/2001,both,indian,3.9,29
+Kelantan,1/1/2002,both,bumi_malay,1311.3,7701
+Kelantan,1/1/2002,both,chinese,50.7,362
+Kelantan,1/1/2002,both,indian,4,27
+Kelantan,1/1/2003,both,bumi_malay,1332.3,8008
+Kelantan,1/1/2003,both,chinese,51,337
+Kelantan,1/1/2003,both,indian,4.1,24
+Kelantan,1/1/2004,both,bumi_malay,1353,7934
+Kelantan,1/1/2004,both,chinese,51.2,357
+Kelantan,1/1/2004,both,indian,4.1,24
+Kelantan,1/1/2005,both,bumi_malay,1372.8,8185
+Kelantan,1/1/2005,both,chinese,51.5,336
+Kelantan,1/1/2005,both,indian,4.2,24
+Kelantan,1/1/2006,both,bumi_malay,1391.4,8298
+Kelantan,1/1/2006,both,chinese,51.7,335
+Kelantan,1/1/2006,both,indian,4.3,31
+Kelantan,1/1/2007,both,bumi_malay,1410.4,8550
+Kelantan,1/1/2007,both,chinese,51.9,351
+Kelantan,1/1/2007,both,indian,4.3,22
+Kelantan,1/1/2008,both,bumi_malay,1428.6,9050
+Kelantan,1/1/2008,both,chinese,52,337
+Kelantan,1/1/2008,both,indian,4.4,32
+Kelantan,1/1/2009,both,bumi_malay,1447.1,9435
+Kelantan,1/1/2009,both,chinese,52.2,397
+Kelantan,1/1/2009,both,indian,4.5,31
+Kelantan,1/1/2010,both,bumi_malay,1467,9192
+Kelantan,1/1/2010,both,chinese,52.4,359
+Kelantan,1/1/2010,both,indian,4.5,28
+Kelantan,1/1/2011,both,bumi_malay,1492.5,9380
+Kelantan,1/1/2011,both,chinese,52.8,367
+Kelantan,1/1/2011,both,indian,4.7,19
+Kelantan,1/1/2012,both,bumi_malay,1521.8,9214
+Kelantan,1/1/2012,both,chinese,53.3,398
+Kelantan,1/1/2012,both,indian,4.7,35
+Kelantan,1/1/2013,both,bumi_malay,1553.8,9386
+Kelantan,1/1/2013,both,chinese,53.1,375
+Kelantan,1/1/2013,both,indian,4.7,24
+Kelantan,1/1/2014,both,bumi_malay,1585.8,9912
+Kelantan,1/1/2014,both,chinese,54,402
+Kelantan,1/1/2014,both,indian,4.8,23
+Kelantan,1/1/2015,both,bumi_malay,1620.2,10168
+Kelantan,1/1/2015,both,chinese,54.7,382
+Kelantan,1/1/2015,both,indian,4.8,26
+Kelantan,1/1/2016,both,bumi_malay,1653.6,10125
+Kelantan,1/1/2016,both,chinese,55.4,417
+Kelantan,1/1/2016,both,indian,4.8,24
+Kelantan,1/1/2017,both,bumi_malay,1683.4,10483
+Kelantan,1/1/2017,both,chinese,55.8,412
+Kelantan,1/1/2017,both,indian,4.8,36
+Kelantan,1/1/2018,both,bumi_malay,1713.1,10582
+Kelantan,1/1/2018,both,chinese,56.3,413
+Kelantan,1/1/2018,both,indian,4.8,27
+Kelantan,1/1/2019,both,bumi_malay,1740.4,10674
+Kelantan,1/1/2019,both,chinese,56.8,406
+Kelantan,1/1/2019,both,indian,4.8,31
+Kelantan,1/1/2020,both,bumi_malay,1671.4,10228
+Kelantan,1/1/2020,both,chinese,44.7,427
+Kelantan,1/1/2020,both,indian,4.7,21
+Kelantan,1/1/2021,both,bumi_malay,1695,13041
+Kelantan,1/1/2021,both,chinese,44.7,491
+Kelantan,1/1/2021,both,indian,4.8,40
+Kelantan,1/1/2022,both,bumi_malay,1714.1,12602
+Kelantan,1/1/2022,both,chinese,44.5,478
+Kelantan,1/1/2022,both,indian,4.8,36
+Kelantan,1/1/2023,both,bumi_malay,1736.8,11039
+Kelantan,1/1/2023,both,chinese,44.3,458
+Kelantan,1/1/2023,both,indian,4.8,26
+Malacca,1/1/2000,both,bumi_malay,388.6,2222
+Malacca,1/1/2000,both,chinese,182.5,1134
+Malacca,1/1/2000,both,indian,40.8,264
+Malacca,1/1/2001,both,bumi_malay,401.9,2250
+Malacca,1/1/2001,both,chinese,186,1170
+Malacca,1/1/2001,both,indian,41.8,260
+Malacca,1/1/2002,both,bumi_malay,414.8,2428
+Malacca,1/1/2002,both,chinese,189,1164
+Malacca,1/1/2002,both,indian,42.7,263
+Malacca,1/1/2003,both,bumi_malay,427.2,2376
+Malacca,1/1/2003,both,chinese,192,1195
+Malacca,1/1/2003,both,indian,43.6,282
+Malacca,1/1/2004,both,bumi_malay,440.2,2418
+Malacca,1/1/2004,both,chinese,194.7,1252
+Malacca,1/1/2004,both,indian,44.5,278
+Malacca,1/1/2005,both,bumi_malay,452.8,2505
+Malacca,1/1/2005,both,chinese,197.3,1257
+Malacca,1/1/2005,both,indian,45.3,269
+Malacca,1/1/2006,both,bumi_malay,465.7,2458
+Malacca,1/1/2006,both,chinese,199.8,1277
+Malacca,1/1/2006,both,indian,46.2,271
+Malacca,1/1/2007,both,bumi_malay,478.7,2502
+Malacca,1/1/2007,both,chinese,202.3,1275
+Malacca,1/1/2007,both,indian,47,269
+Malacca,1/1/2008,both,bumi_malay,491.7,2681
+Malacca,1/1/2008,both,chinese,204.7,1259
+Malacca,1/1/2008,both,indian,47.8,306
+Malacca,1/1/2009,both,bumi_malay,504.4,2699
+Malacca,1/1/2009,both,chinese,207,1336
+Malacca,1/1/2009,both,indian,48.6,312
+Malacca,1/1/2010,both,bumi_malay,517.1,2667
+Malacca,1/1/2010,both,chinese,209.3,1370
+Malacca,1/1/2010,both,indian,49.4,299
+Malacca,1/1/2011,both,bumi_malay,521.3,2713
+Malacca,1/1/2011,both,chinese,210.7,1419
+Malacca,1/1/2011,both,indian,47.8,336
+Malacca,1/1/2012,both,bumi_malay,527.8,2778
+Malacca,1/1/2012,both,chinese,211,1311
+Malacca,1/1/2012,both,indian,47.5,342
+Malacca,1/1/2013,both,bumi_malay,536.8,2868
+Malacca,1/1/2013,both,chinese,213,1380
+Malacca,1/1/2013,both,indian,48.6,353
+Malacca,1/1/2014,both,bumi_malay,547.5,2874
+Malacca,1/1/2014,both,chinese,214.2,1393
+Malacca,1/1/2014,both,indian,49.2,338
+Malacca,1/1/2015,both,bumi_malay,558.8,2993
+Malacca,1/1/2015,both,chinese,215.9,1484
+Malacca,1/1/2015,both,indian,49.9,339
+Malacca,1/1/2016,both,bumi_malay,568.9,3125
+Malacca,1/1/2016,both,chinese,216.9,1540
+Malacca,1/1/2016,both,indian,50.6,377
+Malacca,1/1/2017,both,bumi_malay,578.8,3303
+Malacca,1/1/2017,both,chinese,216.8,1637
+Malacca,1/1/2017,both,indian,50.8,406
+Malacca,1/1/2018,both,bumi_malay,586.7,3312
+Malacca,1/1/2018,both,chinese,217.2,1550
+Malacca,1/1/2018,both,indian,51.1,401
+Malacca,1/1/2019,both,bumi_malay,594.5,3379
+Malacca,1/1/2019,both,chinese,217.4,1638
+Malacca,1/1/2019,both,indian,51.4,384
+Malacca,1/1/2020,both,bumi_malay,653.9,3244
+Malacca,1/1/2020,both,chinese,205.2,1668
+Malacca,1/1/2020,both,indian,52.4,402
+Malacca,1/1/2021,both,bumi_malay,663.1,4387
+Malacca,1/1/2021,both,chinese,204.9,1962
+Malacca,1/1/2021,both,indian,52.4,502
+Malacca,1/1/2022,both,bumi_malay,669.6,4060
+Malacca,1/1/2022,both,chinese,204.3,1913
+Malacca,1/1/2022,both,indian,52.4,503
+Malacca,1/1/2023,both,bumi_malay,677,3758
+Malacca,1/1/2023,both,chinese,203.8,1809
+Malacca,1/1/2023,both,indian,52.4,448
+Negeri Sembilan,1/1/2000,both,bumi_malay,466.7,2246
+Negeri Sembilan,1/1/2000,both,chinese,216.8,1347
+Negeri Sembilan,1/1/2000,both,indian,134,785
+Negeri Sembilan,1/1/2001,both,bumi_malay,477.5,2477
+Negeri Sembilan,1/1/2001,both,chinese,218.6,1348
+Negeri Sembilan,1/1/2001,both,indian,135.8,717
+Negeri Sembilan,1/1/2002,both,bumi_malay,487.9,2621
+Negeri Sembilan,1/1/2002,both,chinese,219.7,1474
+Negeri Sembilan,1/1/2002,both,indian,137.5,774
+Negeri Sembilan,1/1/2003,both,bumi_malay,498.5,2618
+Negeri Sembilan,1/1/2003,both,chinese,220.8,1383
+Negeri Sembilan,1/1/2003,both,indian,139.1,816
+Negeri Sembilan,1/1/2004,both,bumi_malay,509.5,2577
+Negeri Sembilan,1/1/2004,both,chinese,221.9,1406
+Negeri Sembilan,1/1/2004,both,indian,140.6,876
+Negeri Sembilan,1/1/2005,both,bumi_malay,520.5,2709
+Negeri Sembilan,1/1/2005,both,chinese,222.7,1439
+Negeri Sembilan,1/1/2005,both,indian,142.1,819
+Negeri Sembilan,1/1/2006,both,bumi_malay,531.6,2741
+Negeri Sembilan,1/1/2006,both,chinese,223.6,1425
+Negeri Sembilan,1/1/2006,both,indian,143.4,830
+Negeri Sembilan,1/1/2007,both,bumi_malay,542.9,2711
+Negeri Sembilan,1/1/2007,both,chinese,224.3,1443
+Negeri Sembilan,1/1/2007,both,indian,144.7,834
+Negeri Sembilan,1/1/2008,both,bumi_malay,553.7,3150
+Negeri Sembilan,1/1/2008,both,chinese,224.9,1491
+Negeri Sembilan,1/1/2008,both,indian,146,888
+Negeri Sembilan,1/1/2009,both,bumi_malay,564.4,3135
+Negeri Sembilan,1/1/2009,both,chinese,225.2,1566
+Negeri Sembilan,1/1/2009,both,indian,147.3,907
+Negeri Sembilan,1/1/2010,both,bumi_malay,575.1,3118
+Negeri Sembilan,1/1/2010,both,chinese,225.5,1542
+Negeri Sembilan,1/1/2010,both,indian,148.4,936
+Negeri Sembilan,1/1/2011,both,bumi_malay,584.4,3178
+Negeri Sembilan,1/1/2011,both,chinese,226.9,1544
+Negeri Sembilan,1/1/2011,both,indian,151,940
+Negeri Sembilan,1/1/2012,both,bumi_malay,587.8,3172
+Negeri Sembilan,1/1/2012,both,chinese,227.5,1557
+Negeri Sembilan,1/1/2012,both,indian,150.5,960
+Negeri Sembilan,1/1/2013,both,bumi_malay,591.6,3333
+Negeri Sembilan,1/1/2013,both,chinese,228.2,1587
+Negeri Sembilan,1/1/2013,both,indian,151.7,1075
+Negeri Sembilan,1/1/2014,both,bumi_malay,595.9,3441
+Negeri Sembilan,1/1/2014,both,chinese,229.2,1696
+Negeri Sembilan,1/1/2014,both,indian,153.5,1055
+Negeri Sembilan,1/1/2015,both,bumi_malay,606.1,3598
+Negeri Sembilan,1/1/2015,both,chinese,229.1,1727
+Negeri Sembilan,1/1/2015,both,indian,152.6,1070
+Negeri Sembilan,1/1/2016,both,bumi_malay,611.5,3683
+Negeri Sembilan,1/1/2016,both,chinese,229.8,1755
+Negeri Sembilan,1/1/2016,both,indian,153.7,1153
+Negeri Sembilan,1/1/2017,both,bumi_malay,623.6,3871
+Negeri Sembilan,1/1/2017,both,chinese,229.3,1799
+Negeri Sembilan,1/1/2017,both,indian,154.3,1168
+Negeri Sembilan,1/1/2018,both,bumi_malay,631.7,4022
+Negeri Sembilan,1/1/2018,both,chinese,229.4,1828
+Negeri Sembilan,1/1/2018,both,indian,154.1,1215
+Negeri Sembilan,1/1/2019,both,bumi_malay,639.6,3947
+Negeri Sembilan,1/1/2019,both,chinese,229.6,1871
+Negeri Sembilan,1/1/2019,both,indian,154,1127
+Negeri Sembilan,1/1/2020,both,bumi_malay,693.3,3825
+Negeri Sembilan,1/1/2020,both,chinese,248.5,1841
+Negeri Sembilan,1/1/2020,both,indian,161.6,1129
+Negeri Sembilan,1/1/2021,both,bumi_malay,704.4,5076
+Negeri Sembilan,1/1/2021,both,chinese,248.3,2189
+Negeri Sembilan,1/1/2021,both,indian,162.4,1545
+Negeri Sembilan,1/1/2022,both,bumi_malay,711.9,4806
+Negeri Sembilan,1/1/2022,both,chinese,247.4,2183
+Negeri Sembilan,1/1/2022,both,indian,162.4,1371
+Negeri Sembilan,1/1/2023,both,bumi_malay,720,4555
+Negeri Sembilan,1/1/2023,both,chinese,246.7,2099
+Negeri Sembilan,1/1/2023,both,indian,162.9,1328
+Pahang,1/1/2000,both,bumi_malay,886.4,3689
+Pahang,1/1/2000,both,chinese,221.1,1154
+Pahang,1/1/2000,both,indian,61.9,273
+Pahang,1/1/2001,both,bumi_malay,903,3809
+Pahang,1/1/2001,both,chinese,222.5,1197
+Pahang,1/1/2001,both,indian,62.1,273
+Pahang,1/1/2002,both,bumi_malay,919.9,4267
+Pahang,1/1/2002,both,chinese,223.4,1245
+Pahang,1/1/2002,both,indian,62.3,331
+Pahang,1/1/2003,both,bumi_malay,937.1,4190
+Pahang,1/1/2003,both,chinese,224.3,1317
+Pahang,1/1/2003,both,indian,62.4,308
+Pahang,1/1/2004,both,bumi_malay,953.3,4286
+Pahang,1/1/2004,both,chinese,225,1166
+Pahang,1/1/2004,both,indian,62.5,336
+Pahang,1/1/2005,both,bumi_malay,969.9,4427
+Pahang,1/1/2005,both,chinese,225.8,1279
+Pahang,1/1/2005,both,indian,62.6,306
+Pahang,1/1/2006,both,bumi_malay,986.3,4603
+Pahang,1/1/2006,both,chinese,226.7,1259
+Pahang,1/1/2006,both,indian,62.7,288
+Pahang,1/1/2007,both,bumi_malay,1002.4,4696
+Pahang,1/1/2007,both,chinese,227.7,1203
+Pahang,1/1/2007,both,indian,62.8,322
+Pahang,1/1/2008,both,bumi_malay,1018.5,4935
+Pahang,1/1/2008,both,chinese,228.6,1302
+Pahang,1/1/2008,both,indian,62.9,307
+Pahang,1/1/2009,both,bumi_malay,1034.4,5191
+Pahang,1/1/2009,both,chinese,229.7,1315
+Pahang,1/1/2009,both,indian,63,336
+Pahang,1/1/2010,both,bumi_malay,1052.2,5480
+Pahang,1/1/2010,both,chinese,230.9,1304
+Pahang,1/1/2010,both,indian,63.1,350
+Pahang,1/1/2011,both,bumi_malay,1067.9,5552
+Pahang,1/1/2011,both,chinese,232.9,1351
+Pahang,1/1/2011,both,indian,64,338
+Pahang,1/1/2012,both,bumi_malay,1080.8,5475
+Pahang,1/1/2012,both,chinese,232.5,1356
+Pahang,1/1/2012,both,indian,64.4,353
+Pahang,1/1/2013,both,bumi_malay,1094.6,5654
+Pahang,1/1/2013,both,chinese,233.4,1491
+Pahang,1/1/2013,both,indian,64.3,383
+Pahang,1/1/2014,both,bumi_malay,1111.7,5875
+Pahang,1/1/2014,both,chinese,233,1424
+Pahang,1/1/2014,both,indian,64.7,396
+Pahang,1/1/2015,both,bumi_malay,1127,6037
+Pahang,1/1/2015,both,chinese,233.1,1430
+Pahang,1/1/2015,both,indian,64.5,376
+Pahang,1/1/2016,both,bumi_malay,1141.6,6315
+Pahang,1/1/2016,both,chinese,232.6,1545
+Pahang,1/1/2016,both,indian,64.9,398
+Pahang,1/1/2017,both,bumi_malay,1156.8,6580
+Pahang,1/1/2017,both,chinese,232.7,1638
+Pahang,1/1/2017,both,indian,65.3,426
+Pahang,1/1/2018,both,bumi_malay,1170.4,6585
+Pahang,1/1/2018,both,chinese,232.7,1590
+Pahang,1/1/2018,both,indian,66.5,407
+Pahang,1/1/2019,both,bumi_malay,1183.9,6503
+Pahang,1/1/2019,both,chinese,232.6,1628
+Pahang,1/1/2019,both,indian,67.7,407
+Pahang,1/1/2020,both,bumi_malay,1134.2,6114
+Pahang,1/1/2020,both,chinese,221.7,1638
+Pahang,1/1/2020,both,indian,55.9,360
+Pahang,1/1/2021,both,bumi_malay,1149.7,7293
+Pahang,1/1/2021,both,chinese,221.3,1859
+Pahang,1/1/2021,both,indian,55.8,507
+Pahang,1/1/2022,both,bumi_malay,1161.4,7872
+Pahang,1/1/2022,both,chinese,220.6,1939
+Pahang,1/1/2022,both,indian,55.8,465
+Pahang,1/1/2023,both,bumi_malay,1173.9,7467
+Pahang,1/1/2023,both,chinese,220,1888
+Pahang,1/1/2023,both,indian,55.8,415
+Perak,1/1/2000,both,bumi_malay,1069,6044
+Perak,1/1/2000,both,chinese,660.9,4842
+Perak,1/1/2000,both,indian,267.1,1655
+Perak,1/1/2001,both,bumi_malay,1090.5,6385
+Perak,1/1/2001,both,chinese,668.4,4858
+Perak,1/1/2001,both,indian,270,1685
+Perak,1/1/2002,both,bumi_malay,1109.6,6881
+Perak,1/1/2002,both,chinese,674,5031
+Perak,1/1/2002,both,indian,272.5,1782
+Perak,1/1/2003,both,bumi_malay,1127.4,7098
+Perak,1/1/2003,both,chinese,679.1,5019
+Perak,1/1/2003,both,indian,274.5,1797
+Perak,1/1/2004,both,bumi_malay,1145.4,6865
+Perak,1/1/2004,both,chinese,683.5,5115
+Perak,1/1/2004,both,indian,276.6,1761
+Perak,1/1/2005,both,bumi_malay,1163.5,6863
+Perak,1/1/2005,both,chinese,687.5,5060
+Perak,1/1/2005,both,indian,278.3,1739
+Perak,1/1/2006,both,bumi_malay,1181.2,7124
+Perak,1/1/2006,both,chinese,690.9,4939
+Perak,1/1/2006,both,indian,279.9,1737
+Perak,1/1/2007,both,bumi_malay,1198.3,7318
+Perak,1/1/2007,both,chinese,693.9,5208
+Perak,1/1/2007,both,indian,281.4,1754
+Perak,1/1/2008,both,bumi_malay,1214.3,7596
+Perak,1/1/2008,both,chinese,696.3,5262
+Perak,1/1/2008,both,indian,282.7,1907
+Perak,1/1/2009,both,bumi_malay,1230,7737
+Perak,1/1/2009,both,chinese,698.4,5346
+Perak,1/1/2009,both,indian,283.9,1929
+Perak,1/1/2010,both,bumi_malay,1247.3,7510
+Perak,1/1/2010,both,chinese,700.5,5237
+Perak,1/1/2010,both,indian,284.8,1994
+Perak,1/1/2011,both,bumi_malay,1264.4,7843
+Perak,1/1/2011,both,chinese,701.5,5519
+Perak,1/1/2011,both,indian,285.7,1959
+Perak,1/1/2012,both,bumi_malay,1277.3,8019
+Perak,1/1/2012,both,chinese,703.6,5634
+Perak,1/1/2012,both,indian,288.7,2041
+Perak,1/1/2013,both,bumi_malay,1282.6,8110
+Perak,1/1/2013,both,chinese,705,5459
+Perak,1/1/2013,both,indian,287.5,2153
+Perak,1/1/2014,both,bumi_malay,1295.9,8338
+Perak,1/1/2014,both,chinese,702.9,5799
+Perak,1/1/2014,both,indian,285,2121
+Perak,1/1/2015,both,bumi_malay,1301.4,8493
+Perak,1/1/2015,both,chinese,703.1,5895
+Perak,1/1/2015,both,indian,283,2103
+Perak,1/1/2016,both,bumi_malay,1315.8,8783
+Perak,1/1/2016,both,chinese,700.1,6116
+Perak,1/1/2016,both,indian,280.4,2203
+Perak,1/1/2017,both,bumi_malay,1327.9,8908
+Perak,1/1/2017,both,chinese,695.9,6305
+Perak,1/1/2017,both,indian,279.5,2147
+Perak,1/1/2018,both,bumi_malay,1338.5,9212
+Perak,1/1/2018,both,chinese,694.1,6484
+Perak,1/1/2018,both,indian,277.4,2273
+Perak,1/1/2019,both,bumi_malay,1350.3,9187
+Perak,1/1/2019,both,chinese,692.2,6499
+Perak,1/1/2019,both,indian,275.7,2367
+Perak,1/1/2020,both,bumi_malay,1364.8,8868
+Perak,1/1/2020,both,chinese,643.6,6286
+Perak,1/1/2020,both,indian,270.8,2203
+Perak,1/1/2021,both,bumi_malay,1385.7,10656
+Perak,1/1/2021,both,chinese,642.9,7119
+Perak,1/1/2021,both,indian,271.7,2697
+Perak,1/1/2022,both,bumi_malay,1396.8,11327
+Perak,1/1/2022,both,chinese,638.3,7507
+Perak,1/1/2022,both,indian,271.2,2763
+Perak,1/1/2023,both,bumi_malay,1409.1,10473
+Perak,1/1/2023,both,chinese,634.5,7048
+Perak,1/1/2023,both,indian,270.9,2605
+Perlis,1/1/2000,both,bumi_malay,174,1068
+Perlis,1/1/2000,both,chinese,21.2,163
+Perlis,1/1/2000,both,indian,2.7,23
+Perlis,1/1/2001,both,bumi_malay,176.6,1075
+Perlis,1/1/2001,both,chinese,20.9,194
+Perlis,1/1/2001,both,indian,2.8,17
+Perlis,1/1/2002,both,bumi_malay,179.2,1154
+Perlis,1/1/2002,both,chinese,20.7,159
+Perlis,1/1/2002,both,indian,2.8,12
+Perlis,1/1/2003,both,bumi_malay,181.8,1199
+Perlis,1/1/2003,both,chinese,20.5,160
+Perlis,1/1/2003,both,indian,2.8,20
+Perlis,1/1/2004,both,bumi_malay,184.5,1191
+Perlis,1/1/2004,both,chinese,20.2,166
+Perlis,1/1/2004,both,indian,2.8,18
+Perlis,1/1/2005,both,bumi_malay,187.1,1203
+Perlis,1/1/2005,both,chinese,20,176
+Perlis,1/1/2005,both,indian,2.8,15
+Perlis,1/1/2006,both,bumi_malay,189.7,1236
+Perlis,1/1/2006,both,chinese,19.7,149
+Perlis,1/1/2006,both,indian,2.9,28
+Perlis,1/1/2007,both,bumi_malay,192.3,1266
+Perlis,1/1/2007,both,chinese,19.5,163
+Perlis,1/1/2007,both,indian,2.9,18
+Perlis,1/1/2008,both,bumi_malay,195,1374
+Perlis,1/1/2008,both,chinese,19.2,170
+Perlis,1/1/2008,both,indian,2.9,24
+Perlis,1/1/2009,both,bumi_malay,198.1,1326
+Perlis,1/1/2009,both,chinese,19,168
+Perlis,1/1/2009,both,indian,2.9,23
+Perlis,1/1/2010,both,bumi_malay,201.7,1423
+Perlis,1/1/2010,both,chinese,18.8,174
+Perlis,1/1/2010,both,indian,3,22
+Perlis,1/1/2011,both,bumi_malay,202.7,1400
+Perlis,1/1/2011,both,chinese,18.9,148
+Perlis,1/1/2011,both,indian,3,18
+Perlis,1/1/2012,both,bumi_malay,204.4,1407
+Perlis,1/1/2012,both,chinese,18.9,164
+Perlis,1/1/2012,both,indian,3,17
+Perlis,1/1/2013,both,bumi_malay,206.9,1478
+Perlis,1/1/2013,both,chinese,19.1,180
+Perlis,1/1/2013,both,indian,3.1,26
+Perlis,1/1/2014,both,bumi_malay,208.6,1435
+Perlis,1/1/2014,both,chinese,19.1,146
+Perlis,1/1/2014,both,indian,3.1,19
+Perlis,1/1/2015,both,bumi_malay,212,1526
+Perlis,1/1/2015,both,chinese,19.2,153
+Perlis,1/1/2015,both,indian,3.1,26
+Perlis,1/1/2016,both,bumi_malay,214.3,1629
+Perlis,1/1/2016,both,chinese,19.2,174
+Perlis,1/1/2016,both,indian,3.1,30
+Perlis,1/1/2017,both,bumi_malay,215.4,1711
+Perlis,1/1/2017,both,chinese,18.9,187
+Perlis,1/1/2017,both,indian,3.1,36
+Perlis,1/1/2018,both,bumi_malay,217,1771
+Perlis,1/1/2018,both,chinese,18.9,182
+Perlis,1/1/2018,both,indian,3.1,18
+Perlis,1/1/2019,both,bumi_malay,217.7,1714
+Perlis,1/1/2019,both,chinese,18.9,185
+Perlis,1/1/2019,both,indian,3.1,29
+Perlis,1/1/2020,both,bumi_malay,245.4,1692
+Perlis,1/1/2020,both,chinese,20.5,178
+Perlis,1/1/2020,both,indian,5.1,31
+Perlis,1/1/2021,both,bumi_malay,247.8,1902
+Perlis,1/1/2021,both,chinese,20.4,237
+Perlis,1/1/2021,both,indian,5.1,26
+Perlis,1/1/2022,both,bumi_malay,249.4,2094
+Perlis,1/1/2022,both,chinese,20.2,234
+Perlis,1/1/2022,both,indian,5.1,30
+Perlis,1/1/2023,both,bumi_malay,250.9,1881
+Perlis,1/1/2023,both,chinese,20.1,212
+Perlis,1/1/2023,both,indian,5.1,28
+Penang,1/1/2000,both,bumi_malay,535,2462
+Penang,1/1/2000,both,chinese,600.7,3558
+Penang,1/1/2000,both,indian,137.4,843
+Penang,1/1/2001,both,bumi_malay,545.8,2472
+Penang,1/1/2001,both,chinese,610.1,3623
+Penang,1/1/2001,both,indian,139.9,875
+Penang,1/1/2002,both,bumi_malay,556.3,2693
+Penang,1/1/2002,both,chinese,618.1,3891
+Penang,1/1/2002,both,indian,142.2,942
+Penang,1/1/2003,both,bumi_malay,566.1,2676
+Penang,1/1/2003,both,chinese,625.7,3970
+Penang,1/1/2003,both,indian,144.3,955
+Penang,1/1/2004,both,bumi_malay,576,2665
+Penang,1/1/2004,both,chinese,632.8,3996
+Penang,1/1/2004,both,indian,146.4,944
+Penang,1/1/2005,both,bumi_malay,585.7,2719
+Penang,1/1/2005,both,chinese,639.7,4039
+Penang,1/1/2005,both,indian,148.3,921
+Penang,1/1/2006,both,bumi_malay,595.5,2753
+Penang,1/1/2006,both,chinese,646.4,3995
+Penang,1/1/2006,both,indian,150.1,983
+Penang,1/1/2007,both,bumi_malay,605.6,2848
+Penang,1/1/2007,both,chinese,652.9,4253
+Penang,1/1/2007,both,indian,151.8,1023
+Penang,1/1/2008,both,bumi_malay,615.7,3026
+Penang,1/1/2008,both,chinese,659.3,4248
+Penang,1/1/2008,both,indian,153.5,1006
+Penang,1/1/2009,both,bumi_malay,625.8,3027
+Penang,1/1/2009,both,chinese,665.3,4372
+Penang,1/1/2009,both,indian,155.2,1074
+Penang,1/1/2010,both,bumi_malay,636.2,3131
+Penang,1/1/2010,both,chinese,671.3,4564
+Penang,1/1/2010,both,indian,156.8,1156
+Penang,1/1/2011,both,bumi_malay,648.7,3132
+Penang,1/1/2011,both,chinese,674.9,4627
+Penang,1/1/2011,both,indian,159,1137
+Penang,1/1/2012,both,bumi_malay,661.3,3223
+Penang,1/1/2012,both,chinese,678.1,4555
+Penang,1/1/2012,both,indian,160.9,1164
+Penang,1/1/2013,both,bumi_malay,674.2,3341
+Penang,1/1/2013,both,chinese,681.3,4799
+Penang,1/1/2013,both,indian,161.5,1207
+Penang,1/1/2014,both,bumi_malay,687.6,3463
+Penang,1/1/2014,both,chinese,683.5,4791
+Penang,1/1/2014,both,indian,161.9,1262
+Penang,1/1/2015,both,bumi_malay,697.3,3642
+Penang,1/1/2015,both,chinese,685.8,5151
+Penang,1/1/2015,both,indian,164.3,1244
+Penang,1/1/2016,both,bumi_malay,707.1,3852
+Penang,1/1/2016,both,chinese,688.9,5341
+Penang,1/1/2016,both,indian,165.7,1325
+Penang,1/1/2017,both,bumi_malay,723.3,3967
+Penang,1/1/2017,both,chinese,694.2,5212
+Penang,1/1/2017,both,indian,166.1,1373
+Penang,1/1/2018,both,bumi_malay,739.4,4085
+Penang,1/1/2018,both,chinese,694.2,5501
+Penang,1/1/2018,both,indian,166.5,1442
+Penang,1/1/2019,both,bumi_malay,753.9,3949
+Penang,1/1/2019,both,chinese,694,5325
+Penang,1/1/2019,both,indian,166.8,1440
+Penang,1/1/2020,both,bumi_malay,707.9,3781
+Penang,1/1/2020,both,chinese,718.4,5334
+Penang,1/1/2020,both,indian,155.5,1405
+Penang,1/1/2021,both,bumi_malay,715.3,4986
+Penang,1/1/2021,both,chinese,718.2,6738
+Penang,1/1/2021,both,indian,155.5,1856
+Penang,1/1/2022,both,bumi_malay,721.4,4710
+Penang,1/1/2022,both,chinese,715.2,6313
+Penang,1/1/2022,both,indian,155.1,1678
+Penang,1/1/2023,both,bumi_malay,728.8,4337
+Penang,1/1/2023,both,chinese,713.2,6143
+Penang,1/1/2023,both,indian,155.1,1603
+Sabah,1/1/2000,both,bumi_malay,303.5,771
+Sabah,1/1/2000,both,chinese,479.9,980
+Sabah,1/1/2000,both,indian,9.7,15
+Sabah,1/1/2001,both,bumi_malay,296.1,968
+Sabah,1/1/2001,both,chinese,488.2,1096
+Sabah,1/1/2001,both,indian,9.7,18
+Sabah,1/1/2002,both,bumi_malay,288.2,1156
+Sabah,1/1/2002,both,chinese,496.1,1065
+Sabah,1/1/2002,both,indian,9.6,21
+Sabah,1/1/2003,both,bumi_malay,279.3,1101
+Sabah,1/1/2003,both,chinese,503.5,1162
+Sabah,1/1/2003,both,indian,9.6,21
+Sabah,1/1/2004,both,bumi_malay,270.7,1169
+Sabah,1/1/2004,both,chinese,511.1,1168
+Sabah,1/1/2004,both,indian,9.6,20
+Sabah,1/1/2005,both,bumi_malay,262.6,926
+Sabah,1/1/2005,both,chinese,519.2,1143
+Sabah,1/1/2005,both,indian,9.5,24
+Sabah,1/1/2006,both,bumi_malay,254.3,903
+Sabah,1/1/2006,both,chinese,527.9,1137
+Sabah,1/1/2006,both,indian,9.5,19
+Sabah,1/1/2007,both,bumi_malay,246.3,884
+Sabah,1/1/2007,both,chinese,537,1157
+Sabah,1/1/2007,both,indian,9.5,26
+Sabah,1/1/2008,both,bumi_malay,238.5,998
+Sabah,1/1/2008,both,chinese,546.8,1274
+Sabah,1/1/2008,both,indian,9.5,24
+Sabah,1/1/2009,both,bumi_malay,231.1,1077
+Sabah,1/1/2009,both,chinese,557.3,1223
+Sabah,1/1/2009,both,indian,9.5,24
+Sabah,1/1/2010,both,bumi_malay,224,1024
+Sabah,1/1/2010,both,chinese,295.7,1344
+Sabah,1/1/2010,both,indian,9.5,20
+Sabah,1/1/2011,both,bumi_malay,232.3,1114
+Sabah,1/1/2011,both,chinese,298.3,1335
+Sabah,1/1/2011,both,indian,10.4,28
+Sabah,1/1/2012,both,bumi_malay,240.6,1044
+Sabah,1/1/2012,both,chinese,299.9,1307
+Sabah,1/1/2012,both,indian,11.1,18
+Sabah,1/1/2013,both,bumi_malay,252.1,1154
+Sabah,1/1/2013,both,chinese,301.5,1310
+Sabah,1/1/2013,both,indian,12.2,37
+Sabah,1/1/2014,both,bumi_malay,262.5,1236
+Sabah,1/1/2014,both,chinese,303.6,1692
+Sabah,1/1/2014,both,indian,12.2,61
+Sabah,1/1/2015,both,bumi_malay,273.3,1269
+Sabah,1/1/2015,both,chinese,303.5,1737
+Sabah,1/1/2015,both,indian,12.2,63
+Sabah,1/1/2016,both,bumi_malay,281.5,1749
+Sabah,1/1/2016,both,chinese,307,1901
+Sabah,1/1/2016,both,indian,12.3,44
+Sabah,1/1/2017,both,bumi_malay,288.3,1830
+Sabah,1/1/2017,both,chinese,307,1963
+Sabah,1/1/2017,both,indian,13.1,48
+Sabah,1/1/2018,both,bumi_malay,295.3,1972
+Sabah,1/1/2018,both,chinese,306.9,2142
+Sabah,1/1/2018,both,indian,13.2,46
+Sabah,1/1/2019,both,bumi_malay,302.7,2086
+Sabah,1/1/2019,both,chinese,307.2,2239
+Sabah,1/1/2019,both,indian,13.3,51
+Sabah,1/1/2020,both,bumi_malay,236.9,1980
+Sabah,1/1/2020,both,chinese,248.9,2290
+Sabah,1/1/2020,both,indian,6,39
+Sabah,1/1/2021,both,bumi_malay,312.2,2618
+Sabah,1/1/2021,both,chinese,248,2712
+Sabah,1/1/2021,both,indian,5.9,47
+Sabah,1/1/2022,both,bumi_malay,316.1,2381
+Sabah,1/1/2022,both,chinese,246.1,2665
+Sabah,1/1/2022,both,indian,5.9,49
+Sabah,1/1/2023,both,bumi_malay,321.7,2328
+Sabah,1/1/2023,both,chinese,244.8,2458
+Sabah,1/1/2023,both,indian,5.9,48
+Sarawak,1/1/2000,both,bumi_malay,462.3,1742
+Sarawak,1/1/2000,both,chinese,603.7,2186
+Sarawak,1/1/2000,both,indian,166.8,22
+Sarawak,1/1/2001,both,bumi_malay,472.6,1768
+Sarawak,1/1/2001,both,chinese,614.4,2212
+Sarawak,1/1/2001,both,indian,170.5,14
+Sarawak,1/1/2002,both,bumi_malay,483.2,1846
+Sarawak,1/1/2002,both,chinese,625.2,2255
+Sarawak,1/1/2002,both,indian,174,23
+Sarawak,1/1/2003,both,bumi_malay,493,1909
+Sarawak,1/1/2003,both,chinese,635.9,2334
+Sarawak,1/1/2003,both,indian,177.2,28
+Sarawak,1/1/2004,both,bumi_malay,503.2,2004
+Sarawak,1/1/2004,both,chinese,647.1,2431
+Sarawak,1/1/2004,both,indian,180.5,26
+Sarawak,1/1/2005,both,bumi_malay,513.9,1828
+Sarawak,1/1/2005,both,chinese,658.6,2447
+Sarawak,1/1/2005,both,indian,183.7,21
+Sarawak,1/1/2006,both,bumi_malay,524.9,1997
+Sarawak,1/1/2006,both,chinese,670.3,2454
+Sarawak,1/1/2006,both,indian,187,19
+Sarawak,1/1/2007,both,bumi_malay,536.1,1936
+Sarawak,1/1/2007,both,chinese,680.8,2603
+Sarawak,1/1/2007,both,indian,190.2,16
+Sarawak,1/1/2008,both,bumi_malay,547.3,2058
+Sarawak,1/1/2008,both,chinese,692.8,2633
+Sarawak,1/1/2008,both,indian,193.3,18
+Sarawak,1/1/2009,both,bumi_malay,558.2,2268
+Sarawak,1/1/2009,both,chinese,705.9,2798
+Sarawak,1/1/2009,both,indian,196.2,26
+Sarawak,1/1/2010,both,bumi_malay,568.8,2046
+Sarawak,1/1/2010,both,chinese,584.1,2795
+Sarawak,1/1/2010,both,indian,7.4,15
+Sarawak,1/1/2011,both,bumi_malay,578.4,2278
+Sarawak,1/1/2011,both,chinese,589.3,2777
+Sarawak,1/1/2011,both,indian,7.2,30
+Sarawak,1/1/2012,both,bumi_malay,590.3,2284
+Sarawak,1/1/2012,both,chinese,595.9,2896
+Sarawak,1/1/2012,both,indian,7.2,32
+Sarawak,1/1/2013,both,bumi_malay,598.9,2249
+Sarawak,1/1/2013,both,chinese,602.4,2911
+Sarawak,1/1/2013,both,indian,7.3,22
+Sarawak,1/1/2014,both,bumi_malay,607.8,2379
+Sarawak,1/1/2014,both,chinese,606.7,3160
+Sarawak,1/1/2014,both,indian,7.4,29
+Sarawak,1/1/2015,both,bumi_malay,616.6,2498
+Sarawak,1/1/2015,both,chinese,611.7,3155
+Sarawak,1/1/2015,both,indian,7.5,16
+Sarawak,1/1/2016,both,bumi_malay,624.7,2553
+Sarawak,1/1/2016,both,chinese,615.8,3221
+Sarawak,1/1/2016,both,indian,7.5,26
+Sarawak,1/1/2017,both,bumi_malay,633,2571
+Sarawak,1/1/2017,both,chinese,619.2,3420
+Sarawak,1/1/2017,both,indian,7.6,29
+Sarawak,1/1/2018,both,bumi_malay,640.3,2780
+Sarawak,1/1/2018,both,chinese,622,3573
+Sarawak,1/1/2018,both,indian,7.7,27
+Sarawak,1/1/2019,both,bumi_malay,647.7,2797
+Sarawak,1/1/2019,both,chinese,625,3609
+Sarawak,1/1/2019,both,indian,7.7,39
+Sarawak,1/1/2020,both,bumi_malay,575.4,2838
+Sarawak,1/1/2020,both,chinese,554.6,3725
+Sarawak,1/1/2020,both,indian,5.1,24
+Sarawak,1/1/2021,both,bumi_malay,585.3,3451
+Sarawak,1/1/2021,both,chinese,556.2,4480
+Sarawak,1/1/2021,both,indian,5,26
+Sarawak,1/1/2022,both,bumi_malay,591,3325
+Sarawak,1/1/2022,both,chinese,555.8,4301
+Sarawak,1/1/2022,both,indian,5,39
+Sarawak,1/1/2023,both,bumi_malay,597.6,3288
+Sarawak,1/1/2023,both,chinese,556.6,4199
+Sarawak,1/1/2023,both,indian,5,34
+Selangor,1/1/2000,both,bumi_malay,2087.2,5383
+Selangor,1/1/2000,both,chinese,1230.3,4069
+Selangor,1/1/2000,both,indian,585.4,2397
+Selangor,1/1/2001,both,bumi_malay,2150.7,5747
+Selangor,1/1/2001,both,chinese,1254.8,4260
+Selangor,1/1/2001,both,indian,595.7,2465
+Selangor,1/1/2002,both,bumi_malay,2217.5,6115
+Selangor,1/1/2002,both,chinese,1277.1,4348
+Selangor,1/1/2002,both,indian,605.6,2550
+Selangor,1/1/2003,both,bumi_malay,2287.4,6280
+Selangor,1/1/2003,both,chinese,1299.9,4418
+Selangor,1/1/2003,both,indian,615.4,2643
+Selangor,1/1/2004,both,bumi_malay,2361.6,6410
+Selangor,1/1/2004,both,chinese,1322.2,4677
+Selangor,1/1/2004,both,indian,625.5,2595
+Selangor,1/1/2005,both,bumi_malay,2437.8,6817
+Selangor,1/1/2005,both,chinese,1344.4,4790
+Selangor,1/1/2005,both,indian,635.2,2789
+Selangor,1/1/2006,both,bumi_malay,2515.3,6806
+Selangor,1/1/2006,both,chinese,1366.1,5040
+Selangor,1/1/2006,both,indian,644.7,2824
+Selangor,1/1/2007,both,bumi_malay,2597.7,7070
+Selangor,1/1/2007,both,chinese,1387.5,5000
+Selangor,1/1/2007,both,indian,654.3,2847
+Selangor,1/1/2008,both,bumi_malay,2681.6,7978
+Selangor,1/1/2008,both,chinese,1408.7,5343
+Selangor,1/1/2008,both,indian,663.4,3186
+Selangor,1/1/2009,both,bumi_malay,2774.6,8407
+Selangor,1/1/2009,both,chinese,1429.6,5515
+Selangor,1/1/2009,both,indian,672.2,3281
+Selangor,1/1/2010,both,bumi_malay,2817.3,8277
+Selangor,1/1/2010,both,chinese,1449.6,5809
+Selangor,1/1/2010,both,indian,680.7,3340
+Selangor,1/1/2011,both,bumi_malay,2869.2,8674
+Selangor,1/1/2011,both,chinese,1460.9,5975
+Selangor,1/1/2011,both,indian,685.9,3452
+Selangor,1/1/2012,both,bumi_malay,2937.1,9286
+Selangor,1/1/2012,both,chinese,1475.8,6684
+Selangor,1/1/2012,both,indian,692.6,3748
+Selangor,1/1/2013,both,bumi_malay,3014,9712
+Selangor,1/1/2013,both,chinese,1496.4,6741
+Selangor,1/1/2013,both,indian,702.2,3930
+Selangor,1/1/2014,both,bumi_malay,3090.9,10249
+Selangor,1/1/2014,both,chinese,1513.8,7148
+Selangor,1/1/2014,both,indian,711.2,4019
+Selangor,1/1/2015,both,bumi_malay,3169,11010
+Selangor,1/1/2015,both,chinese,1531.7,7504
+Selangor,1/1/2015,both,indian,715.5,4008
+Selangor,1/1/2016,both,bumi_malay,3240.5,11715
+Selangor,1/1/2016,both,chinese,1544,7969
+Selangor,1/1/2016,both,indian,719.6,4408
+Selangor,1/1/2017,both,bumi_malay,3301.5,12328
+Selangor,1/1/2017,both,chinese,1553.4,8457
+Selangor,1/1/2017,both,indian,724,4474
+Selangor,1/1/2018,both,bumi_malay,3369.9,12785
+Selangor,1/1/2018,both,chinese,1560.3,8458
+Selangor,1/1/2018,both,indian,727.8,4683
+Selangor,1/1/2019,both,bumi_malay,3436.3,12897
+Selangor,1/1/2019,both,chinese,1567.1,8655
+Selangor,1/1/2019,both,indian,731,4743
+Selangor,1/1/2020,both,bumi_malay,3806.2,11653
+Selangor,1/1/2020,both,chinese,1756.2,8231
+Selangor,1/1/2020,both,indian,726,4173
+Selangor,1/1/2021,both,bumi_malay,3865.7,19118
+Selangor,1/1/2021,both,chinese,1759,11845
+Selangor,1/1/2021,both,indian,728.2,6955
+Selangor,1/1/2022,both,bumi_malay,3907.9,15357
+Selangor,1/1/2022,both,chinese,1757.8,10318
+Selangor,1/1/2022,both,indian,727.6,5517
+Selangor,1/1/2023,both,bumi_malay,3956.8,15138
+Selangor,1/1/2023,both,chinese,1758.7,10281
+Selangor,1/1/2023,both,indian,729.1,5428
+Terengganu,1/1/2000,both,bumi_malay,853.6,4349
+Terengganu,1/1/2000,both,chinese,25,177
+Terengganu,1/1/2000,both,indian,1.9,13
+Terengganu,1/1/2001,both,bumi_malay,870.1,4661
+Terengganu,1/1/2001,both,chinese,25.2,160
+Terengganu,1/1/2001,both,indian,2,14
+Terengganu,1/1/2002,both,bumi_malay,885.9,4832
+Terengganu,1/1/2002,both,chinese,25.4,153
+Terengganu,1/1/2002,both,indian,2.1,14
+Terengganu,1/1/2003,both,bumi_malay,900.1,5118
+Terengganu,1/1/2003,both,chinese,25.6,173
+Terengganu,1/1/2003,both,indian,2.1,16
+Terengganu,1/1/2004,both,bumi_malay,914.5,5009
+Terengganu,1/1/2004,both,chinese,25.8,174
+Terengganu,1/1/2004,both,indian,2.2,16
+Terengganu,1/1/2005,both,bumi_malay,928.6,5128
+Terengganu,1/1/2005,both,chinese,26,181
+Terengganu,1/1/2005,both,indian,2.3,13
+Terengganu,1/1/2006,both,bumi_malay,942.3,5157
+Terengganu,1/1/2006,both,chinese,26.1,181
+Terengganu,1/1/2006,both,indian,2.4,16
+Terengganu,1/1/2007,both,bumi_malay,956.1,5342
+Terengganu,1/1/2007,both,chinese,26.3,153
+Terengganu,1/1/2007,both,indian,2.4,8
+Terengganu,1/1/2008,both,bumi_malay,970.2,5511
+Terengganu,1/1/2008,both,chinese,26.4,196
+Terengganu,1/1/2008,both,indian,2.5,19
+Terengganu,1/1/2009,both,bumi_malay,985,5736
+Terengganu,1/1/2009,both,chinese,26.6,171
+Terengganu,1/1/2009,both,indian,2.6,16
+Terengganu,1/1/2010,both,bumi_malay,999.7,5593
+Terengganu,1/1/2010,both,chinese,26.7,193
+Terengganu,1/1/2010,both,indian,2.6,18
+Terengganu,1/1/2011,both,bumi_malay,1019.5,5940
+Terengganu,1/1/2011,both,chinese,26.9,200
+Terengganu,1/1/2011,both,indian,2.8,15
+Terengganu,1/1/2012,both,bumi_malay,1035.1,5903
+Terengganu,1/1/2012,both,chinese,26.6,197
+Terengganu,1/1/2012,both,indian,2.7,16
+Terengganu,1/1/2013,both,bumi_malay,1053.3,6163
+Terengganu,1/1/2013,both,chinese,27.2,183
+Terengganu,1/1/2013,both,indian,2.7,14
+Terengganu,1/1/2014,both,bumi_malay,1073.1,6207
+Terengganu,1/1/2014,both,chinese,27.8,190
+Terengganu,1/1/2014,both,indian,2.7,14
+Terengganu,1/1/2015,both,bumi_malay,1092.5,6458
+Terengganu,1/1/2015,both,chinese,27.7,192
+Terengganu,1/1/2015,both,indian,2.7,10
+Terengganu,1/1/2016,both,bumi_malay,1113.1,6559
+Terengganu,1/1/2016,both,chinese,28.3,195
+Terengganu,1/1/2016,both,indian,2.4,15
+Terengganu,1/1/2017,both,bumi_malay,1135.6,6766
+Terengganu,1/1/2017,both,chinese,28.4,205
+Terengganu,1/1/2017,both,indian,2.5,15
+Terengganu,1/1/2018,both,bumi_malay,1154.6,6833
+Terengganu,1/1/2018,both,chinese,28.5,180
+Terengganu,1/1/2018,both,indian,2.5,16
+Terengganu,1/1/2019,both,bumi_malay,1174.3,7044
+Terengganu,1/1/2019,both,chinese,28.5,237
+Terengganu,1/1/2019,both,indian,2.5,10
+Terengganu,1/1/2020,both,bumi_malay,1090.4,6472
+Terengganu,1/1/2020,both,chinese,23.2,191
+Terengganu,1/1/2020,both,indian,2.1,14
+Terengganu,1/1/2021,both,bumi_malay,1111.2,8138
+Terengganu,1/1/2021,both,chinese,23,228
+Terengganu,1/1/2021,both,indian,2.1,19
+Terengganu,1/1/2022,both,bumi_malay,1127.4,8346
+Terengganu,1/1/2022,both,chinese,22.9,241
+Terengganu,1/1/2022,both,indian,2.1,21
+Terengganu,1/1/2023,both,bumi_malay,1145.1,7527
+Terengganu,1/1/2023,both,chinese,22.8,232
+Terengganu,1/1/2023,both,indian,2.1,22
+Kuala Lumpur,1/1/2000,both,bumi_malay,560.7,1509
+Kuala Lumpur,1/1/2000,both,chinese,576.6,2772
+Kuala Lumpur,1/1/2000,both,indian,149.6,787
+Kuala Lumpur,1/1/2001,both,bumi_malay,574.4,1594
+Kuala Lumpur,1/1/2001,both,chinese,586,2952
+Kuala Lumpur,1/1/2001,both,indian,150.8,797
+Kuala Lumpur,1/1/2002,both,bumi_malay,587.6,1801
+Kuala Lumpur,1/1/2002,both,chinese,594,2988
+Kuala Lumpur,1/1/2002,both,indian,152,831
+Kuala Lumpur,1/1/2003,both,bumi_malay,599.7,1583
+Kuala Lumpur,1/1/2003,both,chinese,602,3126
+Kuala Lumpur,1/1/2003,both,indian,153,752
+Kuala Lumpur,1/1/2004,both,bumi_malay,611.7,1628
+Kuala Lumpur,1/1/2004,both,chinese,609.6,2937
+Kuala Lumpur,1/1/2004,both,indian,153.9,781
+Kuala Lumpur,1/1/2005,both,bumi_malay,623.4,1540
+Kuala Lumpur,1/1/2005,both,chinese,617.4,2932
+Kuala Lumpur,1/1/2005,both,indian,154.8,752
+Kuala Lumpur,1/1/2006,both,bumi_malay,635.4,1739
+Kuala Lumpur,1/1/2006,both,chinese,625.3,2882
+Kuala Lumpur,1/1/2006,both,indian,155.5,767
+Kuala Lumpur,1/1/2007,both,bumi_malay,647.7,1787
+Kuala Lumpur,1/1/2007,both,chinese,633.2,3003
+Kuala Lumpur,1/1/2007,both,indian,156.3,776
+Kuala Lumpur,1/1/2008,both,bumi_malay,660,1844
+Kuala Lumpur,1/1/2008,both,chinese,641.2,3077
+Kuala Lumpur,1/1/2008,both,indian,156.9,811
+Kuala Lumpur,1/1/2009,both,bumi_malay,672,1909
+Kuala Lumpur,1/1/2009,both,chinese,648.8,3237
+Kuala Lumpur,1/1/2009,both,indian,157.5,908
+Kuala Lumpur,1/1/2010,both,bumi_malay,685.7,1903
+Kuala Lumpur,1/1/2010,both,chinese,656.9,3222
+Kuala Lumpur,1/1/2010,both,indian,157.9,891
+Kuala Lumpur,1/1/2011,both,bumi_malay,692.4,2144
+Kuala Lumpur,1/1/2011,both,chinese,659.8,3451
+Kuala Lumpur,1/1/2011,both,indian,159.3,876
+Kuala Lumpur,1/1/2012,both,bumi_malay,689.5,2230
+Kuala Lumpur,1/1/2012,both,chinese,663.5,3282
+Kuala Lumpur,1/1/2012,both,indian,157.2,992
+Kuala Lumpur,1/1/2013,both,bumi_malay,691.1,2361
+Kuala Lumpur,1/1/2013,both,chinese,661,3412
+Kuala Lumpur,1/1/2013,both,indian,155.1,985
+Kuala Lumpur,1/1/2014,both,bumi_malay,692.9,2518
+Kuala Lumpur,1/1/2014,both,chinese,658.4,3688
+Kuala Lumpur,1/1/2014,both,indian,153.8,992
+Kuala Lumpur,1/1/2015,both,bumi_malay,695.6,2456
+Kuala Lumpur,1/1/2015,both,chinese,657,3704
+Kuala Lumpur,1/1/2015,both,indian,153.5,1001
+Kuala Lumpur,1/1/2016,both,bumi_malay,700.8,2741
+Kuala Lumpur,1/1/2016,both,chinese,654.9,3855
+Kuala Lumpur,1/1/2016,both,indian,151.7,1032
+Kuala Lumpur,1/1/2017,both,bumi_malay,702.2,2695
+Kuala Lumpur,1/1/2017,both,chinese,654.5,3922
+Kuala Lumpur,1/1/2017,both,indian,151.3,1096
+Kuala Lumpur,1/1/2018,both,bumi_malay,698.8,2858
+Kuala Lumpur,1/1/2018,both,chinese,654.2,4009
+Kuala Lumpur,1/1/2018,both,indian,151.4,1121
+Kuala Lumpur,1/1/2019,both,bumi_malay,698.5,3025
+Kuala Lumpur,1/1/2019,both,chinese,654.9,4209
+Kuala Lumpur,1/1/2019,both,indian,151.8,1146
+Kuala Lumpur,1/1/2020,both,bumi_malay,824.6,2842
+Kuala Lumpur,1/1/2020,both,chinese,737.2,4055
+Kuala Lumpur,1/1/2020,both,indian,178.1,1038
+Kuala Lumpur,1/1/2021,both,bumi_malay,829.7,4514
+Kuala Lumpur,1/1/2021,both,chinese,732.4,5792
+Kuala Lumpur,1/1/2021,both,indian,177.5,1663
+Kuala Lumpur,1/1/2022,both,bumi_malay,837.2,3304
+Kuala Lumpur,1/1/2022,both,chinese,730.7,4759
+Kuala Lumpur,1/1/2022,both,indian,177,1370
+Kuala Lumpur,1/1/2023,both,bumi_malay,846.4,3225
+Kuala Lumpur,1/1/2023,both,chinese,730.5,4483
+Kuala Lumpur,1/1/2023,both,indian,177,1355
+Labuan,1/1/2000,both,bumi_malay,29,70
+Labuan,1/1/2000,both,chinese,4.9,44
+Labuan,1/1/2000,both,indian,0.9,0
+Labuan,1/1/2001,both,bumi_malay,28.8,66
+Labuan,1/1/2001,both,chinese,5.1,32
+Labuan,1/1/2001,both,indian,0.8,2
+Labuan,1/1/2002,both,bumi_malay,28.5,85
+Labuan,1/1/2002,both,chinese,5.4,52
+Labuan,1/1/2002,both,indian,0.8,4
+Labuan,1/1/2003,both,bumi_malay,28.3,87
+Labuan,1/1/2003,both,chinese,5.6,57
+Labuan,1/1/2003,both,indian,0.8,2
+Labuan,1/1/2004,both,bumi_malay,28.2,103
+Labuan,1/1/2004,both,chinese,5.9,48
+Labuan,1/1/2004,both,indian,0.8,2
+Labuan,1/1/2005,both,bumi_malay,28.2,90
+Labuan,1/1/2005,both,chinese,6.1,41
+Labuan,1/1/2005,both,indian,0.8,7
+Labuan,1/1/2006,both,bumi_malay,28.3,103
+Labuan,1/1/2006,both,chinese,6.4,44
+Labuan,1/1/2006,both,indian,0.8,3
+Labuan,1/1/2007,both,bumi_malay,28.5,81
+Labuan,1/1/2007,both,chinese,6.6,44
+Labuan,1/1/2007,both,indian,0.8,1
+Labuan,1/1/2008,both,bumi_malay,28.8,120
+Labuan,1/1/2008,both,chinese,6.9,36
+Labuan,1/1/2008,both,indian,0.7,3
+Labuan,1/1/2009,both,bumi_malay,29.4,97
+Labuan,1/1/2009,both,chinese,7.1,52
+Labuan,1/1/2009,both,indian,0.7,3
+Labuan,1/1/2010,both,bumi_malay,30.6,100
+Labuan,1/1/2010,both,chinese,10.1,45
+Labuan,1/1/2010,both,indian,0.7,4
+Labuan,1/1/2011,both,bumi_malay,31.1,82
+Labuan,1/1/2011,both,chinese,10.1,45
+Labuan,1/1/2011,both,indian,0.7,5
+Labuan,1/1/2012,both,bumi_malay,31.7,87
+Labuan,1/1/2012,both,chinese,9.5,60
+Labuan,1/1/2012,both,indian,0.7,6
+Labuan,1/1/2013,both,bumi_malay,32.5,107
+Labuan,1/1/2013,both,chinese,9.5,48
+Labuan,1/1/2013,both,indian,0.7,3
+Labuan,1/1/2014,both,bumi_malay,32.9,96
+Labuan,1/1/2014,both,chinese,9.5,62
+Labuan,1/1/2014,both,indian,0.7,0
+Labuan,1/1/2015,both,bumi_malay,33.1,103
+Labuan,1/1/2015,both,chinese,9.5,45
+Labuan,1/1/2015,both,indian,0.7,3
+Labuan,1/1/2016,both,bumi_malay,33.2,107
+Labuan,1/1/2016,both,chinese,9.5,50
+Labuan,1/1/2016,both,indian,0.7,3
+Labuan,1/1/2017,both,bumi_malay,32.9,84
+Labuan,1/1/2017,both,chinese,9.5,59
+Labuan,1/1/2017,both,indian,0.8,3
+Labuan,1/1/2018,both,bumi_malay,33.6,110
+Labuan,1/1/2018,both,chinese,9.6,66
+Labuan,1/1/2018,both,indian,0.8,4
+Labuan,1/1/2019,both,bumi_malay,34.3,96
+Labuan,1/1/2019,both,chinese,9.6,63
+Labuan,1/1/2019,both,indian,0.8,2
+Labuan,1/1/2020,both,bumi_malay,23.6,113
+Labuan,1/1/2020,both,chinese,9.8,72
+Labuan,1/1/2020,both,indian,0.9,4
+Labuan,1/1/2021,both,bumi_malay,34.6,199
+Labuan,1/1/2021,both,chinese,9.8,93
+Labuan,1/1/2021,both,indian,0.9,5
+Labuan,1/1/2022,both,bumi_malay,34.9,149
+Labuan,1/1/2022,both,chinese,9.7,79
+Labuan,1/1/2022,both,indian,0.9,5
+Labuan,1/1/2023,both,bumi_malay,24.8,126
+Labuan,1/1/2023,both,chinese,9.7,75
+Labuan,1/1/2023,both,indian,0.9,2
+Putrajaya,1/1/2010,both,bumi_malay,69.3,88
+Putrajaya,1/1/2010,both,chinese,0.5,2
+Putrajaya,1/1/2010,both,indian,0.9,4
+Putrajaya,1/1/2011,both,bumi_malay,73,103
+Putrajaya,1/1/2011,both,chinese,0.5,3
+Putrajaya,1/1/2011,both,indian,0.9,4
+Putrajaya,1/1/2012,both,bumi_malay,73.9,138
+Putrajaya,1/1/2012,both,chinese,0.5,1
+Putrajaya,1/1/2012,both,indian,0.9,2
+Putrajaya,1/1/2013,both,bumi_malay,74.6,149
+Putrajaya,1/1/2013,both,chinese,0.5,6
+Putrajaya,1/1/2013,both,indian,1,5
+Putrajaya,1/1/2014,both,bumi_malay,75.5,184
+Putrajaya,1/1/2014,both,chinese,0.5,6
+Putrajaya,1/1/2014,both,indian,1.1,3
+Putrajaya,1/1/2015,both,bumi_malay,77.4,180
+Putrajaya,1/1/2015,both,chinese,0.5,4
+Putrajaya,1/1/2015,both,indian,1.1,4
+Putrajaya,1/1/2016,both,bumi_malay,78.4,151
+Putrajaya,1/1/2016,both,chinese,0.5,3
+Putrajaya,1/1/2016,both,indian,1.1,5
+Putrajaya,1/1/2017,both,bumi_malay,81.3,212
+Putrajaya,1/1/2017,both,chinese,0.5,2
+Putrajaya,1/1/2017,both,indian,1.2,7
+Putrajaya,1/1/2018,both,bumi_malay,89.3,207
+Putrajaya,1/1/2018,both,chinese,1.5,2
+Putrajaya,1/1/2018,both,indian,1.5,5
+Putrajaya,1/1/2019,both,bumi_malay,94.9,197
+Putrajaya,1/1/2019,both,chinese,2.1,2
+Putrajaya,1/1/2019,both,indian,1.7,5
+Putrajaya,1/1/2020,both,bumi_malay,101.8,198
+Putrajaya,1/1/2020,both,chinese,0.7,4
+Putrajaya,1/1/2020,both,indian,1.3,4
+Putrajaya,1/1/2021,both,bumi_malay,107.1,246
+Putrajaya,1/1/2021,both,chinese,0.6,4
+Putrajaya,1/1/2021,both,indian,1.3,11
+Putrajaya,1/1/2022,both,bumi_malay,108.7,230
+Putrajaya,1/1/2022,both,chinese,0.6,4
+Putrajaya,1/1/2022,both,indian,1.4,9
+Putrajaya,1/1/2023,both,bumi_malay,110.2,265
+Putrajaya,1/1/2023,both,chinese,0.6,7
+Putrajaya,1/1/2023,both,indian,1.4,6
